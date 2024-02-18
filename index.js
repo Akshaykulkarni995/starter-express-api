@@ -1,9 +1,22 @@
 const express = require('express')
 const app = express()
+const cors = require("cors")
+app.use(express.json());
+app.use(cors())
+const bodyParser = require('body-parser')
+app.use(bodyParser.json());
+
+
+
+const GetPatientReq = require("./src/patient-landing-page/getpatientreq.json")
+const GetPatientRes = require("./src/patient-landing-page/getpatientres.json")
+
+
 app.all('/', (req, res) => {
-    console.log("Just got a request!")
-    res.send('Yo!')
+  console.log("Just got a request!")
+  res.send('Yo!')
 })
+
 //showing demo records
 app.get('/demo', (req, res) => {
     res.json([
@@ -24,4 +37,10 @@ app.get('/demo', (req, res) => {
       },
     ]);
   });
-app.listen(process.env.PORT || 3000)
+
+app.post("/Patient/GetPatientsList",(req,res)=>{
+  const { GetPatientReq } = req.body;
+  res.json(GetPatientRes)
+})
+
+app.listen(process.env.PORT || 8000)

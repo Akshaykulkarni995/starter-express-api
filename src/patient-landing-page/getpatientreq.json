@@ -1,0 +1,12 @@
+{
+    "pageIndex": 1,
+    "pageSize": 50,
+    "sortOptions": [
+        {
+            "column": "Name",
+            "descending": false
+        }
+    ],
+    "filterOptions": null,
+    "accessFilter": "Active"
+}
