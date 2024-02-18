@@ -1,22 +1,25 @@
 {
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  },
   "name": "starter-express-api",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cyclic-software/starter-express-api.git"
+    "url": "git+https://github.com/Akshaykulkarni995/starter-express-api.git"
   },
-  "author": "",
+  "keywords": [],
+  "author": "Test",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/cyclic-software/starter-express-api/issues"
+    "url": "https://github.com/Akshaykulkarni995/starter-express-api/issues"
   },
-  "homepage": "https://github.com/cyclic-software/starter-express-api#readme",
-  "dependencies": {
-    "express": "^4.18.2"
-  }
+  "homepage": "https://github.com/Akshaykulkarni995/starter-express-api#readme",
+  "description": ""
 }
