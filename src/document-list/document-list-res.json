@@ -1,0 +1,26 @@
+{
+    "rowData": [
+        {
+            "ObjectId": 98470,
+            "SortOrder": null,
+            "ObjectType": "Patient",
+            "DocumentDesc": "Patient 98470 - none",
+            "Description": "a2343",
+            "LimsUse": null,
+            "ReportSeq": "486228",
+            "DocumentType": "document",
+            "ReportType": "none",
+            "DocumentURL": "2024_01_E_98470_218429.docx",
+            "AttachedId": "98470",
+            "ReportDate": "2024-01-03T17:15:24.000000Z",
+            "ReportStatus": "Unread",
+            "HasAccess": true,
+            "HasTaskAccess": false
+        }
+    ],
+    "pageIndex": "1",
+    "pageSize": "100",
+    "totalRows": "1",
+    "Success": true,
+    "UnmetExpectations": []
+}
