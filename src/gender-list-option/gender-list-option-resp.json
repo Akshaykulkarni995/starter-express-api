@@ -1,0 +1,19 @@
+{
+    "options": [
+        {
+            "id": "F",
+            "text": "Female (F)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "M",
+            "text": "Male (M)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "NS",
+            "text": "Not Specified (NS)",
+            "isCustomChoice": false
+        }
+    ]
+}

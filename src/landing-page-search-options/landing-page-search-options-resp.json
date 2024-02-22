@@ -1,0 +1,2059 @@
+[
+    {
+        "text": "Patients Criteria",
+        "children": [
+            {
+                "text": "Address",
+                "id": "MailingAddress",
+                "maxLength": 180,
+                "secondaryControlType": "text",
+                "ghostText": "searches mailing address",
+                "showOnlyDescription": false,
+                "operators": [
+                    {
+                        "text": "contains",
+                        "id": "contains"
+                    },
+                    {
+                        "text": "does not contain",
+                        "id": "doesnotcontain"
+                    },
+                    {
+                        "text": "equals",
+                        "id": "eq"
+                    },
+                    {
+                        "text": "starts with",
+                        "id": "startswith"
+                    },
+                    {
+                        "text": "is empty",
+                        "id": "nl"
+                    },
+                    {
+                        "text": "contains one of",
+                        "id": "ct*"
+                    },
+                    {
+                        "text": "equals one of",
+                        "id": "eq*"
+                    }
+                ]
+            },
+            {
+                "text": "Birth Sex",
+                "id": "Gender",
+                "maxLength": 6,
+                "secondaryControlType": "select2",
+                "listType": "choiceList",
+                "listCodeType": "GENDER",
+                "showOnlyDescription": false,
+                "operators": [
+                    {
+                        "text": "equals",
+                        "id": "eq"
+                    },
+                    {
+                        "text": "equals one of",
+                        "id": "eq*"
+                    },
+                    {
+                        "text": "is empty",
+                        "id": "nl"
+                    },
+                    {
+                        "text": "contains",
+                        "id": "contains"
+                    },
+                    {
+                        "text": "does not contain",
+                        "id": "doesnotcontain"
+                    },
+                    {
+                        "text": "contains one of",
+                        "id": "ct*"
+                    }
+                ]
+            },
+            {
+                "text": "Client",
+                "id": "Client",
+                "maxLength": 60,
+                "secondaryControlType": "text",
+                "ghostText": "searches client ID, client name",
+                "showOnlyDescription": false,
+                "operators": [
+                    {
+                        "text": "contains",
+                        "id": "contains"
+                    },
+                    {
+                        "text": "does not contain",
+                        "id": "doesnotcontain"
+                    },
+                    {
+                        "text": "equals",
+                        "id": "eq"
+                    },
+                    {
+                        "text": "starts with",
+                        "id": "startswith"
+                    },
+                    {
+                        "text": "is empty",
+                        "id": "nl"
+                    },
+                    {
+                        "text": "contains one of",
+                        "id": "ct*"
+                    },
+                    {
+                        "text": "equals one of",
+                        "id": "eq*"
+                    }
+                ]
+            },
+            {
+                "text": "DOB",
+                "id": "BirthDate",
+                "maxLength": 10,
+                "secondaryControlType": "date",
+                "showOnlyDescription": false,
+                "operators": [
+                    {
+                        "text": "equals",
+                        "id": "eq"
+                    },
+                    {
+                        "text": "on or before",
+                        "id": "lte"
+                    },
+                    {
+                        "text": "on or after",
+                        "id": "gte"
+                    },
+                    {
+                        "text": "is empty",
+                        "id": "nl"
+                    },
+                    {
+                        "text": "in",
+                        "id": "in"
+                    }
+                ]
+            },
+            {
+                "text": "Phone Number",
+                "id": "PhoneNumber",
+                "maxLength": 30,
+                "secondaryControlType": "text",
+                "showOnlyDescription": false,
+                "operators": [
+                    {
+                        "text": "contains",
+                        "id": "contains"
+                    },
+                    {
+                        "text": "does not contain",
+                        "id": "doesnotcontain"
+                    },
+                    {
+                        "text": "equals",
+                        "id": "eq"
+                    },
+                    {
+                        "text": "starts with",
+                        "id": "startswith"
+                    },
+                    {
+                        "text": "is empty",
+                        "id": "nl"
+                    },
+                    {
+                        "text": "contains one of",
+                        "id": "ct*"
+                    },
+                    {
+                        "text": "equals one of",
+                        "id": "eq*"
+                    }
+                ]
+            },
+            {
+                "text": "Race",
+                "id": "Race",
+                "maxLength": 6,
+                "secondaryControlType": "select2",
+                "listType": "choiceList",
+                "listCodeType": "RACE",
+                "showOnlyDescription": false,
+                "operators": [
+                    {
+                        "text": "equals",
+                        "id": "eq"
+                    },
+                    {
+                        "text": "equals one of",
+                        "id": "eq*"
+                    },
+                    {
+                        "text": "is empty",
+                        "id": "nl"
+                    },
+                    {
+                        "text": "contains",
+                        "id": "contains"
+                    },
+                    {
+                        "text": "does not contain",
+                        "id": "doesnotcontain"
+                    },
+                    {
+                        "text": "contains one of",
+                        "id": "ct*"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Insurance Carrier Info (INS1)",
+        "children": [
+            {
+                "text": "Address 1",
+                "id": "AUX_INS1_4",
+                "maxLength": 250,
+                "secondaryControlType": "text",
+                "showOnlyDescription": false,
+                "operators": [
+                    {
+                        "text": "contains",
+                        "id": "contains"
+                    },
+                    {
+                        "text": "does not contain",
+                        "id": "doesnotcontain"
+                    },
+                    {
+                        "text": "equals",
+                        "id": "eq"
+                    },
+                    {
+                        "text": "starts with",
+                        "id": "startswith"
+                    },
+                    {
+                        "text": "is empty",
+                        "id": "nl"
+                    },
+                    {
+                        "text": "contains one of",
+                        "id": "ct*"
+                    },
+                    {
+                        "text": "equals one of",
+                        "id": "eq*"
+                    }
+                ]
+            },
+            {
+                "text": "Address 2",
+                "id": "AUX_INS1_5",
+                "maxLength": 250,
+                "secondaryControlType": "text",
+                "showOnlyDescription": false,
+                "operators": [
+                    {
+                        "text": "contains",
+                        "id": "contains"
+                    },
+                    {
+                        "text": "does not contain",
+                        "id": "doesnotcontain"
+                    },
+                    {
+                        "text": "equals",
+                        "id": "eq"
+                    },
+                    {
+                        "text": "starts with",
+                        "id": "startswith"
+                    },
+                    {
+                        "text": "is empty",
+                        "id": "nl"
+                    },
+                    {
+                        "text": "contains one of",
+                        "id": "ct*"
+                    },
+                    {
+                        "text": "equals one of",
+                        "id": "eq*"
+                    }
+                ]
+            },
+            {
+                "text": "Carrier",
+                "id": "AUX_INS1_1",
+                "maxLength": 250,
+                "secondaryControlType": "text",
+                "showOnlyDescription": false,
+                "operators": [
+                    {
+                        "text": "contains",
+                        "id": "contains"
+                    },
+                    {
+                        "text": "does not contain",
+                        "id": "doesnotcontain"
+                    },
+                    {
+                        "text": "equals",
+                        "id": "eq"
+                    },
+                    {
+                        "text": "starts with",
+                        "id": "startswith"
+                    },
+                    {
+                        "text": "is empty",
+                        "id": "nl"
+                    },
+                    {
+                        "text": "contains one of",
+                        "id": "ct*"
+                    },
+                    {
+                        "text": "equals one of",
+                        "id": "eq*"
+                    }
+                ]
+            },
+            {
+                "text": "City",
+                "id": "AUX_INS1_6",
+                "maxLength": 250,
+                "secondaryControlType": "text",
+                "showOnlyDescription": false,
+                "operators": [
+                    {
+                        "text": "contains",
+                        "id": "contains"
+                    },
+                    {
+                        "text": "does not contain",
+                        "id": "doesnotcontain"
+                    },
+                    {
+                        "text": "equals",
+                        "id": "eq"
+                    },
+                    {
+                        "text": "starts with",
+                        "id": "startswith"
+                    },
+                    {
+                        "text": "is empty",
+                        "id": "nl"
+                    },
+                    {
+                        "text": "contains one of",
+                        "id": "ct*"
+                    },
+                    {
+                        "text": "equals one of",
+                        "id": "eq*"
+                    }
+                ]
+            },
+            {
+                "text": "Insurance Group",
+                "id": "AUX_INS1_2",
+                "maxLength": 250,
+                "secondaryControlType": "text",
+                "showOnlyDescription": false,
+                "operators": [
+                    {
+                        "text": "contains",
+                        "id": "contains"
+                    },
+                    {
+                        "text": "does not contain",
+                        "id": "doesnotcontain"
+                    },
+                    {
+                        "text": "equals",
+                        "id": "eq"
+                    },
+                    {
+                        "text": "starts with",
+                        "id": "startswith"
+                    },
+                    {
+                        "text": "is empty",
+                        "id": "nl"
+                    },
+                    {
+                        "text": "contains one of",
+                        "id": "ct*"
+                    },
+                    {
+                        "text": "equals one of",
+                        "id": "eq*"
+                    }
+                ]
+            },
+            {
+                "text": "Phone",
+                "id": "AUX_INS1_9",
+                "maxLength": 250,
+                "secondaryControlType": "text",
+                "showOnlyDescription": false,
+                "operators": [
+                    {
+                        "text": "contains",
+                        "id": "contains"
+                    },
+                    {
+                        "text": "does not contain",
+                        "id": "doesnotcontain"
+                    },
+                    {
+                        "text": "equals",
+                        "id": "eq"
+                    },
+                    {
+                        "text": "starts with",
+                        "id": "startswith"
+                    },
+                    {
+                        "text": "is empty",
+                        "id": "nl"
+                    },
+                    {
+                        "text": "contains one of",
+                        "id": "ct*"
+                    },
+                    {
+                        "text": "equals one of",
+                        "id": "eq*"
+                    }
+                ]
+            },
+            {
+                "text": "Policy Number",
+                "id": "AUX_INS1_3",
+                "maxLength": 250,
+                "secondaryControlType": "text",
+                "showOnlyDescription": false,
+                "operators": [
+                    {
+                        "text": "contains",
+                        "id": "contains"
+                    },
+                    {
+                        "text": "does not contain",
+                        "id": "doesnotcontain"
+                    },
+                    {
+                        "text": "equals",
+                        "id": "eq"
+                    },
+                    {
+                        "text": "starts with",
+                        "id": "startswith"
+                    },
+                    {
+                        "text": "is empty",
+                        "id": "nl"
+                    },
+                    {
+                        "text": "contains one of",
+                        "id": "ct*"
+                    },
+                    {
+                        "text": "equals one of",
+                        "id": "eq*"
+                    }
+                ]
+            },
+            {
+                "text": "State",
+                "id": "AUX_INS1_7",
+                "maxLength": 250,
+                "secondaryControlType": "text",
+                "showOnlyDescription": false,
+                "operators": [
+                    {
+                        "text": "contains",
+                        "id": "contains"
+                    },
+                    {
+                        "text": "does not contain",
+                        "id": "doesnotcontain"
+                    },
+                    {
+                        "text": "equals",
+                        "id": "eq"
+                    },
+                    {
+                        "text": "starts with",
+                        "id": "startswith"
+                    },
+                    {
+                        "text": "is empty",
+                        "id": "nl"
+                    },
+                    {
+                        "text": "contains one of",
+                        "id": "ct*"
+                    },
+                    {
+                        "text": "equals one of",
+                        "id": "eq*"
+                    }
+                ]
+            },
+            {
+                "text": "Zip",
+                "id": "AUX_INS1_8",
+                "maxLength": 250,
+                "secondaryControlType": "text",
+                "showOnlyDescription": false,
+                "operators": [
+                    {
+                        "text": "contains",
+                        "id": "contains"
+                    },
+                    {
+                        "text": "does not contain",
+                        "id": "doesnotcontain"
+                    },
+                    {
+                        "text": "equals",
+                        "id": "eq"
+                    },
+                    {
+                        "text": "starts with",
+                        "id": "startswith"
+                    },
+                    {
+                        "text": "is empty",
+                        "id": "nl"
+                    },
+                    {
+                        "text": "contains one of",
+                        "id": "ct*"
+                    },
+                    {
+                        "text": "equals one of",
+                        "id": "eq*"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Insurance Carrier Info 2 (INS2)",
+        "children": [
+            {
+                "text": "Address 1",
+                "id": "AUX_INS2_4",
+                "maxLength": 250,
+                "secondaryControlType": "text",
+                "showOnlyDescription": false,
+                "operators": [
+                    {
+                        "text": "contains",
+                        "id": "contains"
+                    },
+                    {
+                        "text": "does not contain",
+                        "id": "doesnotcontain"
+                    },
+                    {
+                        "text": "equals",
+                        "id": "eq"
+                    },
+                    {
+                        "text": "starts with",
+                        "id": "startswith"
+                    },
+                    {
+                        "text": "is empty",
+                        "id": "nl"
+                    },
+                    {
+                        "text": "contains one of",
+                        "id": "ct*"
+                    },
+                    {
+                        "text": "equals one of",
+                        "id": "eq*"
+                    }
+                ]
+            },
+            {
+                "text": "Address 2",
+                "id": "AUX_INS2_5",
+                "maxLength": 250,
+                "secondaryControlType": "text",
+                "showOnlyDescription": false,
+                "operators": [
+                    {
+                        "text": "contains",
+                        "id": "contains"
+                    },
+                    {
+                        "text": "does not contain",
+                        "id": "doesnotcontain"
+                    },
+                    {
+                        "text": "equals",
+                        "id": "eq"
+                    },
+                    {
+                        "text": "starts with",
+                        "id": "startswith"
+                    },
+                    {
+                        "text": "is empty",
+                        "id": "nl"
+                    },
+                    {
+                        "text": "contains one of",
+                        "id": "ct*"
+                    },
+                    {
+                        "text": "equals one of",
+                        "id": "eq*"
+                    }
+                ]
+            },
+            {
+                "text": "Carrier",
+                "id": "AUX_INS2_1",
+                "maxLength": 250,
+                "secondaryControlType": "text",
+                "showOnlyDescription": false,
+                "operators": [
+                    {
+                        "text": "contains",
+                        "id": "contains"
+                    },
+                    {
+                        "text": "does not contain",
+                        "id": "doesnotcontain"
+                    },
+                    {
+                        "text": "equals",
+                        "id": "eq"
+                    },
+                    {
+                        "text": "starts with",
+                        "id": "startswith"
+                    },
+                    {
+                        "text": "is empty",
+                        "id": "nl"
+                    },
+                    {
+                        "text": "contains one of",
+                        "id": "ct*"
+                    },
+                    {
+                        "text": "equals one of",
+                        "id": "eq*"
+                    }
+                ]
+            },
+            {
+                "text": "City",
+                "id": "AUX_INS2_6",
+                "maxLength": 250,
+                "secondaryControlType": "text",
+                "showOnlyDescription": false,
+                "operators": [
+                    {
+                        "text": "contains",
+                        "id": "contains"
+                    },
+                    {
+                        "text": "does not contain",
+                        "id": "doesnotcontain"
+                    },
+                    {
+                        "text": "equals",
+                        "id": "eq"
+                    },
+                    {
+                        "text": "starts with",
+                        "id": "startswith"
+                    },
+                    {
+                        "text": "is empty",
+                        "id": "nl"
+                    },
+                    {
+                        "text": "contains one of",
+                        "id": "ct*"
+                    },
+                    {
+                        "text": "equals one of",
+                        "id": "eq*"
+                    }
+                ]
+            },
+            {
+                "text": "Insurance Group",
+                "id": "AUX_INS2_2",
+                "maxLength": 250,
+                "secondaryControlType": "text",
+                "showOnlyDescription": false,
+                "operators": [
+                    {
+                        "text": "contains",
+                        "id": "contains"
+                    },
+                    {
+                        "text": "does not contain",
+                        "id": "doesnotcontain"
+                    },
+                    {
+                        "text": "equals",
+                        "id": "eq"
+                    },
+                    {
+                        "text": "starts with",
+                        "id": "startswith"
+                    },
+                    {
+                        "text": "is empty",
+                        "id": "nl"
+                    },
+                    {
+                        "text": "contains one of",
+                        "id": "ct*"
+                    },
+                    {
+                        "text": "equals one of",
+                        "id": "eq*"
+                    }
+                ]
+            },
+            {
+                "text": "Phone",
+                "id": "AUX_INS2_9",
+                "maxLength": 250,
+                "secondaryControlType": "text",
+                "showOnlyDescription": false,
+                "operators": [
+                    {
+                        "text": "contains",
+                        "id": "contains"
+                    },
+                    {
+                        "text": "does not contain",
+                        "id": "doesnotcontain"
+                    },
+                    {
+                        "text": "equals",
+                        "id": "eq"
+                    },
+                    {
+                        "text": "starts with",
+                        "id": "startswith"
+                    },
+                    {
+                        "text": "is empty",
+                        "id": "nl"
+                    },
+                    {
+                        "text": "contains one of",
+                        "id": "ct*"
+                    },
+                    {
+                        "text": "equals one of",
+                        "id": "eq*"
+                    }
+                ]
+            },
+            {
+                "text": "Policy Number",
+                "id": "AUX_INS2_3",
+                "maxLength": 250,
+                "secondaryControlType": "text",
+                "showOnlyDescription": false,
+                "operators": [
+                    {
+                        "text": "contains",
+                        "id": "contains"
+                    },
+                    {
+                        "text": "does not contain",
+                        "id": "doesnotcontain"
+                    },
+                    {
+                        "text": "equals",
+                        "id": "eq"
+                    },
+                    {
+                        "text": "starts with",
+                        "id": "startswith"
+                    },
+                    {
+                        "text": "is empty",
+                        "id": "nl"
+                    },
+                    {
+                        "text": "contains one of",
+                        "id": "ct*"
+                    },
+                    {
+                        "text": "equals one of",
+                        "id": "eq*"
+                    }
+                ]
+            },
+            {
+                "text": "State",
+                "id": "AUX_INS2_7",
+                "maxLength": 250,
+                "secondaryControlType": "text",
+                "showOnlyDescription": false,
+                "operators": [
+                    {
+                        "text": "contains",
+                        "id": "contains"
+                    },
+                    {
+                        "text": "does not contain",
+                        "id": "doesnotcontain"
+                    },
+                    {
+                        "text": "equals",
+                        "id": "eq"
+                    },
+                    {
+                        "text": "starts with",
+                        "id": "startswith"
+                    },
+                    {
+                        "text": "is empty",
+                        "id": "nl"
+                    },
+                    {
+                        "text": "contains one of",
+                        "id": "ct*"
+                    },
+                    {
+                        "text": "equals one of",
+                        "id": "eq*"
+                    }
+                ]
+            },
+            {
+                "text": "Zip",
+                "id": "AUX_INS2_8",
+                "maxLength": 250,
+                "secondaryControlType": "text",
+                "showOnlyDescription": false,
+                "operators": [
+                    {
+                        "text": "contains",
+                        "id": "contains"
+                    },
+                    {
+                        "text": "does not contain",
+                        "id": "doesnotcontain"
+                    },
+                    {
+                        "text": "equals",
+                        "id": "eq"
+                    },
+                    {
+                        "text": "starts with",
+                        "id": "startswith"
+                    },
+                    {
+                        "text": "is empty",
+                        "id": "nl"
+                    },
+                    {
+                        "text": "contains one of",
+                        "id": "ct*"
+                    },
+                    {
+                        "text": "equals one of",
+                        "id": "eq*"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Insurance Carrier Info 3 (INS3)",
+        "children": [
+            {
+                "text": "Address 1",
+                "id": "AUX_INS3_4",
+                "maxLength": 250,
+                "secondaryControlType": "text",
+                "showOnlyDescription": false,
+                "operators": [
+                    {
+                        "text": "contains",
+                        "id": "contains"
+                    },
+                    {
+                        "text": "does not contain",
+                        "id": "doesnotcontain"
+                    },
+                    {
+                        "text": "equals",
+                        "id": "eq"
+                    },
+                    {
+                        "text": "starts with",
+                        "id": "startswith"
+                    },
+                    {
+                        "text": "is empty",
+                        "id": "nl"
+                    },
+                    {
+                        "text": "contains one of",
+                        "id": "ct*"
+                    },
+                    {
+                        "text": "equals one of",
+                        "id": "eq*"
+                    }
+                ]
+            },
+            {
+                "text": "Address 2",
+                "id": "AUX_INS3_5",
+                "maxLength": 250,
+                "secondaryControlType": "text",
+                "showOnlyDescription": false,
+                "operators": [
+                    {
+                        "text": "contains",
+                        "id": "contains"
+                    },
+                    {
+                        "text": "does not contain",
+                        "id": "doesnotcontain"
+                    },
+                    {
+                        "text": "equals",
+                        "id": "eq"
+                    },
+                    {
+                        "text": "starts with",
+                        "id": "startswith"
+                    },
+                    {
+                        "text": "is empty",
+                        "id": "nl"
+                    },
+                    {
+                        "text": "contains one of",
+                        "id": "ct*"
+                    },
+                    {
+                        "text": "equals one of",
+                        "id": "eq*"
+                    }
+                ]
+            },
+            {
+                "text": "Carrier",
+                "id": "AUX_INS3_1",
+                "maxLength": 250,
+                "secondaryControlType": "text",
+                "showOnlyDescription": false,
+                "operators": [
+                    {
+                        "text": "contains",
+                        "id": "contains"
+                    },
+                    {
+                        "text": "does not contain",
+                        "id": "doesnotcontain"
+                    },
+                    {
+                        "text": "equals",
+                        "id": "eq"
+                    },
+                    {
+                        "text": "starts with",
+                        "id": "startswith"
+                    },
+                    {
+                        "text": "is empty",
+                        "id": "nl"
+                    },
+                    {
+                        "text": "contains one of",
+                        "id": "ct*"
+                    },
+                    {
+                        "text": "equals one of",
+                        "id": "eq*"
+                    }
+                ]
+            },
+            {
+                "text": "City",
+                "id": "AUX_INS3_6",
+                "maxLength": 250,
+                "secondaryControlType": "text",
+                "showOnlyDescription": false,
+                "operators": [
+                    {
+                        "text": "contains",
+                        "id": "contains"
+                    },
+                    {
+                        "text": "does not contain",
+                        "id": "doesnotcontain"
+                    },
+                    {
+                        "text": "equals",
+                        "id": "eq"
+                    },
+                    {
+                        "text": "starts with",
+                        "id": "startswith"
+                    },
+                    {
+                        "text": "is empty",
+                        "id": "nl"
+                    },
+                    {
+                        "text": "contains one of",
+                        "id": "ct*"
+                    },
+                    {
+                        "text": "equals one of",
+                        "id": "eq*"
+                    }
+                ]
+            },
+            {
+                "text": "Insurance Group",
+                "id": "AUX_INS3_2",
+                "maxLength": 250,
+                "secondaryControlType": "text",
+                "showOnlyDescription": false,
+                "operators": [
+                    {
+                        "text": "contains",
+                        "id": "contains"
+                    },
+                    {
+                        "text": "does not contain",
+                        "id": "doesnotcontain"
+                    },
+                    {
+                        "text": "equals",
+                        "id": "eq"
+                    },
+                    {
+                        "text": "starts with",
+                        "id": "startswith"
+                    },
+                    {
+                        "text": "is empty",
+                        "id": "nl"
+                    },
+                    {
+                        "text": "contains one of",
+                        "id": "ct*"
+                    },
+                    {
+                        "text": "equals one of",
+                        "id": "eq*"
+                    }
+                ]
+            },
+            {
+                "text": "Phone",
+                "id": "AUX_INS3_9",
+                "maxLength": 250,
+                "secondaryControlType": "text",
+                "showOnlyDescription": false,
+                "operators": [
+                    {
+                        "text": "contains",
+                        "id": "contains"
+                    },
+                    {
+                        "text": "does not contain",
+                        "id": "doesnotcontain"
+                    },
+                    {
+                        "text": "equals",
+                        "id": "eq"
+                    },
+                    {
+                        "text": "starts with",
+                        "id": "startswith"
+                    },
+                    {
+                        "text": "is empty",
+                        "id": "nl"
+                    },
+                    {
+                        "text": "contains one of",
+                        "id": "ct*"
+                    },
+                    {
+                        "text": "equals one of",
+                        "id": "eq*"
+                    }
+                ]
+            },
+            {
+                "text": "Policy Number",
+                "id": "AUX_INS3_3",
+                "maxLength": 250,
+                "secondaryControlType": "text",
+                "showOnlyDescription": false,
+                "operators": [
+                    {
+                        "text": "contains",
+                        "id": "contains"
+                    },
+                    {
+                        "text": "does not contain",
+                        "id": "doesnotcontain"
+                    },
+                    {
+                        "text": "equals",
+                        "id": "eq"
+                    },
+                    {
+                        "text": "starts with",
+                        "id": "startswith"
+                    },
+                    {
+                        "text": "is empty",
+                        "id": "nl"
+                    },
+                    {
+                        "text": "contains one of",
+                        "id": "ct*"
+                    },
+                    {
+                        "text": "equals one of",
+                        "id": "eq*"
+                    }
+                ]
+            },
+            {
+                "text": "State",
+                "id": "AUX_INS3_7",
+                "maxLength": 250,
+                "secondaryControlType": "text",
+                "showOnlyDescription": false,
+                "operators": [
+                    {
+                        "text": "contains",
+                        "id": "contains"
+                    },
+                    {
+                        "text": "does not contain",
+                        "id": "doesnotcontain"
+                    },
+                    {
+                        "text": "equals",
+                        "id": "eq"
+                    },
+                    {
+                        "text": "starts with",
+                        "id": "startswith"
+                    },
+                    {
+                        "text": "is empty",
+                        "id": "nl"
+                    },
+                    {
+                        "text": "contains one of",
+                        "id": "ct*"
+                    },
+                    {
+                        "text": "equals one of",
+                        "id": "eq*"
+                    }
+                ]
+            },
+            {
+                "text": "Zip",
+                "id": "AUX_INS3_8",
+                "maxLength": 250,
+                "secondaryControlType": "text",
+                "showOnlyDescription": false,
+                "operators": [
+                    {
+                        "text": "contains",
+                        "id": "contains"
+                    },
+                    {
+                        "text": "does not contain",
+                        "id": "doesnotcontain"
+                    },
+                    {
+                        "text": "equals",
+                        "id": "eq"
+                    },
+                    {
+                        "text": "starts with",
+                        "id": "startswith"
+                    },
+                    {
+                        "text": "is empty",
+                        "id": "nl"
+                    },
+                    {
+                        "text": "contains one of",
+                        "id": "ct*"
+                    },
+                    {
+                        "text": "equals one of",
+                        "id": "eq*"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Insurance Carrier Info 4 (INS4)",
+        "children": [
+            {
+                "text": "Address 1",
+                "id": "AUX_INS4_4",
+                "maxLength": 250,
+                "secondaryControlType": "text",
+                "showOnlyDescription": false,
+                "operators": [
+                    {
+                        "text": "contains",
+                        "id": "contains"
+                    },
+                    {
+                        "text": "does not contain",
+                        "id": "doesnotcontain"
+                    },
+                    {
+                        "text": "equals",
+                        "id": "eq"
+                    },
+                    {
+                        "text": "starts with",
+                        "id": "startswith"
+                    },
+                    {
+                        "text": "is empty",
+                        "id": "nl"
+                    },
+                    {
+                        "text": "contains one of",
+                        "id": "ct*"
+                    },
+                    {
+                        "text": "equals one of",
+                        "id": "eq*"
+                    }
+                ]
+            },
+            {
+                "text": "Address 2",
+                "id": "AUX_INS4_5",
+                "maxLength": 250,
+                "secondaryControlType": "text",
+                "showOnlyDescription": false,
+                "operators": [
+                    {
+                        "text": "contains",
+                        "id": "contains"
+                    },
+                    {
+                        "text": "does not contain",
+                        "id": "doesnotcontain"
+                    },
+                    {
+                        "text": "equals",
+                        "id": "eq"
+                    },
+                    {
+                        "text": "starts with",
+                        "id": "startswith"
+                    },
+                    {
+                        "text": "is empty",
+                        "id": "nl"
+                    },
+                    {
+                        "text": "contains one of",
+                        "id": "ct*"
+                    },
+                    {
+                        "text": "equals one of",
+                        "id": "eq*"
+                    }
+                ]
+            },
+            {
+                "text": "Carrier",
+                "id": "AUX_INS4_1",
+                "maxLength": 250,
+                "secondaryControlType": "text",
+                "showOnlyDescription": false,
+                "operators": [
+                    {
+                        "text": "contains",
+                        "id": "contains"
+                    },
+                    {
+                        "text": "does not contain",
+                        "id": "doesnotcontain"
+                    },
+                    {
+                        "text": "equals",
+                        "id": "eq"
+                    },
+                    {
+                        "text": "starts with",
+                        "id": "startswith"
+                    },
+                    {
+                        "text": "is empty",
+                        "id": "nl"
+                    },
+                    {
+                        "text": "contains one of",
+                        "id": "ct*"
+                    },
+                    {
+                        "text": "equals one of",
+                        "id": "eq*"
+                    }
+                ]
+            },
+            {
+                "text": "City",
+                "id": "AUX_INS4_6",
+                "maxLength": 250,
+                "secondaryControlType": "text",
+                "showOnlyDescription": false,
+                "operators": [
+                    {
+                        "text": "contains",
+                        "id": "contains"
+                    },
+                    {
+                        "text": "does not contain",
+                        "id": "doesnotcontain"
+                    },
+                    {
+                        "text": "equals",
+                        "id": "eq"
+                    },
+                    {
+                        "text": "starts with",
+                        "id": "startswith"
+                    },
+                    {
+                        "text": "is empty",
+                        "id": "nl"
+                    },
+                    {
+                        "text": "contains one of",
+                        "id": "ct*"
+                    },
+                    {
+                        "text": "equals one of",
+                        "id": "eq*"
+                    }
+                ]
+            },
+            {
+                "text": "Insurance Group",
+                "id": "AUX_INS4_2",
+                "maxLength": 250,
+                "secondaryControlType": "text",
+                "showOnlyDescription": false,
+                "operators": [
+                    {
+                        "text": "contains",
+                        "id": "contains"
+                    },
+                    {
+                        "text": "does not contain",
+                        "id": "doesnotcontain"
+                    },
+                    {
+                        "text": "equals",
+                        "id": "eq"
+                    },
+                    {
+                        "text": "starts with",
+                        "id": "startswith"
+                    },
+                    {
+                        "text": "is empty",
+                        "id": "nl"
+                    },
+                    {
+                        "text": "contains one of",
+                        "id": "ct*"
+                    },
+                    {
+                        "text": "equals one of",
+                        "id": "eq*"
+                    }
+                ]
+            },
+            {
+                "text": "Phone",
+                "id": "AUX_INS4_9",
+                "maxLength": 250,
+                "secondaryControlType": "text",
+                "showOnlyDescription": false,
+                "operators": [
+                    {
+                        "text": "contains",
+                        "id": "contains"
+                    },
+                    {
+                        "text": "does not contain",
+                        "id": "doesnotcontain"
+                    },
+                    {
+                        "text": "equals",
+                        "id": "eq"
+                    },
+                    {
+                        "text": "starts with",
+                        "id": "startswith"
+                    },
+                    {
+                        "text": "is empty",
+                        "id": "nl"
+                    },
+                    {
+                        "text": "contains one of",
+                        "id": "ct*"
+                    },
+                    {
+                        "text": "equals one of",
+                        "id": "eq*"
+                    }
+                ]
+            },
+            {
+                "text": "Policy Number",
+                "id": "AUX_INS4_3",
+                "maxLength": 250,
+                "secondaryControlType": "text",
+                "showOnlyDescription": false,
+                "operators": [
+                    {
+                        "text": "contains",
+                        "id": "contains"
+                    },
+                    {
+                        "text": "does not contain",
+                        "id": "doesnotcontain"
+                    },
+                    {
+                        "text": "equals",
+                        "id": "eq"
+                    },
+                    {
+                        "text": "starts with",
+                        "id": "startswith"
+                    },
+                    {
+                        "text": "is empty",
+                        "id": "nl"
+                    },
+                    {
+                        "text": "contains one of",
+                        "id": "ct*"
+                    },
+                    {
+                        "text": "equals one of",
+                        "id": "eq*"
+                    }
+                ]
+            },
+            {
+                "text": "State",
+                "id": "AUX_INS4_7",
+                "maxLength": 250,
+                "secondaryControlType": "text",
+                "showOnlyDescription": false,
+                "operators": [
+                    {
+                        "text": "contains",
+                        "id": "contains"
+                    },
+                    {
+                        "text": "does not contain",
+                        "id": "doesnotcontain"
+                    },
+                    {
+                        "text": "equals",
+                        "id": "eq"
+                    },
+                    {
+                        "text": "starts with",
+                        "id": "startswith"
+                    },
+                    {
+                        "text": "is empty",
+                        "id": "nl"
+                    },
+                    {
+                        "text": "contains one of",
+                        "id": "ct*"
+                    },
+                    {
+                        "text": "equals one of",
+                        "id": "eq*"
+                    }
+                ]
+            },
+            {
+                "text": "Zip",
+                "id": "AUX_INS4_8",
+                "maxLength": 250,
+                "secondaryControlType": "text",
+                "showOnlyDescription": false,
+                "operators": [
+                    {
+                        "text": "contains",
+                        "id": "contains"
+                    },
+                    {
+                        "text": "does not contain",
+                        "id": "doesnotcontain"
+                    },
+                    {
+                        "text": "equals",
+                        "id": "eq"
+                    },
+                    {
+                        "text": "starts with",
+                        "id": "startswith"
+                    },
+                    {
+                        "text": "is empty",
+                        "id": "nl"
+                    },
+                    {
+                        "text": "contains one of",
+                        "id": "ct*"
+                    },
+                    {
+                        "text": "equals one of",
+                        "id": "eq*"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Patient Aux  Data (PAT)",
+        "children": [
+            {
+                "text": "DateTime",
+                "id": "AUX_PAT_2",
+                "maxLength": 250,
+                "secondaryControlType": "text",
+                "showOnlyDescription": false,
+                "operators": [
+                    {
+                        "text": "contains",
+                        "id": "contains"
+                    },
+                    {
+                        "text": "does not contain",
+                        "id": "doesnotcontain"
+                    },
+                    {
+                        "text": "equals",
+                        "id": "eq"
+                    },
+                    {
+                        "text": "starts with",
+                        "id": "startswith"
+                    },
+                    {
+                        "text": "is empty",
+                        "id": "nl"
+                    },
+                    {
+                        "text": "contains one of",
+                        "id": "ct*"
+                    },
+                    {
+                        "text": "equals one of",
+                        "id": "eq*"
+                    }
+                ]
+            },
+            {
+                "text": "Yes / No",
+                "id": "AUX_PAT_1",
+                "maxLength": 30,
+                "secondaryControlType": "select2",
+                "listType": "choiceList",
+                "listCodeType": "YN",
+                "showOnlyDescription": false,
+                "operators": [
+                    {
+                        "text": "equals",
+                        "id": "eq"
+                    },
+                    {
+                        "text": "equals one of",
+                        "id": "eq*"
+                    },
+                    {
+                        "text": "is empty",
+                        "id": "nl"
+                    },
+                    {
+                        "text": "contains",
+                        "id": "contains"
+                    },
+                    {
+                        "text": "does not contain",
+                        "id": "doesnotcontain"
+                    },
+                    {
+                        "text": "contains one of",
+                        "id": "ct*"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Patient Aux Data Not LabOnline (PAT5)",
+        "children": [
+            {
+                "text": "PAT5 Text Required ",
+                "id": "AUX_PAT5_1",
+                "maxLength": 250,
+                "secondaryControlType": "text",
+                "showOnlyDescription": false,
+                "operators": [
+                    {
+                        "text": "contains",
+                        "id": "contains"
+                    },
+                    {
+                        "text": "does not contain",
+                        "id": "doesnotcontain"
+                    },
+                    {
+                        "text": "equals",
+                        "id": "eq"
+                    },
+                    {
+                        "text": "starts with",
+                        "id": "startswith"
+                    },
+                    {
+                        "text": "is empty",
+                        "id": "nl"
+                    },
+                    {
+                        "text": "contains one of",
+                        "id": "ct*"
+                    },
+                    {
+                        "text": "equals one of",
+                        "id": "eq*"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Patient Aux Data Req (PAT6)",
+        "children": [
+            {
+                "text": "PAT6 Required Text",
+                "id": "AUX_PAT6_1",
+                "maxLength": 250,
+                "secondaryControlType": "text",
+                "showOnlyDescription": false,
+                "operators": [
+                    {
+                        "text": "contains",
+                        "id": "contains"
+                    },
+                    {
+                        "text": "does not contain",
+                        "id": "doesnotcontain"
+                    },
+                    {
+                        "text": "equals",
+                        "id": "eq"
+                    },
+                    {
+                        "text": "starts with",
+                        "id": "startswith"
+                    },
+                    {
+                        "text": "is empty",
+                        "id": "nl"
+                    },
+                    {
+                        "text": "contains one of",
+                        "id": "ct*"
+                    },
+                    {
+                        "text": "equals one of",
+                        "id": "eq*"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Surveillance (SUR)",
+        "children": [
+            {
+                "text": "Date of Exposure",
+                "id": "AUX_SUR_2",
+                "maxLength": 10,
+                "secondaryControlType": "date",
+                "showOnlyDescription": false,
+                "operators": [
+                    {
+                        "text": "equals",
+                        "id": "eq"
+                    },
+                    {
+                        "text": "on or before",
+                        "id": "lte"
+                    },
+                    {
+                        "text": "on or after",
+                        "id": "gte"
+                    },
+                    {
+                        "text": "is empty",
+                        "id": "nl"
+                    },
+                    {
+                        "text": "in",
+                        "id": "in"
+                    }
+                ]
+            },
+            {
+                "text": "County of Residence",
+                "id": "AUX_SUR_1",
+                "maxLength": 30,
+                "secondaryControlType": "select2",
+                "listType": "choiceList",
+                "listCodeType": "COUNTY",
+                "showOnlyDescription": false,
+                "operators": [
+                    {
+                        "text": "equals",
+                        "id": "eq"
+                    },
+                    {
+                        "text": "equals one of",
+                        "id": "eq*"
+                    },
+                    {
+                        "text": "is empty",
+                        "id": "nl"
+                    },
+                    {
+                        "text": "contains",
+                        "id": "contains"
+                    },
+                    {
+                        "text": "does not contain",
+                        "id": "doesnotcontain"
+                    },
+                    {
+                        "text": "contains one of",
+                        "id": "ct*"
+                    }
+                ]
+            },
+            {
+                "text": "Notes",
+                "id": "AUX_SUR_3",
+                "maxLength": 100,
+                "secondaryControlType": "text",
+                "showOnlyDescription": false,
+                "operators": [
+                    {
+                        "text": "contains",
+                        "id": "contains"
+                    },
+                    {
+                        "text": "does not contain",
+                        "id": "doesnotcontain"
+                    },
+                    {
+                        "text": "equals",
+                        "id": "eq"
+                    },
+                    {
+                        "text": "starts with",
+                        "id": "startswith"
+                    },
+                    {
+                        "text": "is empty",
+                        "id": "nl"
+                    },
+                    {
+                        "text": "contains one of",
+                        "id": "ct*"
+                    },
+                    {
+                        "text": "equals one of",
+                        "id": "eq*"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Add'l Data for Patients (PID)",
+        "children": [
+            {
+                "text": "Date of Birth",
+                "id": "AUX_PID_1",
+                "maxLength": 250,
+                "secondaryControlType": "text",
+                "showOnlyDescription": false,
+                "operators": [
+                    {
+                        "text": "contains",
+                        "id": "contains"
+                    },
+                    {
+                        "text": "does not contain",
+                        "id": "doesnotcontain"
+                    },
+                    {
+                        "text": "equals",
+                        "id": "eq"
+                    },
+                    {
+                        "text": "starts with",
+                        "id": "startswith"
+                    },
+                    {
+                        "text": "is empty",
+                        "id": "nl"
+                    },
+                    {
+                        "text": "contains one of",
+                        "id": "ct*"
+                    },
+                    {
+                        "text": "equals one of",
+                        "id": "eq*"
+                    }
+                ]
+            },
+            {
+                "text": "Ethnicity",
+                "id": "AUX_PID_4",
+                "maxLength": 30,
+                "secondaryControlType": "select2",
+                "listType": "choiceList",
+                "listCodeType": "PID_04",
+                "showOnlyDescription": false,
+                "operators": [
+                    {
+                        "text": "equals",
+                        "id": "eq"
+                    },
+                    {
+                        "text": "equals one of",
+                        "id": "eq*"
+                    },
+                    {
+                        "text": "is empty",
+                        "id": "nl"
+                    },
+                    {
+                        "text": "contains",
+                        "id": "contains"
+                    },
+                    {
+                        "text": "does not contain",
+                        "id": "doesnotcontain"
+                    },
+                    {
+                        "text": "contains one of",
+                        "id": "ct*"
+                    }
+                ]
+            },
+            {
+                "text": "Guardian Name",
+                "id": "AUX_PID_5",
+                "maxLength": 250,
+                "secondaryControlType": "text",
+                "showOnlyDescription": false,
+                "operators": [
+                    {
+                        "text": "contains",
+                        "id": "contains"
+                    },
+                    {
+                        "text": "does not contain",
+                        "id": "doesnotcontain"
+                    },
+                    {
+                        "text": "equals",
+                        "id": "eq"
+                    },
+                    {
+                        "text": "starts with",
+                        "id": "startswith"
+                    },
+                    {
+                        "text": "is empty",
+                        "id": "nl"
+                    },
+                    {
+                        "text": "contains one of",
+                        "id": "ct*"
+                    },
+                    {
+                        "text": "equals one of",
+                        "id": "eq*"
+                    }
+                ]
+            },
+            {
+                "text": "Medical Records Number",
+                "id": "AUX_PID_6",
+                "maxLength": 250,
+                "secondaryControlType": "text",
+                "showOnlyDescription": false,
+                "operators": [
+                    {
+                        "text": "contains",
+                        "id": "contains"
+                    },
+                    {
+                        "text": "does not contain",
+                        "id": "doesnotcontain"
+                    },
+                    {
+                        "text": "equals",
+                        "id": "eq"
+                    },
+                    {
+                        "text": "starts with",
+                        "id": "startswith"
+                    },
+                    {
+                        "text": "is empty",
+                        "id": "nl"
+                    },
+                    {
+                        "text": "contains one of",
+                        "id": "ct*"
+                    },
+                    {
+                        "text": "equals one of",
+                        "id": "eq*"
+                    }
+                ]
+            },
+            {
+                "text": "Race",
+                "id": "AUX_PID_3",
+                "maxLength": 30,
+                "secondaryControlType": "select2",
+                "listType": "choiceList",
+                "listCodeType": "PID_03",
+                "showOnlyDescription": false,
+                "operators": [
+                    {
+                        "text": "equals",
+                        "id": "eq"
+                    },
+                    {
+                        "text": "equals one of",
+                        "id": "eq*"
+                    },
+                    {
+                        "text": "is empty",
+                        "id": "nl"
+                    },
+                    {
+                        "text": "contains",
+                        "id": "contains"
+                    },
+                    {
+                        "text": "does not contain",
+                        "id": "doesnotcontain"
+                    },
+                    {
+                        "text": "contains one of",
+                        "id": "ct*"
+                    }
+                ]
+            },
+            {
+                "text": "Sex",
+                "id": "AUX_PID_2",
+                "maxLength": 30,
+                "secondaryControlType": "select2",
+                "listType": "choiceList",
+                "listCodeType": "PID_02",
+                "showOnlyDescription": false,
+                "operators": [
+                    {
+                        "text": "equals",
+                        "id": "eq"
+                    },
+                    {
+                        "text": "equals one of",
+                        "id": "eq*"
+                    },
+                    {
+                        "text": "is empty",
+                        "id": "nl"
+                    },
+                    {
+                        "text": "contains",
+                        "id": "contains"
+                    },
+                    {
+                        "text": "does not contain",
+                        "id": "doesnotcontain"
+                    },
+                    {
+                        "text": "contains one of",
+                        "id": "ct*"
+                    }
+                ]
+            }
+        ]
+    }
+]

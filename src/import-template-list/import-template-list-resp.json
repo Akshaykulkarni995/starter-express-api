@@ -1,0 +1,1205 @@
+[
+    {
+        "Field": "first_name",
+        "Display": "First name",
+        "Required": true,
+        "DataLength": 40,
+        "DataType": 0,
+        "SortOrder": 0,
+        "Children": null,
+        "ValidValues": null
+    },
+    {
+        "Field": "middle_name",
+        "Display": "Middle name",
+        "Required": false,
+        "DataLength": 40,
+        "DataType": 0,
+        "SortOrder": 1,
+        "Children": null,
+        "ValidValues": null
+    },
+    {
+        "Field": "last_name",
+        "Display": "Last name",
+        "Required": true,
+        "DataLength": 40,
+        "DataType": 0,
+        "SortOrder": 2,
+        "Children": null,
+        "ValidValues": null
+    },
+    {
+        "Field": "maiden_name",
+        "Display": "Maiden name",
+        "Required": false,
+        "DataLength": 40,
+        "DataType": 0,
+        "SortOrder": 3,
+        "Children": null,
+        "ValidValues": null
+    },
+    {
+        "Field": "mrn",
+        "Display": "MRN",
+        "Required": true,
+        "DataLength": 30,
+        "DataType": 0,
+        "SortOrder": 4,
+        "Children": null,
+        "ValidValues": null
+    },
+    {
+        "Field": "ssn",
+        "Display": "SSN",
+        "Required": false,
+        "DataLength": 20,
+        "DataType": 0,
+        "SortOrder": 5,
+        "Children": null,
+        "ValidValues": null
+    },
+    {
+        "Field": "patient_id",
+        "Display": "Patient ID",
+        "Required": false,
+        "DataLength": 30,
+        "DataType": 0,
+        "SortOrder": 6,
+        "Children": null,
+        "ValidValues": null
+    },
+    {
+        "Field": "dob",
+        "Display": "DOB",
+        "Required": true,
+        "DataLength": 16,
+        "DataType": 3,
+        "SortOrder": 7,
+        "Children": null,
+        "ValidValues": null
+    },
+    {
+        "Field": "gender",
+        "Display": "Birth sex",
+        "Required": false,
+        "DataLength": 50,
+        "DataType": 0,
+        "SortOrder": 8,
+        "Children": null,
+        "ValidValues": [
+            "F | Female",
+            "M | Male",
+            "NS | Not Specified"
+        ]
+    },
+    {
+        "Field": "gender_admin",
+        "Display": "Clinical sex",
+        "Required": false,
+        "DataLength": 50,
+        "DataType": 0,
+        "SortOrder": 9,
+        "Children": null,
+        "ValidValues": [
+            "F | Female",
+            "M | Male",
+            "N | Neutral"
+        ]
+    },
+    {
+        "Field": "gender_identity",
+        "Display": "Gender identity",
+        "Required": false,
+        "DataLength": 50,
+        "DataType": 0,
+        "SortOrder": 10,
+        "Children": null,
+        "ValidValues": [
+            "G1 | Gender 1",
+            "G2 | Gender 2",
+            "G3 | Gender 3"
+        ]
+    },
+    {
+        "Field": "sexual_orientation",
+        "Display": "Sexual orientation",
+        "Required": false,
+        "DataLength": 50,
+        "DataType": 0,
+        "SortOrder": 11,
+        "Children": null,
+        "ValidValues": [
+            "Asexual | Asexual",
+            "Bisexual | Bisexual",
+            "Straight | Straight"
+        ]
+    },
+    {
+        "Field": "race",
+        "Display": "Race",
+        "Required": false,
+        "DataLength": 50,
+        "DataType": 0,
+        "SortOrder": 12,
+        "Children": null,
+        "ValidValues": [
+            "A_B | A or B",
+            "MR | Multi-Racial",
+            "OT | Other",
+            "UNK | Unknown",
+            "UNS | Unspecified",
+            "AmInd_AlaNat | American Indian/Alaskan Native",
+            "Asian_PacIsl | Asian/Pacific Islander",
+            "Black | Black",
+            "AS | Asian",
+            "White | White",
+            "Other | Other",
+            "PI | Pacific Islander"
+        ]
+    },
+    {
+        "Field": "ethnicity",
+        "Display": "Ethnicity",
+        "Required": false,
+        "DataLength": 50,
+        "DataType": 0,
+        "SortOrder": 13,
+        "Children": null,
+        "ValidValues": [
+            "H | Hispanic",
+            "NH | Not Hispanic",
+            "K | Klingon"
+        ]
+    },
+    {
+        "Field": "email",
+        "Display": "Email",
+        "Required": false,
+        "DataLength": 120,
+        "DataType": 0,
+        "SortOrder": 14,
+        "Children": null,
+        "ValidValues": null
+    },
+    {
+        "Field": "address",
+        "Display": "Primary address",
+        "Required": false,
+        "DataLength": null,
+        "DataType": 0,
+        "SortOrder": 20,
+        "Children": [
+            {
+                "Field": "street_addr",
+                "Display": "Address 1",
+                "Required": false,
+                "DataLength": 30,
+                "DataType": 0,
+                "SortOrder": 15,
+                "Children": null,
+                "ValidValues": null
+            },
+            {
+                "Field": "x_street_addr",
+                "Display": "Address 2",
+                "Required": false,
+                "DataLength": 30,
+                "DataType": 0,
+                "SortOrder": 16,
+                "Children": null,
+                "ValidValues": null
+            },
+            {
+                "Field": "city",
+                "Display": "City",
+                "Required": false,
+                "DataLength": 40,
+                "DataType": 0,
+                "SortOrder": 17,
+                "Children": null,
+                "ValidValues": null
+            },
+            {
+                "Field": "state",
+                "Display": "State",
+                "Required": false,
+                "DataLength": 2,
+                "DataType": 0,
+                "SortOrder": 18,
+                "Children": null,
+                "ValidValues": [
+                    "PR | Puerto Rico",
+                    "AL | Alabama",
+                    "AK | Alaska",
+                    "AZ | Arizona",
+                    "AR | Arkansas",
+                    "CA | California",
+                    "CO | Colorado",
+                    "CT | Connecticut",
+                    "DE | Delaware",
+                    "DC | District of Columbia",
+                    "FL | Florida",
+                    "GA | Georgia",
+                    "HI | Hawaii",
+                    "ID | Idaho",
+                    "IL | Illinois",
+                    "IN | Indiana",
+                    "IA | Iowa",
+                    "KS | Kansas",
+                    "KY | Kentucky",
+                    "LA | Louisiana",
+                    "ME | Maine",
+                    "MD | Maryland",
+                    "MA | Massachusetts",
+                    "MI | Michigan",
+                    "MN | Minnesota",
+                    "MS | Mississippi",
+                    "MO | Missouri",
+                    "MT | Montana",
+                    "NE | Nebraska",
+                    "NV | Nevada",
+                    "NH | New Hampshire",
+                    "NJ | New Jersey",
+                    "NM | New Mexico",
+                    "NY | New York",
+                    "NC | North Carolina",
+                    "ND | North Dakota",
+                    "OH | Ohio",
+                    "OK | Oklahoma",
+                    "OR | Oregon",
+                    "PA | Pennsylvania",
+                    "RI | Rhode Island",
+                    "SC | South Carolina",
+                    "SD | South Dakota",
+                    "TN | Tennessee",
+                    "TX | Texas",
+                    "UT | Utah",
+                    "VT | Vermont",
+                    "VA | Virginia",
+                    "WA | Washington",
+                    "WV | West Virginia",
+                    "WI | Wisconsin",
+                    "WY | Wyoming"
+                ]
+            },
+            {
+                "Field": "zip",
+                "Display": "ZIP code",
+                "Required": false,
+                "DataLength": 10,
+                "DataType": 0,
+                "SortOrder": 19,
+                "Children": null,
+                "ValidValues": null
+            }
+        ],
+        "ValidValues": null
+    },
+    {
+        "Field": "county",
+        "Display": "Address county",
+        "Required": false,
+        "DataLength": 30,
+        "DataType": 0,
+        "SortOrder": 21,
+        "Children": null,
+        "ValidValues": null
+    },
+    {
+        "Field": "primary_phone",
+        "Display": "Primary phone",
+        "Required": false,
+        "DataLength": null,
+        "DataType": 0,
+        "SortOrder": 25,
+        "Children": [
+            {
+                "Field": "phone_type_1",
+                "Display": "Primary phone type",
+                "Required": false,
+                "DataLength": 50,
+                "DataType": 0,
+                "SortOrder": 22,
+                "Children": null,
+                "ValidValues": [
+                    "W | Work",
+                    "H | Home",
+                    "M | Mobile",
+                    "F | Fax",
+                    "P | Pager",
+                    "S | Secured Fax",
+                    "L | Laboratory"
+                ]
+            },
+            {
+                "Field": "phone_1",
+                "Display": "Primary phone number",
+                "Required": false,
+                "DataLength": 30,
+                "DataType": 0,
+                "SortOrder": 23,
+                "Children": null,
+                "ValidValues": null
+            },
+            {
+                "Field": "phone_ext_1",
+                "Display": "Primary ext.",
+                "Required": false,
+                "DataLength": 5,
+                "DataType": 0,
+                "SortOrder": 24,
+                "Children": null,
+                "ValidValues": null
+            }
+        ],
+        "ValidValues": null
+    },
+    {
+        "Field": "secondary_phone",
+        "Display": "Secondary phone",
+        "Required": false,
+        "DataLength": null,
+        "DataType": 0,
+        "SortOrder": 29,
+        "Children": [
+            {
+                "Field": "phone_type_2",
+                "Display": "Secondary phone type",
+                "Required": false,
+                "DataLength": 50,
+                "DataType": 0,
+                "SortOrder": 26,
+                "Children": null,
+                "ValidValues": [
+                    "W | Work",
+                    "H | Home",
+                    "M | Mobile",
+                    "F | Fax",
+                    "P | Pager",
+                    "S | Secured Fax",
+                    "L | Laboratory"
+                ]
+            },
+            {
+                "Field": "phone_2",
+                "Display": "Secondary phone number",
+                "Required": false,
+                "DataLength": 30,
+                "DataType": 0,
+                "SortOrder": 27,
+                "Children": null,
+                "ValidValues": null
+            },
+            {
+                "Field": "phone_ext_2",
+                "Display": "Secondary ext.",
+                "Required": false,
+                "DataLength": 5,
+                "DataType": 0,
+                "SortOrder": 28,
+                "Children": null,
+                "ValidValues": null
+            }
+        ],
+        "ValidValues": null
+    },
+    {
+        "Field": "insurance",
+        "Display": "Primary insurance",
+        "Required": false,
+        "DataLength": null,
+        "DataType": 0,
+        "SortOrder": 33,
+        "Children": [
+            {
+                "Field": "carrier",
+                "Display": "Insurance carrier",
+                "Required": false,
+                "DataLength": 75,
+                "DataType": 0,
+                "SortOrder": 30,
+                "Children": null,
+                "ValidValues": [
+                    "9627 | 11112",
+                    "7887 | ADD Inc. 1",
+                    "8230 | Aetna",
+                    "9798 | Allstate of NC",
+                    "8268 | Anthem",
+                    "9411 | BBC INC",
+                    "9793 | BCBS",
+                    "9757 | BCBS MINNESOTA",
+                    "8221 | Blue Cross Blue Shield",
+                    "8272 | ChemWare LLC",
+                    "9692 | ChemWare LLC",
+                    "9670 | ChemWare LLC",
+                    "9413 | ChemWare LLC",
+                    "6294 | Clark, Nexsen PC Architecture + Engineering 3",
+                    "3307 | Company name between twenty one and sixty characters",
+                    "8235 | GGK",
+                    "9851 | Guru gowri krupa ",
+                    "9730 | Honest Jub's Discount Insurance",
+                    "9687 | Jubjub Insurance fraudsters",
+                    "8265 | LK Insurance Carrier",
+                    "9404 | Medical Claims Corporation",
+                    "5450 | Merrick + Co. 2",
+                    "9626 | NEW",
+                    "9613 | New",
+                    "9624 | New company",
+                    "8246 | North Carolina Farm Health Insurance Cooperative",
+                    "9625 | Quest Diagnostics",
+                    "9671 | Quest Diagnostics",
+                    "9669 | Quest Diagnostics",
+                    "9740 | Sesame Street",
+                    "9649 | Test Carrier Co.",
+                    "9731 | asafs",
+                    "9572 | benj inc.",
+                    "9797 | carrier 0",
+                    "9776 | fitz",
+                    "9416 | health",
+                    "8273 | jio",
+                    "8234 | pplk",
+                    "9668 | scsc",
+                    "8233 | zxxzc"
+                ]
+            },
+            {
+                "Field": "insurance_group",
+                "Display": "Insurance group",
+                "Required": false,
+                "DataLength": 20,
+                "DataType": 0,
+                "SortOrder": 31,
+                "Children": null,
+                "ValidValues": null
+            },
+            {
+                "Field": "insurance_id",
+                "Display": "Insurance ID",
+                "Required": false,
+                "DataLength": 20,
+                "DataType": 0,
+                "SortOrder": 32,
+                "Children": null,
+                "ValidValues": null
+            }
+        ],
+        "ValidValues": null
+    },
+    {
+        "Field": "responsible_first_name",
+        "Display": "Responsible first name",
+        "Required": false,
+        "DataLength": 40,
+        "DataType": 0,
+        "SortOrder": 34,
+        "Children": null,
+        "ValidValues": null
+    },
+    {
+        "Field": "responsible_last_name",
+        "Display": "Responsible last name",
+        "Required": false,
+        "DataLength": 40,
+        "DataType": 0,
+        "SortOrder": 35,
+        "Children": null,
+        "ValidValues": null
+    },
+    {
+        "Field": "responsible_ssn",
+        "Display": "Responsible DOB/SSN",
+        "Required": false,
+        "DataLength": 11,
+        "DataType": 0,
+        "SortOrder": 36,
+        "Children": null,
+        "ValidValues": null
+    },
+    {
+        "Field": "responsible_relationship",
+        "Display": "Responsible relationship",
+        "Required": false,
+        "DataLength": 50,
+        "DataType": 0,
+        "SortOrder": 37,
+        "Children": null,
+        "ValidValues": [
+            "C | Child",
+            "F | Father",
+            "G | Guardian",
+            "M | Mother",
+            "O | Other",
+            "S | Self",
+            "s | Spouse"
+        ]
+    },
+    {
+        "Field": "notes",
+        "Display": "Notes",
+        "Required": false,
+        "DataLength": 255,
+        "DataType": 0,
+        "SortOrder": 38,
+        "Children": null,
+        "ValidValues": null
+    },
+    {
+        "Field": "aux_INS1",
+        "Display": "Additional info: Insurance Carrier Info",
+        "Required": false,
+        "DataLength": null,
+        "DataType": 0,
+        "SortOrder": 48,
+        "Children": [
+            {
+                "Field": "aux_INS1_1",
+                "Display": "Insurance Carrier Info - Carrier",
+                "Required": false,
+                "DataLength": 250,
+                "DataType": 0,
+                "SortOrder": 39,
+                "Children": null,
+                "ValidValues": null
+            },
+            {
+                "Field": "aux_INS1_2",
+                "Display": "Insurance Carrier Info - Insurance Group",
+                "Required": false,
+                "DataLength": 250,
+                "DataType": 0,
+                "SortOrder": 40,
+                "Children": null,
+                "ValidValues": null
+            },
+            {
+                "Field": "aux_INS1_3",
+                "Display": "Insurance Carrier Info - Policy Number",
+                "Required": false,
+                "DataLength": 250,
+                "DataType": 0,
+                "SortOrder": 41,
+                "Children": null,
+                "ValidValues": null
+            },
+            {
+                "Field": "aux_INS1_4",
+                "Display": "Insurance Carrier Info - Address 1",
+                "Required": false,
+                "DataLength": 250,
+                "DataType": 0,
+                "SortOrder": 42,
+                "Children": null,
+                "ValidValues": null
+            },
+            {
+                "Field": "aux_INS1_5",
+                "Display": "Insurance Carrier Info - Address 2",
+                "Required": false,
+                "DataLength": 250,
+                "DataType": 0,
+                "SortOrder": 43,
+                "Children": null,
+                "ValidValues": null
+            },
+            {
+                "Field": "aux_INS1_6",
+                "Display": "Insurance Carrier Info - City",
+                "Required": false,
+                "DataLength": 250,
+                "DataType": 0,
+                "SortOrder": 44,
+                "Children": null,
+                "ValidValues": null
+            },
+            {
+                "Field": "aux_INS1_7",
+                "Display": "Insurance Carrier Info - State",
+                "Required": false,
+                "DataLength": 250,
+                "DataType": 0,
+                "SortOrder": 45,
+                "Children": null,
+                "ValidValues": null
+            },
+            {
+                "Field": "aux_INS1_8",
+                "Display": "Insurance Carrier Info - Zip",
+                "Required": false,
+                "DataLength": 250,
+                "DataType": 0,
+                "SortOrder": 46,
+                "Children": null,
+                "ValidValues": null
+            },
+            {
+                "Field": "aux_INS1_9",
+                "Display": "Insurance Carrier Info - Phone",
+                "Required": false,
+                "DataLength": 250,
+                "DataType": 0,
+                "SortOrder": 47,
+                "Children": null,
+                "ValidValues": null
+            }
+        ],
+        "ValidValues": null
+    },
+    {
+        "Field": "aux_INS2",
+        "Display": "Additional info: Insurance Carrier Info 2",
+        "Required": false,
+        "DataLength": null,
+        "DataType": 0,
+        "SortOrder": 58,
+        "Children": [
+            {
+                "Field": "aux_INS2_1",
+                "Display": "Insurance Carrier Info 2 - Carrier",
+                "Required": false,
+                "DataLength": 250,
+                "DataType": 0,
+                "SortOrder": 49,
+                "Children": null,
+                "ValidValues": null
+            },
+            {
+                "Field": "aux_INS2_2",
+                "Display": "Insurance Carrier Info 2 - Insurance Group",
+                "Required": false,
+                "DataLength": 250,
+                "DataType": 0,
+                "SortOrder": 50,
+                "Children": null,
+                "ValidValues": null
+            },
+            {
+                "Field": "aux_INS2_3",
+                "Display": "Insurance Carrier Info 2 - Policy Number",
+                "Required": false,
+                "DataLength": 250,
+                "DataType": 0,
+                "SortOrder": 51,
+                "Children": null,
+                "ValidValues": null
+            },
+            {
+                "Field": "aux_INS2_4",
+                "Display": "Insurance Carrier Info 2 - Address 1",
+                "Required": false,
+                "DataLength": 250,
+                "DataType": 0,
+                "SortOrder": 52,
+                "Children": null,
+                "ValidValues": null
+            },
+            {
+                "Field": "aux_INS2_5",
+                "Display": "Insurance Carrier Info 2 - Address 2",
+                "Required": false,
+                "DataLength": 250,
+                "DataType": 0,
+                "SortOrder": 53,
+                "Children": null,
+                "ValidValues": null
+            },
+            {
+                "Field": "aux_INS2_6",
+                "Display": "Insurance Carrier Info 2 - City",
+                "Required": false,
+                "DataLength": 250,
+                "DataType": 0,
+                "SortOrder": 54,
+                "Children": null,
+                "ValidValues": null
+            },
+            {
+                "Field": "aux_INS2_7",
+                "Display": "Insurance Carrier Info 2 - State",
+                "Required": false,
+                "DataLength": 250,
+                "DataType": 0,
+                "SortOrder": 55,
+                "Children": null,
+                "ValidValues": null
+            },
+            {
+                "Field": "aux_INS2_8",
+                "Display": "Insurance Carrier Info 2 - Zip",
+                "Required": false,
+                "DataLength": 250,
+                "DataType": 0,
+                "SortOrder": 56,
+                "Children": null,
+                "ValidValues": null
+            },
+            {
+                "Field": "aux_INS2_9",
+                "Display": "Insurance Carrier Info 2 - Phone",
+                "Required": false,
+                "DataLength": 250,
+                "DataType": 0,
+                "SortOrder": 57,
+                "Children": null,
+                "ValidValues": null
+            }
+        ],
+        "ValidValues": null
+    },
+    {
+        "Field": "aux_INS3",
+        "Display": "Additional info: Insurance Carrier Info 3",
+        "Required": false,
+        "DataLength": null,
+        "DataType": 0,
+        "SortOrder": 68,
+        "Children": [
+            {
+                "Field": "aux_INS3_1",
+                "Display": "Insurance Carrier Info 3 - Carrier",
+                "Required": false,
+                "DataLength": 250,
+                "DataType": 0,
+                "SortOrder": 59,
+                "Children": null,
+                "ValidValues": null
+            },
+            {
+                "Field": "aux_INS3_2",
+                "Display": "Insurance Carrier Info 3 - Insurance Group",
+                "Required": false,
+                "DataLength": 250,
+                "DataType": 0,
+                "SortOrder": 60,
+                "Children": null,
+                "ValidValues": null
+            },
+            {
+                "Field": "aux_INS3_3",
+                "Display": "Insurance Carrier Info 3 - Policy Number",
+                "Required": false,
+                "DataLength": 250,
+                "DataType": 0,
+                "SortOrder": 61,
+                "Children": null,
+                "ValidValues": null
+            },
+            {
+                "Field": "aux_INS3_4",
+                "Display": "Insurance Carrier Info 3 - Address 1",
+                "Required": false,
+                "DataLength": 250,
+                "DataType": 0,
+                "SortOrder": 62,
+                "Children": null,
+                "ValidValues": null
+            },
+            {
+                "Field": "aux_INS3_5",
+                "Display": "Insurance Carrier Info 3 - Address 2",
+                "Required": false,
+                "DataLength": 250,
+                "DataType": 0,
+                "SortOrder": 63,
+                "Children": null,
+                "ValidValues": null
+            },
+            {
+                "Field": "aux_INS3_6",
+                "Display": "Insurance Carrier Info 3 - City",
+                "Required": false,
+                "DataLength": 250,
+                "DataType": 0,
+                "SortOrder": 64,
+                "Children": null,
+                "ValidValues": null
+            },
+            {
+                "Field": "aux_INS3_7",
+                "Display": "Insurance Carrier Info 3 - State",
+                "Required": false,
+                "DataLength": 250,
+                "DataType": 0,
+                "SortOrder": 65,
+                "Children": null,
+                "ValidValues": null
+            },
+            {
+                "Field": "aux_INS3_8",
+                "Display": "Insurance Carrier Info 3 - Zip",
+                "Required": false,
+                "DataLength": 250,
+                "DataType": 0,
+                "SortOrder": 66,
+                "Children": null,
+                "ValidValues": null
+            },
+            {
+                "Field": "aux_INS3_9",
+                "Display": "Insurance Carrier Info 3 - Phone",
+                "Required": false,
+                "DataLength": 250,
+                "DataType": 0,
+                "SortOrder": 67,
+                "Children": null,
+                "ValidValues": null
+            }
+        ],
+        "ValidValues": null
+    },
+    {
+        "Field": "aux_INS4",
+        "Display": "Additional info: Insurance Carrier Info 4",
+        "Required": false,
+        "DataLength": null,
+        "DataType": 0,
+        "SortOrder": 78,
+        "Children": [
+            {
+                "Field": "aux_INS4_1",
+                "Display": "Insurance Carrier Info 4 - Carrier",
+                "Required": false,
+                "DataLength": 250,
+                "DataType": 0,
+                "SortOrder": 69,
+                "Children": null,
+                "ValidValues": null
+            },
+            {
+                "Field": "aux_INS4_2",
+                "Display": "Insurance Carrier Info 4 - Insurance Group",
+                "Required": false,
+                "DataLength": 250,
+                "DataType": 0,
+                "SortOrder": 70,
+                "Children": null,
+                "ValidValues": null
+            },
+            {
+                "Field": "aux_INS4_3",
+                "Display": "Insurance Carrier Info 4 - Policy Number",
+                "Required": false,
+                "DataLength": 250,
+                "DataType": 0,
+                "SortOrder": 71,
+                "Children": null,
+                "ValidValues": null
+            },
+            {
+                "Field": "aux_INS4_4",
+                "Display": "Insurance Carrier Info 4 - Address 1",
+                "Required": false,
+                "DataLength": 250,
+                "DataType": 0,
+                "SortOrder": 72,
+                "Children": null,
+                "ValidValues": null
+            },
+            {
+                "Field": "aux_INS4_5",
+                "Display": "Insurance Carrier Info 4 - Address 2",
+                "Required": false,
+                "DataLength": 250,
+                "DataType": 0,
+                "SortOrder": 73,
+                "Children": null,
+                "ValidValues": null
+            },
+            {
+                "Field": "aux_INS4_6",
+                "Display": "Insurance Carrier Info 4 - City",
+                "Required": false,
+                "DataLength": 250,
+                "DataType": 0,
+                "SortOrder": 74,
+                "Children": null,
+                "ValidValues": null
+            },
+            {
+                "Field": "aux_INS4_7",
+                "Display": "Insurance Carrier Info 4 - State",
+                "Required": false,
+                "DataLength": 250,
+                "DataType": 0,
+                "SortOrder": 75,
+                "Children": null,
+                "ValidValues": null
+            },
+            {
+                "Field": "aux_INS4_8",
+                "Display": "Insurance Carrier Info 4 - Zip",
+                "Required": false,
+                "DataLength": 250,
+                "DataType": 0,
+                "SortOrder": 76,
+                "Children": null,
+                "ValidValues": null
+            },
+            {
+                "Field": "aux_INS4_9",
+                "Display": "Insurance Carrier Info 4 - Phone",
+                "Required": false,
+                "DataLength": 250,
+                "DataType": 0,
+                "SortOrder": 77,
+                "Children": null,
+                "ValidValues": null
+            }
+        ],
+        "ValidValues": null
+    },
+    {
+        "Field": "aux_PAT",
+        "Display": "Additional info: Patient Aux  Data",
+        "Required": false,
+        "DataLength": null,
+        "DataType": 0,
+        "SortOrder": 81,
+        "Children": [
+            {
+                "Field": "aux_PAT_1",
+                "Display": "Patient Aux  Data - Yes / No",
+                "Required": false,
+                "DataLength": 12,
+                "DataType": 0,
+                "SortOrder": 79,
+                "Children": null,
+                "ValidValues": [
+                    "N | No",
+                    "Y | Yes"
+                ]
+            },
+            {
+                "Field": "aux_PAT_2",
+                "Display": "Patient Aux  Data - DateTime",
+                "Required": false,
+                "DataLength": 15,
+                "DataType": 3,
+                "SortOrder": 80,
+                "Children": null,
+                "ValidValues": null
+            }
+        ],
+        "ValidValues": null
+    },
+    {
+        "Field": "aux_PAT5",
+        "Display": "Additional info: Patient Aux Data Not LabOnline",
+        "Required": false,
+        "DataLength": null,
+        "DataType": 0,
+        "SortOrder": 83,
+        "Children": [
+            {
+                "Field": "aux_PAT5_1",
+                "Display": "Patient Aux Data Not LabOnline - PAT5 Text Required ",
+                "Required": false,
+                "DataLength": 250,
+                "DataType": 0,
+                "SortOrder": 82,
+                "Children": null,
+                "ValidValues": null
+            }
+        ],
+        "ValidValues": null
+    },
+    {
+        "Field": "aux_PAT6",
+        "Display": "Additional info: Patient Aux Data Req",
+        "Required": false,
+        "DataLength": null,
+        "DataType": 0,
+        "SortOrder": 85,
+        "Children": [
+            {
+                "Field": "aux_PAT6_1",
+                "Display": "Patient Aux Data Req - PAT6 Required Text",
+                "Required": false,
+                "DataLength": 250,
+                "DataType": 0,
+                "SortOrder": 84,
+                "Children": null,
+                "ValidValues": null
+            }
+        ],
+        "ValidValues": null
+    },
+    {
+        "Field": "aux_SUR",
+        "Display": "Additional info: Surveillance",
+        "Required": false,
+        "DataLength": null,
+        "DataType": 0,
+        "SortOrder": 89,
+        "Children": [
+            {
+                "Field": "aux_SUR_2",
+                "Display": "Surveillance - Date of Exposure",
+                "Required": false,
+                "DataLength": 9,
+                "DataType": 3,
+                "SortOrder": 86,
+                "Children": null,
+                "ValidValues": null
+            },
+            {
+                "Field": "aux_SUR_1",
+                "Display": "Surveillance - County of Residence",
+                "Required": false,
+                "DataLength": 12,
+                "DataType": 0,
+                "SortOrder": 87,
+                "Children": null,
+                "ValidValues": [
+                    "Ada | Ada",
+                    "Adams | Adams",
+                    "Asotin | Asotin",
+                    "Bannock | Bannock",
+                    "Bear Lake | Bear Lake",
+                    "Benewah | Benewah",
+                    "Bingham | Bingham",
+                    "Blaine | Blaine",
+                    "Boise | Boise",
+                    "Bonner | Bonner",
+                    "Bonneville | Bonneville",
+                    "Boundary | Boundary",
+                    "Butte | Butte",
+                    "Camas | Camas",
+                    "Canyon | Canyon",
+                    "Caribou | Caribou",
+                    "Cassia | Cassia",
+                    "Clark | Clark",
+                    "Clearwater | Clearwater",
+                    "Custer | Custer",
+                    "Elmore | Elmore",
+                    "Franklin | Franklin",
+                    "Fremont | Fremont",
+                    "Gem | Gem",
+                    "Gooding | Gooding",
+                    "Idaho | Idaho",
+                    "Jefferson | Jefferson",
+                    "Jerome | Jerome",
+                    "Kootenai | Kootenai",
+                    "Latah | Latah",
+                    "Lemhi | Lemhi",
+                    "Lewis | Lewis",
+                    "Lincoln | Lincoln",
+                    "Madison | Madison",
+                    "Minidoka | Minidoka",
+                    "Nez Perce | Nez Perce",
+                    "Oneida | Oneida",
+                    "Owyhee | Owyhee",
+                    "Payette | Payette",
+                    "Pend Oreille | Pend Oreille, WA",
+                    "Power | Power",
+                    "Shoshone | Shoshone",
+                    "Teton | Teton",
+                    "Twin Falls | Twin Falls",
+                    "Valley | Valley",
+                    "Washington | Washington",
+                    "Baker | Baker, OR",
+                    "Malheur | Malheur, OR",
+                    "Union | Union, OR",
+                    "Spokane | Spokane, WA",
+                    "Natrona | Natrona, WY"
+                ]
+            },
+            {
+                "Field": "aux_SUR_3",
+                "Display": "Surveillance - Notes",
+                "Required": false,
+                "DataLength": 100,
+                "DataType": 0,
+                "SortOrder": 88,
+                "Children": null,
+                "ValidValues": null
+            }
+        ],
+        "ValidValues": null
+    },
+    {
+        "Field": "aux_PID",
+        "Display": "Additional info: Add'l Data for Patients",
+        "Required": false,
+        "DataLength": null,
+        "DataType": 0,
+        "SortOrder": 96,
+        "Children": [
+            {
+                "Field": "aux_PID_1",
+                "Display": "Add'l Data for Patients - Date of Birth",
+                "Required": false,
+                "DataLength": 15,
+                "DataType": 3,
+                "SortOrder": 90,
+                "Children": null,
+                "ValidValues": null
+            },
+            {
+                "Field": "aux_PID_2",
+                "Display": "Add'l Data for Patients - Sex",
+                "Required": false,
+                "DataLength": 12,
+                "DataType": 0,
+                "SortOrder": 91,
+                "Children": null,
+                "ValidValues": [
+                    "F | Female",
+                    "M | Male"
+                ]
+            },
+            {
+                "Field": "aux_PID_3",
+                "Display": "Add'l Data for Patients - Race",
+                "Required": false,
+                "DataLength": 12,
+                "DataType": 0,
+                "SortOrder": 92,
+                "Children": null,
+                "ValidValues": [
+                    "AI | American Native/Alaskan Native",
+                    "API | Asian/ Pacific Islander",
+                    "B | Black",
+                    "MR | Multi-Racial",
+                    "OT | Other",
+                    "W | White"
+                ]
+            },
+            {
+                "Field": "aux_PID_4",
+                "Display": "Add'l Data for Patients - Ethnicity",
+                "Required": false,
+                "DataLength": 12,
+                "DataType": 0,
+                "SortOrder": 93,
+                "Children": null,
+                "ValidValues": [
+                    "HI | Hispanic",
+                    "NH | Non-Hispanic",
+                    "U | Unspecified"
+                ]
+            },
+            {
+                "Field": "aux_PID_5",
+                "Display": "Add'l Data for Patients - Guardian Name",
+                "Required": false,
+                "DataLength": 250,
+                "DataType": 0,
+                "SortOrder": 94,
+                "Children": null,
+                "ValidValues": null
+            },
+            {
+                "Field": "aux_PID_6",
+                "Display": "Add'l Data for Patients - Medical Records Number",
+                "Required": false,
+                "DataLength": 250,
+                "DataType": 0,
+                "SortOrder": 95,
+                "Children": null,
+                "ValidValues": null
+            }
+        ],
+        "ValidValues": null
+    }
+]

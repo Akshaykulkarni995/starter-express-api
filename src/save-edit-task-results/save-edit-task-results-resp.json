@@ -1,0 +1,11 @@
+{
+    "LabTaskId": 2621533,
+    "analyteErrors": [],
+    "spikeErrors": [],
+    "IsLabTaskDeleted": false,
+    "Success": false,
+    "UnmetExpectations": [],
+    "ReturnVals": {
+        "AreSignaturesRequired": true
+    }
+}

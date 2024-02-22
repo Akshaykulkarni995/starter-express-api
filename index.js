@@ -3,7 +3,7 @@ const express = require("express");
 const cors = require("cors");
 const app = express();
 const bodyParser = require("body-parser");
-const PORT = process.env.PORT || 8084;
+const PORT = process.env.PORT || 9000;
 app.use(bodyParser.json());
 
 const PatientListReq = require("./src/patient-landing-page/patient-list-req.json");
@@ -65,15 +65,35 @@ const InsuranceList = require("./src/insurance-list/insurance-list-resp.json");
 const GetSexualIdentityResp = require("./src/get-sexual-identity/sexual-identity-resp.json")
 const WorkOrdersResp = require("./src/patient-workorders/patient-workorders-tree-resp.json")
 const WorkOrderDataResp = require("./src/work-order-data/work-order-data.resp.json")
+const AdvancedSearchOptions = require("./src/landing-page-search-options/landing-page-search-options-resp.json")
+const GenderOptionList = require("./src/gender-list-option/gender-list-option-resp.json")
+const ImportTemplateList = require("./src/import-template-list/import-template-list-resp.json")
+const ImportTemplateReq = require("./src/create-import-template/import-template-req.json")
+const ImportTemplateRes = require("./src/create-import-template/import-template-resp.json")
+const SaveEditTaskResultsReq=require("./src/save-edit-task-results/save-edit-task-results-req.json")
+const SaveEditTaskResultsResp=require("./src/save-edit-task-results/save-edit-task-results-resp.json")
 
 app.use(cors());
 
 app.get("/", (req, res) => {
   res.send("Hello");
 });
+
+
+
 app.get("/Patient/WorkorderData", (req, res) => {
   res.send(WorkOrderDataResp);
 });
+app.get("/AdvancedSearch/GetListOptions", (req, res) => {
+  res.send(GenderOptionList);
+});
+app.get("/AdvancedSearch/GetSearchFieldOptions", (req, res) => {
+  res.send(AdvancedSearchOptions);
+});
+app.get("/Patient/GetImportFieldList", (req, res) => {
+  res.send(ImportTemplateList);
+});
+
 app.get("/Patient/WorkordersTree", (req, res) => {
   res.send(WorkOrdersResp);
 });
@@ -199,6 +219,28 @@ app.post("/PatientRecord/GetPatientRecordWorkordersJson", (req, res) => {
   if (JSON.stringify(SearchWorkOrderReq) === JSON.stringify(body)) {
     setTimeout(() => {
       res.send(SearchWorkOrderRes);
+    }, 2000);
+  } else {
+    console.log("Error: Request does not match definition");
+    res.status(400).send("Request does not match definition").end();
+  }
+});
+app.post("/BatchResults/SaveDetail", (req, res) => {
+  let body = req.body;
+  if (JSON.stringify(SaveEditTaskResultsReq) === JSON.stringify(body)) {
+    setTimeout(() => {
+      res.send(SaveEditTaskResultsResp);
+    }, 2000);
+  } else {
+    console.log("Error: Request does not match definition");
+    res.status(400).send("Request does not match definition").end();
+  }
+});
+app.post("/Patient/CreateImportTemplate", (req, res) => {
+  let body = req.body;
+  if (JSON.stringify(ImportTemplateReq) === JSON.stringify(body)) {
+    setTimeout(() => {
+      res.send(ImportTemplateRes);
     }, 2000);
   } else {
     console.log("Error: Request does not match definition");
