@@ -1,0 +1,28 @@
+{
+    "options": [
+        {
+            "flags": "A.........",
+            "description": "Asexual",
+            "isActive": true,
+            "id": "Asexual",
+            "text": "Asexual",
+            "isCustomChoice": false
+        },
+        {
+            "flags": "A.........",
+            "description": "Bisexual",
+            "isActive": true,
+            "id": "Bisexual",
+            "text": "Bisexual",
+            "isCustomChoice": false
+        },
+        {
+            "flags": "A.........",
+            "description": "Straight",
+            "isActive": true,
+            "id": "Straight",
+            "text": "Straight",
+            "isCustomChoice": false
+        }
+    ]
+}

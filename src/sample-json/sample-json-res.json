@@ -1,0 +1,34 @@
+{ "rowData":  [
+    {
+    "Id": 187206001,
+    "LabId": "187206001",
+    "SampleId": "SA0123",
+    "PatientId": 98299,
+    "ProfileId": "4852",
+    "ClientId": 900029,
+    "ProfileName": "Genetics",
+    "Status": "Work In Progress",
+    "MatrixDescription": "Blood",
+    "LabSite": "Clinical",
+    "CollectedDateTime": null,
+    "ReceivedDateTime": "2024-01-23T20:54:23Z",
+    "DueDate": "2024-02-07T13:59:00Z",
+    "Tests": "NGS-DWR"
+    },
+    {
+    "Id": 186769001,
+    "LabId": "186769001",
+    "SampleId": "DWR-SUBTEST",
+    "PatientId": 98299,
+    "ProfileId": "4848",
+    "ClientId": 900029,
+    "ProfileName": "Subcontract",
+    "Status": "Work In Progress",
+    "MatrixDescription": "Water (nonpotable)",
+    "LabSite": "Hawaii",
+    "CollectedDateTime": "2022-02-17T13:13:00Z",
+    "ReceivedDateTime": "2022-02-17T14:14:31Z",
+    "DueDate": "2022-02-27T22:00:00Z",
+    "Tests": "1664-W, 1020H-CP-W"
+    }
+    ], "pageIndex": "1", "pageSize": "25", "totalRows": "0" }

@@ -1,0 +1,39 @@
+{
+    "options": [
+        {
+            "id": "Canceled",
+            "text": "Canceled",
+            "isCustomChoice": false
+        },
+        {
+            "id": "Failed",
+            "text": "Failed",
+            "isCustomChoice": false
+        },
+        {
+            "id": "InReview",
+            "text": "In Review",
+            "isCustomChoice": false
+        },
+        {
+            "id": "Open",
+            "text": "Open",
+            "isCustomChoice": false
+        },
+        {
+            "id": "Ready",
+            "text": "Ready",
+            "isCustomChoice": false
+        },
+        {
+            "id": "Released",
+            "text": "Released",
+            "isCustomChoice": false
+        },
+        {
+            "id": "Waiting",
+            "text": "Waiting",
+            "isCustomChoice": false
+        }
+    ]
+}

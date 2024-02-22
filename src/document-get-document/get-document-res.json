@@ -1,0 +1,12 @@
+{
+    "selectionMessage": null,
+    "jobDefinitionId": null,
+    "documentUrls": null,
+    "Success": false,
+    "UnmetExpectations": [
+        {
+            "Key": null,
+            "Message": "The selected patient does not have an associated document."
+        }
+    ]
+}

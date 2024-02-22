@@ -1,0 +1,1028 @@
+{
+    "options": [
+        {
+            "flags": null,
+            "description": "16S rRNA Sequence Analysis",
+            "isActive": false,
+            "id": "16S",
+            "text": "16S rRNA Sequence Analysis (16S)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "16S rRNA Sequence Analysis",
+            "isActive": false,
+            "id": "BACT-16S",
+            "text": "16S rRNA Sequence Analysis (BACT-16S)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "16S rRNA Sequence Analysis",
+            "isActive": false,
+            "id": "ENV-16S",
+            "text": "16S rRNA Sequence Analysis (ENV-16S)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "16S rRNA Sequence Analysis",
+            "isActive": false,
+            "id": "LRN-16S",
+            "text": "16S rRNA Sequence Analysis (LRN-16S)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "16S rRNA Sequence Analysis",
+            "isActive": false,
+            "id": "TB-16S",
+            "text": "16S rRNA Sequence Analysis (TB-16S)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "16S rRNA Sequence Analysis - NC",
+            "isActive": false,
+            "id": "SEQID",
+            "text": "16S rRNA Sequence Analysis - NC (SEQID)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "16S rRNA Sequence Analysis, QC",
+            "isActive": false,
+            "id": "16S-QC",
+            "text": "16S rRNA Sequence Analysis, QC (16S-QC)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "24 Hour Culture Read",
+            "isActive": false,
+            "id": "24HOURREAD",
+            "text": "24 Hour Culture Read (24HOURREAD)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "2nd Urine Screen",
+            "isActive": false,
+            "id": "IA_U_SCRN2",
+            "text": "2nd Urine Screen (IA_U_SCRN2)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "3051 Microwave Digestion for S/S/S",
+            "isActive": false,
+            "id": "2008-SDIG",
+            "text": "3051 Microwave Digestion for S/S/S (2008-SDIG)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "3051 Microwave Digestion for SD/OT",
+            "isActive": false,
+            "id": "3051-PREP",
+            "text": "3051 Microwave Digestion for SD/OT (3051-PREP)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "3461",
+            "isActive": false,
+            "id": "3461",
+            "text": "3461 (3461)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "3461MS",
+            "isActive": false,
+            "id": "MET3461MS",
+            "text": "3461MS (MET3461MS)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "48 Hour Culture Read",
+            "isActive": false,
+            "id": "48HOURREAD",
+            "text": "48 Hour Culture Read (48HOURREAD)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "5035 low prep",
+            "isActive": false,
+            "id": "8260S_LOW",
+            "text": "5035 low prep (8260S_LOW)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "8021/5035 high prep",
+            "isActive": false,
+            "id": "8021S_HIGH",
+            "text": "8021/5035 high prep (8021S_HIGH)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "8260/5035 high prep",
+            "isActive": false,
+            "id": "8260_HIPRP",
+            "text": "8260/5035 high prep (8260_HIPRP)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "8260/5035 low prep (2nd core)",
+            "isActive": false,
+            "id": "8260S_LOW2",
+            "text": "8260/5035 low prep (2nd core) (8260S_LOW2)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Abrine and Ricinie, Urine",
+            "isActive": false,
+            "id": "ABRI-UR",
+            "text": "Abrine and Ricinie, Urine (ABRI-UR)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Abrine and Ricinie, Urine",
+            "isActive": false,
+            "id": "ABRI-UR-QC",
+            "text": "Abrine and Ricinie, Urine (ABRI-UR-QC)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Abrine, Ricinine, Amanitin",
+            "isActive": false,
+            "id": "ABRCAM",
+            "text": "Abrine, Ricinine, Amanitin (ABRCAM)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Adenovirus,Enteric,EIA",
+            "isActive": false,
+            "id": "ADEN",
+            "text": "Adenovirus,Enteric,EIA (ADEN)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "ADmin Task",
+            "isActive": false,
+            "id": "Task1",
+            "text": "ADmin Task (Task1)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Aeromonas, Culture",
+            "isActive": false,
+            "id": "AERO",
+            "text": "Aeromonas, Culture (AERO)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Affidavit- faxed report",
+            "isActive": false,
+            "id": "FAXCERT",
+            "text": "Affidavit- faxed report (FAXCERT)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Aliquot sample",
+            "isActive": false,
+            "id": "ALIQUOT",
+            "text": "Aliquot sample (ALIQUOT)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Aliquot, Confirmation",
+            "isActive": false,
+            "id": "AQ-LCM",
+            "text": "Aliquot, Confirmation (AQ-LCM)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Aliquot, Screening",
+            "isActive": false,
+            "id": "AQ-SCR",
+            "text": "Aliquot, Screening (AQ-SCR)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Alkalinity (CACO3), S2320B, Water",
+            "isActive": false,
+            "id": "2320BW-C",
+            "text": "Alkalinity (CACO3), S2320B, Water (2320BW-C)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Ammonia as N, E350.1, Solid",
+            "isActive": false,
+            "id": "3501-S-N",
+            "text": "Ammonia as N, E350.1, Solid (3501-S-N)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Ammonia as N, E350.1, Water",
+            "isActive": false,
+            "id": "3501-W-N",
+            "text": "Ammonia as N, E350.1, Water (3501-W-N)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Anaerobe, Reference Culture",
+            "isActive": false,
+            "id": "ANA",
+            "text": "Anaerobe, Reference Culture (ANA)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Analyst batch review w/prelim report",
+            "isActive": false,
+            "id": "PRELIM-REP",
+            "text": "Analyst batch review w/prelim report (PRELIM-REP)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Anthrax, ABI 7000, PCR",
+            "isActive": false,
+            "id": "ANA7DNB",
+            "text": "Anthrax, ABI 7000, PCR (ANA7DNB)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Anthrax, ABI 7000, PCR",
+            "isActive": false,
+            "id": "ANA7DNM",
+            "text": "Anthrax, ABI 7000, PCR (ANA7DNM)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Anthrax, ABI 7000, PCR",
+            "isActive": false,
+            "id": "ANA7GPDI",
+            "text": "Anthrax, ABI 7000, PCR (ANA7GPDI)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Anthrax, ABI 7000, PCR",
+            "isActive": false,
+            "id": "ANA7SP",
+            "text": "Anthrax, ABI 7000, PCR (ANA7SP)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Anthrax, Capsule Production",
+            "isActive": false,
+            "id": "ANCP",
+            "text": "Anthrax, Capsule Production (ANCP)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Anthrax, DFA, Capsule",
+            "isActive": false,
+            "id": "ANCAPDFA",
+            "text": "Anthrax, DFA, Capsule (ANCAPDFA)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Anthrax, DFA, Capsule",
+            "isActive": false,
+            "id": "ANDC",
+            "text": "Anthrax, DFA, Capsule (ANDC)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Anthrax, DFA, Cell Wall",
+            "isActive": false,
+            "id": "ANCWDFA",
+            "text": "Anthrax, DFA, Cell Wall (ANCWDFA)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Anthrax, DFA, Cell Wall",
+            "isActive": false,
+            "id": "ANDCW",
+            "text": "Anthrax, DFA, Cell Wall (ANDCW)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Anthrax, ETest",
+            "isActive": false,
+            "id": "ANE",
+            "text": "Anthrax, ETest (ANE)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Anthrax, Extraction, PCR",
+            "isActive": false,
+            "id": "ANEXT-P",
+            "text": "Anthrax, Extraction, PCR (ANEXT-P)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Anthrax, Growth On Bicarb Media (RCCO2)",
+            "isActive": false,
+            "id": "GBM",
+            "text": "Anthrax, Growth On Bicarb Media (RCCO2) (GBM)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Anthrax, ICycler, PCR",
+            "isActive": false,
+            "id": "ANICDNB",
+            "text": "Anthrax, ICycler, PCR (ANICDNB)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Anthrax, ICycler, PCR",
+            "isActive": false,
+            "id": "ANICDNM",
+            "text": "Anthrax, ICycler, PCR (ANICDNM)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Anthrax, ICycler, PCR",
+            "isActive": false,
+            "id": "ANICGPDI",
+            "text": "Anthrax, ICycler, PCR (ANICGPDI)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Anthrax, ICycler, PCR",
+            "isActive": false,
+            "id": "ANICSP",
+            "text": "Anthrax, ICycler, PCR (ANICSP)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Anthrax, India Ink Staining",
+            "isActive": false,
+            "id": "ANIIS",
+            "text": "Anthrax, India Ink Staining (ANIIS)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Anthrax, Isolation, Food",
+            "isActive": false,
+            "id": "ANIF",
+            "text": "Anthrax, Isolation, Food (ANIF)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Anthrax, Isolation, Nonclinical",
+            "isActive": false,
+            "id": "ANIN",
+            "text": "Anthrax, Isolation, Nonclinical (ANIN)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Anthrax, Lysis, Gamma Phage",
+            "isActive": false,
+            "id": "ANLGP",
+            "text": "Anthrax, Lysis, Gamma Phage (ANLGP)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Anthrax, Malachite Green Stain",
+            "isActive": false,
+            "id": "ANMGS",
+            "text": "Anthrax, Malachite Green Stain (ANMGS)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Anthrax, MFadyean Staining",
+            "isActive": false,
+            "id": "ANMS",
+            "text": "Anthrax, MFadyean Staining (ANMS)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Anthrax, Motility, Wet Mount",
+            "isActive": false,
+            "id": "ANMWM",
+            "text": "Anthrax, Motility, Wet Mount (ANMWM)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Anthrax, Smart Cycler, PCR",
+            "isActive": false,
+            "id": "ANSCDNB",
+            "text": "Anthrax, Smart Cycler, PCR (ANSCDNB)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Anthrax, Smart Cycler, PCR",
+            "isActive": false,
+            "id": "ANSCDNM",
+            "text": "Anthrax, Smart Cycler, PCR (ANSCDNM)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Anthrax, Smart Cycler, PCR",
+            "isActive": false,
+            "id": "ANSCGPDI",
+            "text": "Anthrax, Smart Cycler, PCR (ANSCGPDI)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Anthrax, Smart Cycler, PCR",
+            "isActive": false,
+            "id": "ANSCSP",
+            "text": "Anthrax, Smart Cycler, PCR (ANSCSP)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Anthrax, Spore Detection, TRF",
+            "isActive": false,
+            "id": "ANSD",
+            "text": "Anthrax, Spore Detection, TRF (ANSD)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Anthrax, Spore Detection, TRF",
+            "isActive": false,
+            "id": "ANTRF",
+            "text": "Anthrax, Spore Detection, TRF (ANTRF)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Anthrax, Spore Determination, Wet Mount",
+            "isActive": false,
+            "id": "ANSDWM",
+            "text": "Anthrax, Spore Determination, Wet Mount (ANSDWM)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Anthrax, Spore Isolation, TRF",
+            "isActive": false,
+            "id": "ANSIT",
+            "text": "Anthrax, Spore Isolation, TRF (ANSIT)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Antimicrobial Susceptibility",
+            "isActive": false,
+            "id": "ASI",
+            "text": "Antimicrobial Susceptibility (ASI)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Antimicrobial Susceptibility",
+            "isActive": false,
+            "id": "AST",
+            "text": "Antimicrobial Susceptibility (AST)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Antimicrobial Susceptibility, Etest",
+            "isActive": false,
+            "id": "ETEST",
+            "text": "Antimicrobial Susceptibility, Etest (ETEST)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Aquapure, PCR, Clinical, Extraction",
+            "isActive": false,
+            "id": "AQCLEX-P",
+            "text": "Aquapure, PCR, Clinical, Extraction (AQCLEX-P)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Aquapure, PCR, Environmental, Extraction",
+            "isActive": false,
+            "id": "AQENEX-P",
+            "text": "Aquapure, PCR, Environmental, Extraction (AQENEX-P)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Arbovirus Panel,QC",
+            "isActive": false,
+            "id": "ARBOPCR-QC",
+            "text": "Arbovirus Panel,QC (ARBOPCR-QC)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Arbovirus Panel,RT-PCR",
+            "isActive": false,
+            "id": "ARBOPCR",
+            "text": "Arbovirus Panel,RT-PCR (ARBOPCR)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Arbovirus, Antibody, MIA",
+            "isActive": false,
+            "id": "ARBOMIA",
+            "text": "Arbovirus, Antibody, MIA (ARBOMIA)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Arbovirus, Antibody, MIA, QC",
+            "isActive": false,
+            "id": "ARBOMIA-QC",
+            "text": "Arbovirus, Antibody, MIA, QC (ARBOMIA-QC)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Arsenic Speciation, Water",
+            "isActive": false,
+            "id": "AsSPEC",
+            "text": "Arsenic Speciation, Water (AsSPEC)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Assess Needs",
+            "isActive": false,
+            "id": "ASSESS",
+            "text": "Assess Needs (ASSESS)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Audit Completed",
+            "isActive": false,
+            "id": "AUDITCOMP",
+            "text": "Audit Completed (AUDITCOMP)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Autopsy Prep Body and Items for Release",
+            "isActive": false,
+            "id": "AUTPREP",
+            "text": "Autopsy Prep Body and Items for Release (AUTPREP)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Await return of affidavit",
+            "isActive": false,
+            "id": "AFF RETURN",
+            "text": "Await return of affidavit (AFF RETURN)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Azide, Cyanide, and Fluoroacetate Screen",
+            "isActive": false,
+            "id": "ACF-SC",
+            "text": "Azide, Cyanide, and Fluoroacetate Screen (ACF-SC)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "B. anthracis PCR",
+            "isActive": false,
+            "id": "BT-TC",
+            "text": "B. anthracis PCR (BT-TC)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "B.anthracis Culture",
+            "isActive": false,
+            "id": "BANTH-CULT",
+            "text": "B.anthracis Culture (BANTH-CULT)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "B.anthracis Env. Filter",
+            "isActive": false,
+            "id": "BANTH-ENVF",
+            "text": "B.anthracis Env. Filter (BANTH-ENVF)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "B.anthracis Env. Wipe",
+            "isActive": false,
+            "id": "BANTH-ENVW",
+            "text": "B.anthracis Env. Wipe (BANTH-ENVW)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "B.anthracis PCR",
+            "isActive": false,
+            "id": "BANTH-PCR",
+            "text": "B.anthracis PCR (BANTH-PCR)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "B.anthracis PCR, QC",
+            "isActive": false,
+            "id": "BANTH-QC",
+            "text": "B.anthracis PCR, QC (BANTH-QC)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "B.anthracis Swab",
+            "isActive": false,
+            "id": "BANTH-SWAB",
+            "text": "B.anthracis Swab (BANTH-SWAB)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "B.anthracis, Capsule Detection",
+            "isActive": false,
+            "id": "BANTH-CAP",
+            "text": "B.anthracis, Capsule Detection (BANTH-CAP)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "B.anthracis, Catalase",
+            "isActive": false,
+            "id": "BANTH-CA",
+            "text": "B.anthracis, Catalase (BANTH-CA)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "B.anthracis, DFA, Capsule",
+            "isActive": false,
+            "id": "BANTH-DCAP",
+            "text": "B.anthracis, DFA, Capsule (BANTH-DCAP)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "B.anthracis, DFA, Cell Wall",
+            "isActive": false,
+            "id": "BANTH-DCW",
+            "text": "B.anthracis, DFA, Cell Wall (BANTH-DCW)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "B.anthracis, Etest",
+            "isActive": false,
+            "id": "BANTH-E",
+            "text": "B.anthracis, Etest (BANTH-E)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "B.anthracis, Final Result",
+            "isActive": false,
+            "id": "BANTH-CONC",
+            "text": "B.anthracis, Final Result (BANTH-CONC)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "B.anthracis, Final Result",
+            "isActive": false,
+            "id": "BANTHRACIS",
+            "text": "B.anthracis, Final Result (BANTHRACIS)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "B.anthracis, Gram Stain",
+            "isActive": false,
+            "id": "BANTH-GS",
+            "text": "B.anthracis, Gram Stain (BANTH-GS)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "B.anthracis, Hemolysis",
+            "isActive": false,
+            "id": "BANTH-HE",
+            "text": "B.anthracis, Hemolysis (BANTH-HE)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "B.anthracis, Motility",
+            "isActive": false,
+            "id": "BANTH-MO",
+            "text": "B.anthracis, Motility (BANTH-MO)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "B.anthracis, Phage Lysis",
+            "isActive": false,
+            "id": "BANTH-PL",
+            "text": "B.anthracis, Phage Lysis (BANTH-PL)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "B.anthracis, Wet Mount",
+            "isActive": false,
+            "id": "BANTH-WM",
+            "text": "B.anthracis, Wet Mount (BANTH-WM)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "B.Pertussis",
+            "isActive": false,
+            "id": "BPERT",
+            "text": "B.Pertussis (BPERT)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "B.Pertussis",
+            "isActive": false,
+            "id": "EP-S-PCR",
+            "text": "B.Pertussis (EP-S-PCR)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "B.Pertussis, Culture",
+            "isActive": false,
+            "id": "BPERTC",
+            "text": "B.Pertussis, Culture (BPERTC)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "B.Pertussis, Fluorescent Antibody Conf.",
+            "isActive": false,
+            "id": "BPDFA",
+            "text": "B.Pertussis, Fluorescent Antibody Conf. (BPDFA)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Bacillus cereus enterotoxin, Food",
+            "isActive": false,
+            "id": "BEBCET-F",
+            "text": "Bacillus cereus enterotoxin, Food (BEBCET-F)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Bacillus Cereus, Culture",
+            "isActive": false,
+            "id": "BCEREUS",
+            "text": "Bacillus Cereus, Culture (BCEREUS)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Bacillus Cereus, Enterotox Det.",
+            "isActive": false,
+            "id": "BCTOXIN",
+            "text": "Bacillus Cereus, Enterotox Det. (BCTOXIN)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Bacillus cereus, FDA,F",
+            "isActive": false,
+            "id": "BCBAM14F",
+            "text": "Bacillus cereus, FDA,F (BCBAM14F)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Bacterial Vaginosis",
+            "isActive": false,
+            "id": "CL-M-BVAG",
+            "text": "Bacterial Vaginosis (CL-M-BVAG)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Bacteriology template creation",
+            "isActive": false,
+            "id": "BACT-TMPLT",
+            "text": "Bacteriology template creation (BACT-TMPLT)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Batch Contact Log Entry",
+            "isActive": false,
+            "id": "BATCH_CO",
+            "text": "Batch Contact Log Entry (BATCH_CO)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Batch evaluation/ results verification",
+            "isActive": false,
+            "id": "BATCHREVB",
+            "text": "Batch evaluation/ results verification (BATCHREVB)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Batch evaluation/ results verification",
+            "isActive": false,
+            "id": "BATCH_REV",
+            "text": "Batch evaluation/ results verification (BATCH_REV)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Batch Review for Air",
+            "isActive": false,
+            "id": "BREV-AIR",
+            "text": "Batch Review for Air (BREV-AIR)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Batch Review for Clinical",
+            "isActive": false,
+            "id": "BREV-CLIN",
+            "text": "Batch Review for Clinical (BREV-CLIN)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Batch Review for Emergency Response",
+            "isActive": false,
+            "id": "BREV-BT-ER",
+            "text": "Batch Review for Emergency Response (BREV-BT-ER)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Batch Review for Emergency Response",
+            "isActive": false,
+            "id": "BREV-CT-ER",
+            "text": "Batch Review for Emergency Response (BREV-CT-ER)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Batch Review for Emergency Response",
+            "isActive": false,
+            "id": "BREV-ER",
+            "text": "Batch Review for Emergency Response (BREV-ER)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Batch Review for HPLC",
+            "isActive": false,
+            "id": "BREV-HPLC",
+            "text": "Batch Review for HPLC (BREV-HPLC)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Batch Review for HPLC",
+            "isActive": false,
+            "id": "BREV-PEST",
+            "text": "Batch Review for HPLC (BREV-PEST)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Batch Review for Lab Inspections",
+            "isActive": false,
+            "id": "BREV-INSP",
+            "text": "Batch Review for Lab Inspections (BREV-INSP)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Batch Review for Metals",
+            "isActive": false,
+            "id": "BREV-METS",
+            "text": "Batch Review for Metals (BREV-METS)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Batch Review for Microbiology",
+            "isActive": false,
+            "id": "BREV-MICR",
+            "text": "Batch Review for Microbiology (BREV-MICR)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Batch Review for Organics",
+            "isActive": false,
+            "id": "BREV-ORG",
+            "text": "Batch Review for Organics (BREV-ORG)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Batch Review for Radiologicals",
+            "isActive": false,
+            "id": "BREV-RADS",
+            "text": "Batch Review for Radiologicals (BREV-RADS)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Batch Review for Semivolatiles",
+            "isActive": false,
+            "id": "BREV-SVOA",
+            "text": "Batch Review for Semivolatiles (BREV-SVOA)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Batch Review for Shipping",
+            "isActive": false,
+            "id": "BREV-EXTT",
+            "text": "Batch Review for Shipping (BREV-EXTT)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Batch Review for Shipping",
+            "isActive": false,
+            "id": "BREV-SHIP",
+            "text": "Batch Review for Shipping (BREV-SHIP)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Batch Review for SOPGAP",
+            "isActive": false,
+            "id": "BREV-SGP",
+            "text": "Batch Review for SOPGAP (BREV-SGP)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Batch Review for Volatiles",
+            "isActive": false,
+            "id": "BREV-VOAS",
+            "text": "Batch Review for Volatiles (BREV-VOAS)",
+            "isCustomChoice": false
+        }
+    ]
+}

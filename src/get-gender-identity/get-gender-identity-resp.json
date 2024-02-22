@@ -1,0 +1,28 @@
+{
+    "options": [
+        {
+            "flags": "A.........",
+            "description": "Gender 1",
+            "isActive": true,
+            "id": "G1",
+            "text": "Gender 1",
+            "isCustomChoice": false
+        },
+        {
+            "flags": "A.........",
+            "description": "Gender 2",
+            "isActive": true,
+            "id": "G2",
+            "text": "Gender 2",
+            "isCustomChoice": false
+        },
+        {
+            "flags": "A.........",
+            "description": "Gender 3",
+            "isActive": true,
+            "id": "G3",
+            "text": "Gender 3",
+            "isCustomChoice": false
+        }
+    ]
+}

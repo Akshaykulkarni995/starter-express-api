@@ -1,0 +1,28 @@
+{
+  "attachedToType": "E",
+  "recipient": "5675",
+  "isHyperLink": "false",
+  "sort": "12",
+  "id": 64438,
+  "use": "Affidavit Report",
+  "isFileSelected": true,
+  "documentURL": null,
+  "isDirty": true,
+  "ownerLab": "a",
+  "busy": true,
+  "fileName": "ee70a385-670b-44a0-9441-a5463f7ec148.PNG",
+  "fileSaved": true,
+  "scanUTCOffset": -330,
+  "flags": [
+    { "legacyPosition": 1, "value": "." },
+    { "legacyPosition": 2, "value": "." },
+    { "legacyPosition": 3, "value": "." },
+    { "legacyPosition": 4, "value": "N" },
+    { "legacyPosition": 5, "value": "." },
+    { "legacyPosition": 6, "value": "." },
+    { "legacyPosition": 7, "value": "." },
+    { "legacyPosition": 8, "value": "." },
+    { "legacyPosition": 9, "value": "." },
+    { "legacyPosition": 10, "value": "." }
+  ]
+}

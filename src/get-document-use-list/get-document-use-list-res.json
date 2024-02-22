@@ -1,0 +1,644 @@
+{
+    "options": [
+        {
+            "id": "!Disposal",
+            "text": "!Disposal",
+            "isCustomChoice": false
+        },
+        {
+            "id": ".dat",
+            "text": ".dat",
+            "isCustomChoice": false
+        },
+        {
+            "id": "2019 SAMPLES",
+            "text": "2019 SAMPLES",
+            "isCustomChoice": false
+        },
+        {
+            "id": "2021_01_d_75_51386",
+            "text": "2021_01_d_75_51386",
+            "isCustomChoice": false
+        },
+        {
+            "id": "2nd pdf",
+            "text": "2nd pdf",
+            "isCustomChoice": false
+        },
+        {
+            "id": "56",
+            "text": "56",
+            "isCustomChoice": false
+        },
+        {
+            "id": "Additional instrument data file",
+            "text": "Additional instrument data file",
+            "isCustomChoice": false
+        },
+        {
+            "id": "Affidavit Report",
+            "text": "Affidavit Report",
+            "isCustomChoice": false
+        },
+        {
+            "id": "All analytes",
+            "text": "All analytes",
+            "isCustomChoice": false
+        },
+        {
+            "id": "Antimony",
+            "text": "Antimony",
+            "isCustomChoice": false
+        },
+        {
+            "id": "Backlog by Department",
+            "text": "Backlog by Department",
+            "isCustomChoice": false
+        },
+        {
+            "id": "Batch Worklist",
+            "text": "Batch Worklist",
+            "isCustomChoice": false
+        },
+        {
+            "id": "Bottle Order Shipping",
+            "text": "Bottle Order Shipping",
+            "isCustomChoice": false
+        },
+        {
+            "id": "COC",
+            "text": "COC",
+            "isCustomChoice": false
+        },
+        {
+            "id": "Chain",
+            "text": "Chain",
+            "isCustomChoice": false
+        },
+        {
+            "id": "Chain Identifier",
+            "text": "Chain Identifier",
+            "isCustomChoice": false
+        },
+        {
+            "id": "Chain of Custody ",
+            "text": "Chain of Custody ",
+            "isCustomChoice": false
+        },
+        {
+            "id": "Clinical Final",
+            "text": "Clinical Final",
+            "isCustomChoice": false
+        },
+        {
+            "id": "Clinical Final Report",
+            "text": "Clinical Final Report",
+            "isCustomChoice": false
+        },
+        {
+            "id": "Clinical Final_20210907_101003366",
+            "text": "Clinical Final_20210907_101003366",
+            "isCustomChoice": false
+        },
+        {
+            "id": "Clinical report - Prelim mode (Telerik)",
+            "text": "Clinical report - Prelim mode (Telerik)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "Collection Supplies Order",
+            "text": "Collection Supplies Order",
+            "isCustomChoice": false
+        },
+        {
+            "id": "Compliance Report",
+            "text": "Compliance Report",
+            "isCustomChoice": false
+        },
+        {
+            "id": "Contact_Import_Template",
+            "text": "Contact_Import_Template",
+            "isCustomChoice": false
+        },
+        {
+            "id": "CustomHelp10032018",
+            "text": "CustomHelp10032018",
+            "isCustomChoice": false
+        },
+        {
+            "id": "DOA Final Report",
+            "text": "DOA Final Report",
+            "isCustomChoice": false
+        },
+        {
+            "id": "Draft Environmental Single Sample Final",
+            "text": "Draft Environmental Single Sample Final",
+            "isCustomChoice": false
+        },
+        {
+            "id": "Dribver",
+            "text": "Dribver",
+            "isCustomChoice": false
+        },
+        {
+            "id": "Environmental Final Report",
+            "text": "Environmental Final Report",
+            "isCustomChoice": false
+        },
+        {
+            "id": "Environmental Single Sample Final",
+            "text": "Environmental Single Sample Final",
+            "isCustomChoice": false
+        },
+        {
+            "id": "Event document",
+            "text": "Event document",
+            "isCustomChoice": false
+        },
+        {
+            "id": "Excel report",
+            "text": "Excel report",
+            "isCustomChoice": false
+        },
+        {
+            "id": "Final Report",
+            "text": "Final Report",
+            "isCustomChoice": false
+        },
+        {
+            "id": "Final report that Danielle Meadows should not see in LabOnline>Reports>Final Reports",
+            "text": "Final report that Danielle Meadows should not see in LabOnline>Reports>Final Reports",
+            "isCustomChoice": false
+        },
+        {
+            "id": "Grubbm",
+            "text": "Grubbm",
+            "isCustomChoice": false
+        },
+        {
+            "id": "Horizon Expanded Patients",
+            "text": "Horizon Expanded Patients",
+            "isCustomChoice": false
+        },
+        {
+            "id": "Horizon Expanded Patients 3",
+            "text": "Horizon Expanded Patients 3",
+            "isCustomChoice": false
+        },
+        {
+            "id": "How to Clear the Whole Auto-Complete Cache",
+            "text": "How to Clear the Whole Auto-Complete Cache",
+            "isCustomChoice": false
+        },
+        {
+            "id": "IChain",
+            "text": "IChain",
+            "isCustomChoice": false
+        },
+        {
+            "id": "Instrument data file",
+            "text": "Instrument data file",
+            "isCustomChoice": false
+        },
+        {
+            "id": "Insurance 1 - 1111",
+            "text": "Insurance 1 - 1111",
+            "isCustomChoice": false
+        },
+        {
+            "id": "Insurance 1 - 7887",
+            "text": "Insurance 1 - 7887",
+            "isCustomChoice": false
+        },
+        {
+            "id": "Insurance 1 - 8221",
+            "text": "Insurance 1 - 8221",
+            "isCustomChoice": false
+        },
+        {
+            "id": "Insurance 1 - 8230",
+            "text": "Insurance 1 - 8230",
+            "isCustomChoice": false
+        },
+        {
+            "id": "Insurance 1 - 8246",
+            "text": "Insurance 1 - 8246",
+            "isCustomChoice": false
+        },
+        {
+            "id": "Insurance 1 - 9531",
+            "text": "Insurance 1 - 9531",
+            "isCustomChoice": false
+        },
+        {
+            "id": "Insurance 1 - ADD Inc. 1",
+            "text": "Insurance 1 - ADD Inc. 1",
+            "isCustomChoice": false
+        },
+        {
+            "id": "Insurance 1 - Aetna",
+            "text": "Insurance 1 - Aetna",
+            "isCustomChoice": false
+        },
+        {
+            "id": "Insurance 1 - Anthem",
+            "text": "Insurance 1 - Anthem",
+            "isCustomChoice": false
+        },
+        {
+            "id": "Insurance 1 - BBC INC",
+            "text": "Insurance 1 - BBC INC",
+            "isCustomChoice": false
+        },
+        {
+            "id": "Insurance 1 - Blue Cross Blue Shield",
+            "text": "Insurance 1 - Blue Cross Blue Shield",
+            "isCustomChoice": false
+        },
+        {
+            "id": "Insurance 1 - Clark, Nexsen PC Architecture + Engineering 3",
+            "text": "Insurance 1 - Clark, Nexsen PC Architecture + Engineering 3",
+            "isCustomChoice": false
+        },
+        {
+            "id": "Insurance 1 - LK Insurance Carrier",
+            "text": "Insurance 1 - LK Insurance Carrier",
+            "isCustomChoice": false
+        },
+        {
+            "id": "Insurance 1 - Medical Claims Corporation",
+            "text": "Insurance 1 - Medical Claims Corporation",
+            "isCustomChoice": false
+        },
+        {
+            "id": "Insurance 2 - 8221",
+            "text": "Insurance 2 - 8221",
+            "isCustomChoice": false
+        },
+        {
+            "id": "Insurance 2 - Aetna",
+            "text": "Insurance 2 - Aetna",
+            "isCustomChoice": false
+        },
+        {
+            "id": "Insurance 2 - BBC INC",
+            "text": "Insurance 2 - BBC INC",
+            "isCustomChoice": false
+        },
+        {
+            "id": "Insurance 2 - Blue Cross Blue Shield",
+            "text": "Insurance 2 - Blue Cross Blue Shield",
+            "isCustomChoice": false
+        },
+        {
+            "id": "Insurance 2 - Company name between twenty one and sixty characters",
+            "text": "Insurance 2 - Company name between twenty one and sixty characters",
+            "isCustomChoice": false
+        },
+        {
+            "id": "Insurance 2 - Medical Claims Corporation",
+            "text": "Insurance 2 - Medical Claims Corporation",
+            "isCustomChoice": false
+        },
+        {
+            "id": "Insurance 2 - Merrick + Co. 2",
+            "text": "Insurance 2 - Merrick + Co. 2",
+            "isCustomChoice": false
+        },
+        {
+            "id": "Insurance 3 - ADD Inc. 1",
+            "text": "Insurance 3 - ADD Inc. 1",
+            "isCustomChoice": false
+        },
+        {
+            "id": "Insurance 3 - ChemWare LLC",
+            "text": "Insurance 3 - ChemWare LLC",
+            "isCustomChoice": false
+        },
+        {
+            "id": "Insurance 3 - Merrick + Co. 2",
+            "text": "Insurance 3 - Merrick + Co. 2",
+            "isCustomChoice": false
+        },
+        {
+            "id": "Invoice - At Large",
+            "text": "Invoice - At Large",
+            "isCustomChoice": false
+        },
+        {
+            "id": "Invoice - Workorder",
+            "text": "Invoice - Workorder",
+            "isCustomChoice": false
+        },
+        {
+            "id": "JPG",
+            "text": "JPG",
+            "isCustomChoice": false
+        },
+        {
+            "id": "JPG_COC",
+            "text": "JPG_COC",
+            "isCustomChoice": false
+        },
+        {
+            "id": "JPJ",
+            "text": "JPJ",
+            "isCustomChoice": false
+        },
+        {
+            "id": "License location",
+            "text": "License location",
+            "isCustomChoice": false
+        },
+        {
+            "id": "MECP Budget",
+            "text": "MECP Budget",
+            "isCustomChoice": false
+        },
+        {
+            "id": "Manifest M000000001",
+            "text": "Manifest M000000001",
+            "isCustomChoice": false
+        },
+        {
+            "id": "Manifest M000000002",
+            "text": "Manifest M000000002",
+            "isCustomChoice": false
+        },
+        {
+            "id": "Manifest M000000003",
+            "text": "Manifest M000000003",
+            "isCustomChoice": false
+        },
+        {
+            "id": "Manifest M000000004",
+            "text": "Manifest M000000004",
+            "isCustomChoice": false
+        },
+        {
+            "id": "Manifest M000000005",
+            "text": "Manifest M000000005",
+            "isCustomChoice": false
+        },
+        {
+            "id": "Manifest M000000006",
+            "text": "Manifest M000000006",
+            "isCustomChoice": false
+        },
+        {
+            "id": "Manifest M000000007",
+            "text": "Manifest M000000007",
+            "isCustomChoice": false
+        },
+        {
+            "id": "Manifest M000000008",
+            "text": "Manifest M000000008",
+            "isCustomChoice": false
+        },
+        {
+            "id": "Manifest M000000009",
+            "text": "Manifest M000000009",
+            "isCustomChoice": false
+        },
+        {
+            "id": "Manifest M000000010",
+            "text": "Manifest M000000010",
+            "isCustomChoice": false
+        },
+        {
+            "id": "Manifest M000000011",
+            "text": "Manifest M000000011",
+            "isCustomChoice": false
+        },
+        {
+            "id": "Manifest M000000012",
+            "text": "Manifest M000000012",
+            "isCustomChoice": false
+        },
+        {
+            "id": "Manifest M000000013",
+            "text": "Manifest M000000013",
+            "isCustomChoice": false
+        },
+        {
+            "id": "Manifest M000000014",
+            "text": "Manifest M000000014",
+            "isCustomChoice": false
+        },
+        {
+            "id": "Manifest M000000015",
+            "text": "Manifest M000000015",
+            "isCustomChoice": false
+        },
+        {
+            "id": "Manifest M000000016",
+            "text": "Manifest M000000016",
+            "isCustomChoice": false
+        },
+        {
+            "id": "Manifest M000000017",
+            "text": "Manifest M000000017",
+            "isCustomChoice": false
+        },
+        {
+            "id": "Manifest M000000018",
+            "text": "Manifest M000000018",
+            "isCustomChoice": false
+        },
+        {
+            "id": "Manifest M000000019",
+            "text": "Manifest M000000019",
+            "isCustomChoice": false
+        },
+        {
+            "id": "Manifest M000000020",
+            "text": "Manifest M000000020",
+            "isCustomChoice": false
+        },
+        {
+            "id": "Manifest M000000021",
+            "text": "Manifest M000000021",
+            "isCustomChoice": false
+        },
+        {
+            "id": "Manifest M000000022",
+            "text": "Manifest M000000022",
+            "isCustomChoice": false
+        },
+        {
+            "id": "Manifest M000000023",
+            "text": "Manifest M000000023",
+            "isCustomChoice": false
+        },
+        {
+            "id": "Manifest M000000024",
+            "text": "Manifest M000000024",
+            "isCustomChoice": false
+        },
+        {
+            "id": "Manifest M000000025",
+            "text": "Manifest M000000025",
+            "isCustomChoice": false
+        },
+        {
+            "id": "Manifest M000000026",
+            "text": "Manifest M000000026",
+            "isCustomChoice": false
+        },
+        {
+            "id": "Manifest M000000027",
+            "text": "Manifest M000000027",
+            "isCustomChoice": false
+        },
+        {
+            "id": "Manifest M000000028",
+            "text": "Manifest M000000028",
+            "isCustomChoice": false
+        },
+        {
+            "id": "Manifest M000000029",
+            "text": "Manifest M000000029",
+            "isCustomChoice": false
+        },
+        {
+            "id": "Manifest M000000030",
+            "text": "Manifest M000000030",
+            "isCustomChoice": false
+        },
+        {
+            "id": "Manifest M000000031",
+            "text": "Manifest M000000031",
+            "isCustomChoice": false
+        },
+        {
+            "id": "Manifest M000000032",
+            "text": "Manifest M000000032",
+            "isCustomChoice": false
+        },
+        {
+            "id": "Manifest M000000033",
+            "text": "Manifest M000000033",
+            "isCustomChoice": false
+        },
+        {
+            "id": "Manifest M000000034",
+            "text": "Manifest M000000034",
+            "isCustomChoice": false
+        },
+        {
+            "id": "Manifest M000000035",
+            "text": "Manifest M000000035",
+            "isCustomChoice": false
+        },
+        {
+            "id": "Manifest M000000036",
+            "text": "Manifest M000000036",
+            "isCustomChoice": false
+        },
+        {
+            "id": "Manifest M000000037",
+            "text": "Manifest M000000037",
+            "isCustomChoice": false
+        },
+        {
+            "id": "Manifest M000000038",
+            "text": "Manifest M000000038",
+            "isCustomChoice": false
+        },
+        {
+            "id": "Manifest M000000039",
+            "text": "Manifest M000000039",
+            "isCustomChoice": false
+        },
+        {
+            "id": "Manifest M000000040",
+            "text": "Manifest M000000040",
+            "isCustomChoice": false
+        },
+        {
+            "id": "Manifest M000000041",
+            "text": "Manifest M000000041",
+            "isCustomChoice": false
+        },
+        {
+            "id": "Manifest M000000042",
+            "text": "Manifest M000000042",
+            "isCustomChoice": false
+        },
+        {
+            "id": "Manifest M000000043",
+            "text": "Manifest M000000043",
+            "isCustomChoice": false
+        },
+        {
+            "id": "Manifest M000000044",
+            "text": "Manifest M000000044",
+            "isCustomChoice": false
+        },
+        {
+            "id": "Manifest M000000045",
+            "text": "Manifest M000000045",
+            "isCustomChoice": false
+        },
+        {
+            "id": "Manifest M000000046",
+            "text": "Manifest M000000046",
+            "isCustomChoice": false
+        },
+        {
+            "id": "Manifest M000000047",
+            "text": "Manifest M000000047",
+            "isCustomChoice": false
+        },
+        {
+            "id": "Manifest M000000048",
+            "text": "Manifest M000000048",
+            "isCustomChoice": false
+        },
+        {
+            "id": "Manifest M000000049",
+            "text": "Manifest M000000049",
+            "isCustomChoice": false
+        },
+        {
+            "id": "Manifest M000000050",
+            "text": "Manifest M000000050",
+            "isCustomChoice": false
+        },
+        {
+            "id": "Manifest M000000051",
+            "text": "Manifest M000000051",
+            "isCustomChoice": false
+        },
+        {
+            "id": "Manifest M000000052",
+            "text": "Manifest M000000052",
+            "isCustomChoice": false
+        },
+        {
+            "id": "Manifest M000000053",
+            "text": "Manifest M000000053",
+            "isCustomChoice": false
+        },
+        {
+            "id": "Manifest M000000054",
+            "text": "Manifest M000000054",
+            "isCustomChoice": false
+        },
+        {
+            "id": "Manifest M000000055",
+            "text": "Manifest M000000055",
+            "isCustomChoice": false
+        },
+        {
+            "id": "Merged File",
+            "text": "Merged File",
+            "isCustomChoice": false
+        },
+        {
+            "id": "My query ",
+            "text": "My query ",
+            "isCustomChoice": false
+        }
+    ]
+}

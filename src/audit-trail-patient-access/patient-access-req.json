@@ -1,0 +1,9 @@
+{
+  "pageIndex": 0,
+  "pageSize": 50,
+  "sortOptions": [{ "column": "accessDate", "descending": true }],
+  "filterOptions": [],
+  "patientId": "64438",
+  "userNbr": null,
+  "externalUserId": null
+}

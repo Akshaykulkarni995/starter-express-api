@@ -1,0 +1,228 @@
+{
+    "tasks": [
+        {
+            "departmentId": {
+                "id": "TECH",
+                "text": "Technical intervention (TECH)",
+                "isCustomChoice": false
+            },
+            "procedureId": {
+                "id": "PATIENT_CO",
+                "text": "Patient Contact Log Entry (PATIENT_CO)",
+                "isCustomChoice": false
+            },
+            "analyteListId": null,
+            "conditionCodeId": {
+                "code": null,
+                "releaseStatus": null,
+                "id": null,
+                "text": " ()",
+                "isCustomChoice": false
+            },
+            "status": {
+                "id": "Ready",
+                "text": "Ready",
+                "isCustomChoice": false
+            },
+            "due": "2024-01-13T00:12:00.000000Z",
+            "completed": null,
+            "expires": null,
+            "containerId": null,
+            "batch": null,
+            "batchSeq": null,
+            "notes": null,
+            "created": "2024-01-13T00:12:33.000000Z",
+            "thread": null,
+            "lastModifiedBy": "Mr. Chris West",
+            "quantity": null,
+            "kind": {
+                "id": "Administrative",
+                "text": "Administrative",
+                "isCustomChoice": false
+            },
+            "method": "BAM LIST",
+            "rule": "Contact Log Batch",
+            "hasMsiteAccess": null,
+            "legacyKey": "2606666",
+            "labTaskId": "2606666",
+            "level": null,
+            "isLocked": false,
+            "isPosted": false,
+            "path": null,
+            "revision": "5503783",
+            "hasTaskAccess": true,
+            "userName": "Mr. Chris West",
+            "eSign": null,
+            "isESignRequired": true,
+            "canPostTasksManually": true
+        },
+        {
+            "departmentId": {
+                "id": "TECH",
+                "text": "Technical intervention (TECH)",
+                "isCustomChoice": false
+            },
+            "procedureId": {
+                "id": "PATIENT_CO",
+                "text": "Patient Contact Log Entry (PATIENT_CO)",
+                "isCustomChoice": false
+            },
+            "analyteListId": null,
+            "conditionCodeId": {
+                "code": null,
+                "releaseStatus": null,
+                "id": null,
+                "text": " ()",
+                "isCustomChoice": false
+            },
+            "status": {
+                "id": "Ready",
+                "text": "Ready",
+                "isCustomChoice": false
+            },
+            "due": "2024-01-12T23:41:00.000000Z",
+            "completed": null,
+            "expires": null,
+            "containerId": null,
+            "batch": null,
+            "batchSeq": null,
+            "notes": null,
+            "created": "2024-01-12T23:41:36.000000Z",
+            "thread": null,
+            "lastModifiedBy": "Mr. Chris West",
+            "quantity": null,
+            "kind": {
+                "id": "Administrative",
+                "text": "Administrative",
+                "isCustomChoice": false
+            },
+            "method": "BAM LIST",
+            "rule": "Contact Log Batch",
+            "hasMsiteAccess": null,
+            "legacyKey": "2606662",
+            "labTaskId": "2606662",
+            "level": null,
+            "isLocked": false,
+            "isPosted": false,
+            "path": null,
+            "revision": "5503779",
+            "hasTaskAccess": true,
+            "userName": "Mr. Chris West",
+            "eSign": null,
+            "isESignRequired": true,
+            "canPostTasksManually": true
+        },
+        {
+            "departmentId": {
+                "id": "TECH",
+                "text": "Technical intervention (TECH)",
+                "isCustomChoice": false
+            },
+            "procedureId": {
+                "id": "PATIENTCOD",
+                "text": "Patient Contact Log Entry (Group D) (PATIENTCOD)",
+                "isCustomChoice": false
+            },
+            "analyteListId": null,
+            "conditionCodeId": {
+                "code": null,
+                "releaseStatus": null,
+                "id": null,
+                "text": " ()",
+                "isCustomChoice": false
+            },
+            "status": {
+                "id": "Ready",
+                "text": "Ready",
+                "isCustomChoice": false
+            },
+            "due": "2024-01-16T00:12:00.000000Z",
+            "completed": null,
+            "expires": null,
+            "containerId": null,
+            "batch": null,
+            "batchSeq": null,
+            "notes": null,
+            "created": "2024-01-13T00:12:24.000000Z",
+            "thread": null,
+            "lastModifiedBy": "Mr. Chris West",
+            "quantity": null,
+            "kind": {
+                "id": "Administrative",
+                "text": "Administrative",
+                "isCustomChoice": false
+            },
+            "method": "Administrative",
+            "rule": "Contact Log Batch",
+            "hasMsiteAccess": null,
+            "legacyKey": "2606665",
+            "labTaskId": "2606665",
+            "level": null,
+            "isLocked": false,
+            "isPosted": false,
+            "path": null,
+            "revision": "5503782",
+            "hasTaskAccess": true,
+            "userName": "Mr. Chris West",
+            "eSign": null,
+            "isESignRequired": true,
+            "canPostTasksManually": true
+        },
+        {
+            "departmentId": {
+                "id": "TECH",
+                "text": "Technical intervention (TECH)",
+                "isCustomChoice": false
+            },
+            "procedureId": {
+                "id": "PATIENT_CO",
+                "text": "Patient Contact Log Entry (PATIENT_CO)",
+                "isCustomChoice": false
+            },
+            "analyteListId": null,
+            "conditionCodeId": {
+                "code": null,
+                "releaseStatus": null,
+                "id": null,
+                "text": " ()",
+                "isCustomChoice": false
+            },
+            "status": {
+                "id": "Ready",
+                "text": "Ready",
+                "isCustomChoice": false
+            },
+            "due": "2024-01-13T00:10:00.000000Z",
+            "completed": null,
+            "expires": null,
+            "containerId": null,
+            "batch": null,
+            "batchSeq": null,
+            "notes": null,
+            "created": "2024-01-13T00:10:58.000000Z",
+            "thread": null,
+            "lastModifiedBy": "Mr. Chris West",
+            "quantity": null,
+            "kind": {
+                "id": "Administrative",
+                "text": "Administrative",
+                "isCustomChoice": false
+            },
+            "method": "BAM LIST",
+            "rule": "Contact Log Batch",
+            "hasMsiteAccess": null,
+            "legacyKey": "2606664",
+            "labTaskId": "2606664",
+            "level": null,
+            "isLocked": false,
+            "isPosted": false,
+            "path": null,
+            "revision": "5503781",
+            "hasTaskAccess": true,
+            "userName": "Mr. Chris West",
+            "eSign": null,
+            "isESignRequired": true,
+            "canPostTasksManually": true
+        }
+    ]
+}

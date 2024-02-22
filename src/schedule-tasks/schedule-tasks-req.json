@@ -1,0 +1,19 @@
+{
+    "patientId": 98470,
+    "batchId": null,
+    "workorderSeq": null,
+    "testCode": "16S",
+    "testCodeDescription": "16S rRNA Sequence Analysis",
+    "orderDate": "2024-01-13T17:59:00.000000Z",
+    "containerId": null,
+    "testPhaseId": null,
+    "isBillable": "false",
+    "workLabId": null,
+    "departmentId": null,
+    "turnDays": "5",
+    "isLoading": false,
+    "isWorkLabRequired": false,
+    "isAnalysis": false,
+    "testDefinitionId": "16S",
+    "testDefinitionDescription": "16S rRNA Sequence Analysis"
+}

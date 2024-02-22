@@ -1,0 +1,114 @@
+{
+    "items": [
+        {
+            "testCode": "16S",
+            "testCodeDescription": "16S rRNA Sequence Analysis",
+            "isBillable": false
+        },
+        {
+            "testCode": "16S-R",
+            "testCodeDescription": "16S rRNA Sequence Analysis",
+            "isBillable": false
+        },
+        {
+            "testCode": "16S-R-D",
+            "testCodeDescription": "16S rRNA Sequence Analysis (D)",
+            "isBillable": false
+        },
+        {
+            "testCode": "3000-S-QC",
+            "testCodeDescription": "EPA 300.0, Soil, QC",
+            "isBillable": false
+        },
+        {
+            "testCode": "BA2007-S",
+            "testCodeDescription": "Barium, 200.7, SO, ICP",
+            "isBillable": false
+        },
+        {
+            "testCode": "CALLCUSTP",
+            "testCodeDescription": "Customer follow-up (Call log)",
+            "isBillable": false
+        },
+        {
+            "testCode": "Calibrat",
+            "testCodeDescription": "Regression test calibration",
+            "isBillable": false
+        },
+        {
+            "testCode": "EML-FAIL",
+            "testCodeDescription": "Email Failure",
+            "isBillable": false
+        },
+        {
+            "testCode": "Group A",
+            "testCodeDescription": "Group A",
+            "isBillable": false
+        },
+        {
+            "testCode": "PATIENT_CO",
+            "testCodeDescription": "Patient Level Contact Log",
+            "isBillable": false
+        },
+        {
+            "testCode": "PATIENT_ST",
+            "testCodeDescription": "Patient Admin",
+            "isBillable": false
+        },
+        {
+            "testCode": "PAT_CALL",
+            "testCodeDescription": "Patient Phone Call",
+            "isBillable": false
+        },
+        {
+            "testCode": "PAT_CALLDU",
+            "testCodeDescription": "Patient Phone Call",
+            "isBillable": false
+        },
+        {
+            "testCode": "Pat_GroupA",
+            "testCodeDescription": "Pat_GroupA",
+            "isBillable": false
+        },
+        {
+            "testCode": "Pat_GroupB",
+            "testCodeDescription": "Pat_GroupB",
+            "isBillable": false
+        },
+        {
+            "testCode": "Patient-R2",
+            "testCodeDescription": "Patient Level Contact Log -REG",
+            "isBillable": false
+        },
+        {
+            "testCode": "Patient-RE",
+            "testCodeDescription": "Patient Level Contact Log -REG",
+            "isBillable": false
+        },
+        {
+            "testCode": "REG22",
+            "testCodeDescription": "Regression test 222",
+            "isBillable": false
+        },
+        {
+            "testCode": "REGRESSION",
+            "testCodeDescription": "Regression test ",
+            "isBillable": false
+        },
+        {
+            "testCode": "REg333",
+            "testCodeDescription": "Regression test  333",
+            "isBillable": false
+        },
+        {
+            "testCode": "W Group A",
+            "testCodeDescription": "Workorder group A",
+            "isBillable": false
+        },
+        {
+            "testCode": "W Group B",
+            "testCodeDescription": "W Group B",
+            "isBillable": false
+        }
+    ]
+}

@@ -1,0 +1,207 @@
+{
+  "id": 9694,
+  "formTitle": "Mister Krabs",
+  "formSubTitle": "Krusty Krab",
+  "pageTitle": "Contact: Mister Krabs",
+  "title": {
+    "id": "Mr.",
+    "text": "Mr.",
+    "isCustomChoice": false
+  },
+  "firstName": "Mister",
+  "middleName": null,
+  "lastName": "Krabs",
+  "lastLogon": "07/05/2021 11:28",
+  "pwdLastChanged": null,
+  "accountStatus": "A",
+  "initials": null,
+  "email": "kcarter@horizonlims.com",
+  "externalUserGUID": null,
+  "officeId": null,
+  "companyName": "Krusty Krab",
+  "addressLine1": null,
+  "addressLine2": null,
+  "city": null,
+  "state": null,
+  "zipCode": null,
+  "county": null,
+  "grid": null,
+  "country": null,
+  "referrerId": null,
+  "province": null,
+  "webPortalUserName": "mkrabs",
+  "phoneNumbers": [],
+  "auxData": [
+    {
+      "FormatCode": "AAD",
+      "FormatDescription": "Address Aux Data",
+      "IsActive": true,
+      "IsSelected": false,
+      "SortCode": 0,
+      "PromptsWithEntries": [
+        {
+          "FieldNumber": 1,
+          "Prompt": "Preferences",
+          "IsRequired": true,
+          "IsAlphanumeric": true,
+          "IsCustomList": false,
+          "IsDate": false,
+          "IsNumeric": false,
+          "IsTime": false,
+          "IsDateTime": false,
+          "IsActive": true,
+          "SortOrder": 0,
+          "FieldLength": 12,
+          "DefaultValue": null,
+          "AuxDataFormatCode": null,
+          "AuxDataValue": null,
+          "AuxDataValueDescription": null,
+          "ListCode": null
+        }
+      ],
+      "ShowCloseIcon": null,
+      "FormatRequiredFor": null,
+      "FormatRequiredForLabel": null
+    },
+    {
+      "FormatCode": "INS",
+      "FormatDescription": "Insurance Payor ID",
+      "IsActive": true,
+      "IsSelected": false,
+      "SortCode": 0,
+      "PromptsWithEntries": [
+        {
+          "FieldNumber": 1,
+          "Prompt": "Payor ID",
+          "IsRequired": true,
+          "IsAlphanumeric": true,
+          "IsCustomList": false,
+          "IsDate": false,
+          "IsNumeric": false,
+          "IsTime": false,
+          "IsDateTime": false,
+          "IsActive": true,
+          "SortOrder": 0,
+          "FieldLength": 40,
+          "DefaultValue": null,
+          "AuxDataFormatCode": null,
+          "AuxDataValue": null,
+          "AuxDataValueDescription": null,
+          "ListCode": null
+        }
+      ],
+      "ShowCloseIcon": null,
+      "FormatRequiredFor": null,
+      "FormatRequiredForLabel": null
+    },
+    {
+      "FormatCode": "MXFX",
+      "FormatDescription": "Faxing Preferences",
+      "IsActive": true,
+      "IsSelected": false,
+      "SortCode": 15,
+      "PromptsWithEntries": [
+        {
+          "FieldNumber": 1,
+          "Prompt": "Maximum number of docs/fax",
+          "IsRequired": false,
+          "IsAlphanumeric": false,
+          "IsCustomList": false,
+          "IsDate": false,
+          "IsNumeric": true,
+          "IsTime": false,
+          "IsDateTime": false,
+          "IsActive": true,
+          "SortOrder": 0,
+          "FieldLength": 13,
+          "DefaultValue": null,
+          "AuxDataFormatCode": null,
+          "AuxDataValue": null,
+          "AuxDataValueDescription": null,
+          "ListCode": null
+        },
+        {
+          "FieldNumber": 2,
+          "Prompt": "Minutes between transmission",
+          "IsRequired": false,
+          "IsAlphanumeric": false,
+          "IsCustomList": false,
+          "IsDate": false,
+          "IsNumeric": true,
+          "IsTime": false,
+          "IsDateTime": false,
+          "IsActive": true,
+          "SortOrder": 0,
+          "FieldLength": 13,
+          "DefaultValue": null,
+          "AuxDataFormatCode": null,
+          "AuxDataValue": null,
+          "AuxDataValueDescription": null,
+          "ListCode": null
+        }
+      ],
+      "ShowCloseIcon": null,
+      "FormatRequiredFor": null,
+      "FormatRequiredForLabel": null
+    }
+  ],
+  "isCarrier": false,
+  "isFDCCollector": "N",
+  "isCollector": true,
+  "contactRelations": [
+    {
+      "Profile": null,
+      "Workorder": null,
+      "Client": "A. Epstein and Sons International Inc. 1",
+      "IsInvoiceRecipient": false,
+      "IsReportRecipient": true
+    }
+  ],
+  "contactRelationshipOverview": "1 other client relationships for this contact",
+  "labOnlineTemplate": {
+    "id": "8",
+    "text": "Clinical",
+    "isCustomChoice": false
+  },
+  "universalSearch": false,
+  "deliveryPrint": false,
+  "deliveryInternal": false,
+  "deliveryEmail": false,
+  "deliveryWebPortal": false,
+  "deliveryFax": false,
+  "deliveryOther": false,
+  "arAccountId": null,
+  "isLOPrivUser": false,
+  "Success": true,
+  "UnmetExpectations": [],
+  "flags": [
+    {
+      "legacyPosition": "1",
+      "value": "A"
+    },
+    {
+      "legacyPosition": "2",
+      "value": "C"
+    },
+    {
+      "legacyPosition": "3",
+      "value": "."
+    },
+    {
+      "legacyPosition": "4",
+      "value": "."
+    },
+    {
+      "legacyPosition": "5",
+      "value": "R"
+    },
+    {
+      "legacyPosition": "6",
+      "value": "."
+    },
+    {
+      "legacyPosition": "7",
+      "value": "."
+    }
+  ]
+}

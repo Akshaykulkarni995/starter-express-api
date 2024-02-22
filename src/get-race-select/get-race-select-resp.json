@@ -1,0 +1,100 @@
+{
+    "options": [
+        {
+            "flags": "A.........",
+            "description": "A or B",
+            "isActive": true,
+            "id": "A_B",
+            "text": "A or B",
+            "isCustomChoice": false
+        },
+        {
+            "flags": "A.........",
+            "description": "Multi-Racial",
+            "isActive": true,
+            "id": "MR",
+            "text": "Multi-Racial",
+            "isCustomChoice": false
+        },
+        {
+            "flags": "A.........",
+            "description": "Other",
+            "isActive": true,
+            "id": "OT",
+            "text": "Other",
+            "isCustomChoice": false
+        },
+        {
+            "flags": "A.........",
+            "description": "Unknown",
+            "isActive": true,
+            "id": "UNK",
+            "text": "Unknown",
+            "isCustomChoice": false
+        },
+        {
+            "flags": "A.........",
+            "description": "Unspecified",
+            "isActive": true,
+            "id": "UNS",
+            "text": "Unspecified",
+            "isCustomChoice": false
+        },
+        {
+            "flags": "A.........",
+            "description": "American Indian/Alaskan Native",
+            "isActive": true,
+            "id": "AmInd_AlaNat",
+            "text": "American Indian/Alaskan Native",
+            "isCustomChoice": false
+        },
+        {
+            "flags": "A.........",
+            "description": "Asian/Pacific Islander",
+            "isActive": true,
+            "id": "Asian_PacIsl",
+            "text": "Asian/Pacific Islander",
+            "isCustomChoice": false
+        },
+        {
+            "flags": "A.........",
+            "description": "Black",
+            "isActive": true,
+            "id": "Black",
+            "text": "Black",
+            "isCustomChoice": false
+        },
+        {
+            "flags": "A.........",
+            "description": "Asian",
+            "isActive": true,
+            "id": "AS",
+            "text": "Asian",
+            "isCustomChoice": false
+        },
+        {
+            "flags": "A.........",
+            "description": "White",
+            "isActive": true,
+            "id": "White",
+            "text": "White",
+            "isCustomChoice": false
+        },
+        {
+            "flags": "A.........",
+            "description": "Other",
+            "isActive": true,
+            "id": "Other",
+            "text": "Other",
+            "isCustomChoice": false
+        },
+        {
+            "flags": "A.........",
+            "description": "Pacific Islander",
+            "isActive": true,
+            "id": "PI",
+            "text": "Pacific Islander",
+            "isCustomChoice": false
+        }
+    ]
+}

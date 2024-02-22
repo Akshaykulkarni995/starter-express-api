@@ -1,0 +1,202 @@
+{
+    "flags": [
+        {
+            "legacyPosition": 1,
+            "value": "R",
+            "label": "Reportable",
+            "isMissing": false,
+            "isActive": true,
+            "allowedValues": [
+                {
+                    "value": "N",
+                    "label": "The comment is not reportable (N)",
+                    "isDefault": false,
+                    "isActive": true
+                },
+                {
+                    "value": "R",
+                    "label": "The comment is reportable (R)",
+                    "isDefault": true,
+                    "isActive": true
+                }
+            ]
+        },
+        {
+            "legacyPosition": 2,
+            "value": "N",
+            "label": "Entered by remote login",
+            "isMissing": false,
+            "isActive": true,
+            "allowedValues": [
+                {
+                    "value": ".",
+                    "label": "Comment was not entered by remote login (.)",
+                    "isDefault": false,
+                    "isActive": true
+                },
+                {
+                    "value": "L",
+                    "label": "Comment was entered by remote login (L)",
+                    "isDefault": false,
+                    "isActive": true
+                },
+                {
+                    "value": "N",
+                    "label": "Comment was not entered by remote login (N)",
+                    "isDefault": true,
+                    "isActive": true
+                }
+            ]
+        },
+        {
+            "legacyPosition": 3,
+            "value": "F",
+            "label": "Placement of comment",
+            "isMissing": false,
+            "isActive": true,
+            "allowedValues": [
+                {
+                    "value": "F",
+                    "label": "Place as footnote (F)",
+                    "isDefault": true,
+                    "isActive": true
+                },
+                {
+                    "value": "N",
+                    "label": "Case Narrative (N)",
+                    "isDefault": false,
+                    "isActive": true
+                },
+                {
+                    "value": "E",
+                    "label": "Place as endnote (not implemented) (E)",
+                    "isDefault": false,
+                    "isActive": true
+                },
+                {
+                    "value": "G",
+                    "label": "Appears on Control Chart (G)",
+                    "isDefault": false,
+                    "isActive": true
+                },
+                {
+                    "value": "I",
+                    "label": "Place as introduction (not implemented) (I)",
+                    "isDefault": false,
+                    "isActive": true
+                }
+            ]
+        },
+        {
+            "legacyPosition": 4,
+            "value": ".",
+            "label": "Available for Lab Use",
+            "isMissing": false,
+            "isActive": true,
+            "allowedValues": [
+                {
+                    "value": ".",
+                    "label": "Not used (.)",
+                    "isDefault": true,
+                    "isActive": true
+                },
+                {
+                    "value": "E",
+                    "label": "EPA (E)",
+                    "isDefault": false,
+                    "isActive": true
+                }
+            ]
+        },
+        {
+            "legacyPosition": 5,
+            "value": ".",
+            "label": "Available for Lab Use",
+            "isMissing": false,
+            "isActive": true,
+            "allowedValues": [
+                {
+                    "value": ".",
+                    "label": "Not used (.)",
+                    "isDefault": true,
+                    "isActive": true
+                }
+            ]
+        },
+        {
+            "legacyPosition": 6,
+            "value": ".",
+            "label": "Reserved for system use",
+            "isMissing": false,
+            "isActive": false,
+            "allowedValues": [
+                {
+                    "value": ".",
+                    "label": "Not Used (.)",
+                    "isDefault": true,
+                    "isActive": true
+                }
+            ]
+        },
+        {
+            "legacyPosition": 7,
+            "value": ".",
+            "label": "Reserved for system use",
+            "isMissing": false,
+            "isActive": false,
+            "allowedValues": [
+                {
+                    "value": ".",
+                    "label": "Not Used (.)",
+                    "isDefault": true,
+                    "isActive": true
+                }
+            ]
+        },
+        {
+            "legacyPosition": 8,
+            "value": ".",
+            "label": "Reserved for system use",
+            "isMissing": false,
+            "isActive": false,
+            "allowedValues": [
+                {
+                    "value": ".",
+                    "label": "Not Used (.)",
+                    "isDefault": true,
+                    "isActive": true
+                }
+            ]
+        },
+        {
+            "legacyPosition": 9,
+            "value": ".",
+            "label": "Reserved for system use",
+            "isMissing": false,
+            "isActive": false,
+            "allowedValues": [
+                {
+                    "value": ".",
+                    "label": "Not Used (.)",
+                    "isDefault": true,
+                    "isActive": true
+                }
+            ]
+        },
+        {
+            "legacyPosition": 10,
+            "value": ".",
+            "label": "Reserved for system use",
+            "isMissing": false,
+            "isActive": false,
+            "allowedValues": [
+                {
+                    "value": ".",
+                    "label": "Not Used (.)",
+                    "isDefault": true,
+                    "isActive": true
+                }
+            ]
+        }
+    ]
+}

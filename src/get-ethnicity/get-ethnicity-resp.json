@@ -1,0 +1,28 @@
+{
+    "options": [
+        {
+            "flags": "A.........",
+            "description": "Hispanic",
+            "isActive": true,
+            "id": "H",
+            "text": "Hispanic",
+            "isCustomChoice": false
+        },
+        {
+            "flags": "A.........",
+            "description": "Not Hispanic",
+            "isActive": true,
+            "id": "NH",
+            "text": "Not Hispanic",
+            "isCustomChoice": false
+        },
+        {
+            "flags": "A.........",
+            "description": "Klingon",
+            "isActive": true,
+            "id": "K",
+            "text": "Klingon",
+            "isCustomChoice": false
+        }
+    ]
+}

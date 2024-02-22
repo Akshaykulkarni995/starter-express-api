@@ -1,0 +1,1186 @@
+{
+    "options": [
+        {
+            "fullCommentText": "The 16S rDNA sequence analysis assay was designed and validated with research reagents and procedures by the Idaho Bureau of Laboratories and is not FDA approved. 16S rDNA sequencing results are intended to be used in conjunction with other clinical information in determining patient diagnosis and treatment.",
+            "id": "16S",
+            "text": "[16S] - [The 16S rDNA sequence analysis assay was designed and validated with research reagents and procedures by the Idaho Bureau of Laboratories and is not FDA approved. 16S rDNA sequencing results are intended to be used in conjunction with other clinical information in determining patient diagnosis and treatment.]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "Value reported is the arithmetic mean (average) of two or more determinations. This code shall be used if the results of two or more discrete and separate samples are averaged. These samples shall have been processed and analyzed (e.g., laboratory replicate samples, field duplicates, etc.) independently. Do not use this code if the data are the result of replicate analysis on the same sample aliquot, extract or digestate. Under most conditions, replicate values shall be reported as individual analyses.",
+            "id": "A",
+            "text": "[A] - [Value reported is the arithmetic mean (average) of two or more determinations. This code shall be used if the results of two or more discrete and separate samples are averaged. These samples shall have been processed and analyzed (e.g., laboratory replicate samples, field duplicates, etc.) independently. Do not use this code if the data are the result of replicate analysis on the same sample aliquot, extract or digestate. Under most conditions, replicate values shall be reported as individual analyses.]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "AABB test for DEPT ADL3",
+            "id": "AABB",
+            "text": "[AABB] - [AABB test for DEPT ADL3]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "The performance of this specimen type has not been evaluated in women/men less than 16 years of age.",
+            "id": "AGE16",
+            "text": "[AGE16] - [The performance of this specimen type has not been evaluated in women/men less than 16 years of age.]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "The APTIMA Combo 2 Assay is not intended for the evaluation of suspected sexual abuse or for other medico-legal indications. For those patients for whom a false positive result may have adverse psycho-social impact the CDC recommends retesting by a method using alternate technology.",
+            "id": "APTIMA",
+            "text": "[APTIMA] - [The APTIMA Combo 2 Assay is not intended for the evaluation of suspected sexual abuse or for other medico-legal indications. For those patients for whom a false positive result may have adverse psycho-social impact the CDC recommends retesting by a method using alternate technology.]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "The Maximum contamination level for Arsenic in drinking water is 0.01 mg/L.",
+            "id": "AS-MCL",
+            "text": "[AS-MCL] - [The Maximum contamination level for Arsenic in drinking water is 0.01 mg/L.]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "According to CLSI guidelines, M. abscessus, M. chelonae, M. massiliense, and M. bolletti share 100% identity of the 16S rRNA gene. With our current testing capabilities no additional species resolution is available.",
+            "id": "Abscess",
+            "text": "[Abscess] - [According to CLSI guidelines, M. abscessus, M. chelonae, M. massiliense, and M. bolletti share 100% identity of the 16S rRNA gene. With our current testing capabilities no additional species resolution is available.]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "This is a predefined comment for Radiologicals analytes. Analyte is @analyte@.",
+            "id": "Alpha",
+            "text": "[Alpha] - [This is a predefined comment for Radiologicals analytes. Analyte is @analyte@.]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "Analyte found in blank. Possible laboratory contamination.",
+            "id": "B",
+            "text": "[B] - [Analyte found in blank. Possible laboratory contamination.]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "Bacterial DNA was not detected upon testing an extraction of the sample. However, bacterial growth was detected upon culture of the sample and determined to be ____________________. It is not clear if this organism represents contamination of the sample or the source of the infection. Please interpret these results with appropriate caution.",
+            "id": "BACTGROWTH",
+            "text": "[BACTGROWTH] - [Bacterial DNA was not detected upon testing an extraction of the sample. However, bacterial growth was detected upon culture of the sample and determined to be ____________________. It is not clear if this organism represents contamination of the sample or the source of the infection. Please interpret these results with appropriate caution.]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "The presence of blood was noted in this specimen. Grossly bloody specimens (greater than 80 µL whole blood in 1 mL transport media) may interfere with performance of the Gen-Probe Pace 2 Assay.\nThe presence of blood was noted in this specimen. Grossly bloody specimens (greater than 80 µL whole blood in 1 mL transport media) may interfere with performance of the Gen-Probe Pace 2 Assay.",
+            "id": "Blood Present",
+            "text": "[Blood Present] - [The presence of blood was noted in this specimen. Grossly bloody specimens (greater than 80 µL whole blood in 1 mL transport media) may interfere with performance of the Gen-Probe Pace 2 Assay.\nThe presence of blood was noted in this specimen. Grossly bloody specimens (greater than 80 µL whole blood in 1 mL transport media) may interfere with performance of the Gen-Probe Pace 2 Assay.]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "Stool was not quantitated; confirmation of C. perfringens involves isolation of 100,000 organisms/gram from stool of two or more ill persons (MMWR, March 17, 2000).",
+            "id": "C. perfringens",
+            "text": "[C. perfringens] - [Stool was not quantitated; confirmation of C. perfringens involves isolation of 100,000 organisms/gram from stool of two or more ill persons (MMWR, March 17, 2000).]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "No botulinum toxin A, B, E or F detected. Assay does not detect botulinum toxins C, D, and G.",
+            "id": "CBOT-NEG",
+            "text": "[CBOT-NEG] - [No botulinum toxin A, B, E or F detected. Assay does not detect botulinum toxins C, D, and G.]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "Presumptive positive for botulinum toxin type(s). Assay must be confirmed by mouse bioassay.",
+            "id": "CBOT-PPOS",
+            "text": "[CBOT-PPOS] - [Presumptive positive for botulinum toxin type(s). Assay must be confirmed by mouse bioassay.]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "Sample submitted to CDC for confirmation of results - final\nSample submitted to CDC for confirmation of results - final report to follow. report to follow.",
+            "id": "CDC",
+            "text": "[CDC] - [Sample submitted to CDC for confirmation of results - final\nSample submitted to CDC for confirmation of results - final report to follow. report to follow.]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "Isolate submitted to CDC for confirmation/serotyping",
+            "id": "CDCCONF",
+            "text": "[CDCCONF] - [Isolate submitted to CDC for confirmation/serotyping]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "Isolate was submitted to CDC for identification and/or serotyping, final report to follow.",
+            "id": "CDCREF",
+            "text": "[CDCREF] - [Isolate was submitted to CDC for identification and/or serotyping, final report to follow.]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "Contamination of this sample was detected by culture. No results are available.",
+            "id": "CONTSEQID",
+            "text": "[CONTSEQID] - [Contamination of this sample was detected by culture. No results are available.]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "Alpha",
+            "id": "COVGEN",
+            "text": "[COVGEN] - [Alpha]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "This test was developed and its performance characteristics determined by the Idaho Bureau of Laboratories. It has not been cleared or approved by the U.S. Food and Drug Administration.",
+            "id": "CT",
+            "text": "[CT] - [This test was developed and its performance characteristics determined by the Idaho Bureau of Laboratories. It has not been cleared or approved by the U.S. Food and Drug Administration.]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "All GC-MS screening techniques are non-confirmatory. Results may be useful in directing further testing. Any measurements of contaminant concentrations are estimations only. Estimates are made by comparing the signal-to-noise (S/N) of a contaminant to the S/N of an internal standard with known concentration.",
+            "id": "CT-VOC",
+            "text": "[CT-VOC] - [All GC-MS screening techniques are non-confirmatory. Results may be useful in directing further testing. Any measurements of contaminant concentrations are estimations only. Estimates are made by comparing the signal-to-noise (S/N) of a contaminant to the S/N of an internal standard with known concentration.]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "Unable to detect the presence or absence of Chlamydia trachomatis, please re-submit.",
+            "id": "CTEQ",
+            "text": "[CTEQ] - [Unable to detect the presence or absence of Chlamydia trachomatis, please re-submit.]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "Testing cancelled for (analysis).",
+            "id": "Cancel",
+            "text": "[Cancel] - [Testing cancelled for (analysis).]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "Chlamydia specimens with inconclusive results should be interpreted in light of presenting signs & symptoms, patient's risk factors, and disease prevalence in the populations. Testing of a second specimen may be helpful.",
+            "id": "Chlamydia Inconclusive",
+            "text": "[Chlamydia Inconclusive] - [Chlamydia specimens with inconclusive results should be interpreted in light of presenting signs & symptoms, patient's risk factors, and disease prevalence in the populations. Testing of a second specimen may be helpful.]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "Dilution required. The dilution will raise the MDL and MRL values.",
+            "id": "D",
+            "text": "[D] - [Dilution required. The dilution will raise the MDL and MRL values.]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "IBL tared filters shipped to DEQ CDA Region",
+            "id": "DEQCDA",
+            "text": "[DEQCDA] - [IBL tared filters shipped to DEQ CDA Region]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "IBL tared filters shipped to DEQ Idaho Falls Region",
+            "id": "DEQIF",
+            "text": "[DEQIF] - [IBL tared filters shipped to DEQ Idaho Falls Region]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "IBL tared filters shipped to DEQ Pocatello Region",
+            "id": "DEQP",
+            "text": "[DEQP] - [IBL tared filters shipped to DEQ Pocatello Region]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "This S. aureus does not demonstrate inducible clindamycin resistance in vitro.",
+            "id": "DTNEG",
+            "text": "[DTNEG] - [This S. aureus does not demonstrate inducible clindamycin resistance in vitro.]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "This S. aureus is presumed to be resistant based on detection of inducible clindamycin resistance. Clindamycin may still be effective in some patients.",
+            "id": "DTPOS",
+            "text": "[DTPOS] - [This S. aureus is presumed to be resistant based on detection of inducible clindamycin resistance. Clindamycin may still be effective in some patients.]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "Escherichia coli were detected in this sample indicating fecal contamination of the water.  This type of contamination has been associated with an increased incidence of diarrheal disease.  This water should not be used for drinking; cooking (including the preparation of food); or personnel hygiene activities such as showering or brushing teeth until the situation is corrected.  If you are a public water system please contact your regulatory agency immediately.  If the sample is from a private well please contact your local health district immediately for further directions.",
+            "id": "E. coli Positive",
+            "text": "[E. coli Positive] - [Escherichia coli were detected in this sample indicating fecal contamination of the water.  This type of contamination has been associated with an increased incidence of diarrheal disease.  This water should not be used for drinking; cooking (including the preparation of food); or personnel hygiene activities such as showering or brushing teeth until the situation is corrected.  If you are a public water system please contact your regulatory agency immediately.  If the sample is from a private well please contact your local health district immediately for further directions.]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "Enterohemorrhagic E. coli (EHEC) are E. coli which produce Shiga-like toxins. They include E. coli O157 and more than 50 other serotypes which have been associated with diarrhea and/or Hemolytic Uremic Syndrome (HUS).",
+            "id": "EHEC description",
+            "text": "[EHEC description] - [Enterohemorrhagic E. coli (EHEC) are E. coli which produce Shiga-like toxins. They include E. coli O157 and more than 50 other serotypes which have been associated with diarrhea and/or Hemolytic Uremic Syndrome (HUS).]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "When equivocal results are obtained, another specimen should be collected ten to fourteen days later and tested in parallel with the initial specimen.  If the second sample is also equivocal, the patient is negative for primary or recent infection and equivocal for antibody status.  If the second sample shows a significant increase in antibody level, the patient may be considered to have a primary infection.",
+            "id": "EIA-EQ",
+            "text": "[EIA-EQ] - [When equivocal results are obtained, another specimen should be collected ten to fourteen days later and tested in parallel with the initial specimen.  If the second sample is also equivocal, the patient is negative for primary or recent infection and equivocal for antibody status.  If the second sample shows a significant increase in antibody level, the patient may be considered to have a primary infection.]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "The emm typing sequence analysis assay was verified with research reagents and protocols by the Idaho Bureau of Laboratories and is not FDA approved. These results must not be used for diagnosis, treatment, or for the assessment of a patient's health.",
+            "id": "EMMSEQ",
+            "text": "[EMMSEQ] - [The emm typing sequence analysis assay was verified with research reagents and protocols by the Idaho Bureau of Laboratories and is not FDA approved. These results must not be used for diagnosis, treatment, or for the assessment of a patient's health.]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "Isolate submitted to CDC due to epidemiologist's request",
+            "id": "EPI",
+            "text": "[EPI] - [Isolate submitted to CDC due to epidemiologist's request]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "When equivocal results are obtained, another specimen may be considered, collected ten to fourteen days later and tested in parallel with the initial specimen. If the second sample is also equivocal, the patient is negative for primary or recent infection and equivocal for antibody status. If the second sample shows a significant increase in antibody level, the patient may be considered to have a primary infection.",
+            "id": "EQ-RETEST",
+            "text": "[EQ-RETEST] - [When equivocal results are obtained, another specimen may be considered, collected ten to fourteen days later and tested in parallel with the initial specimen. If the second sample is also equivocal, the patient is negative for primary or recent infection and equivocal for antibody status. If the second sample shows a significant increase in antibody level, the patient may be considered to have a primary infection.]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "Value based on field kit determination; results may not be accurate. This code shall be used if a field screening test (i.e., field gas chromatograph data, immunoassay, vendor supplied field kit, etc.) was used to generate the value and the field kit or method has not been recognized by the regulatory agency as equivalent to laboratory methods.   TTTT",
+            "id": "F",
+            "text": "[F] - [Value based on field kit determination; results may not be accurate. This code shall be used if a field screening test (i.e., field gas chromatograph data, immunoassay, vendor supplied field kit, etc.) was used to generate the value and the field kit or method has not been recognized by the regulatory agency as equivalent to laboratory methods.   TTTT]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "This test has not been approved by the U.S. FDA. Results are not intended to be used as the sole means for clinical diagnosis or patient management decisions.",
+            "id": "FDA",
+            "text": "[FDA] - [This test has not been approved by the U.S. FDA. Results are not intended to be used as the sole means for clinical diagnosis or patient management decisions.]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "This test has not been approved by the U.S. FDA. Results are not intended to be used as the sole means for clinical diagnosis or patient management decisions.",
+            "id": "FDA Memo",
+            "text": "[FDA Memo] - [This test has not been approved by the U.S. FDA. Results are not intended to be used as the sole means for clinical diagnosis or patient management decisions.]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "The final report will follow.",
+            "id": "FINAL REPORT",
+            "text": "[FINAL REPORT] - [The final report will follow.]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "All FTIR results are non-confirmatory. Results may be useful in directing further testing.",
+            "id": "FTIR-SCREEN",
+            "text": "[FTIR-SCREEN] - [All FTIR results are non-confirmatory. Results may be useful in directing further testing.]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "test app text for TFS58024",
+            "id": "GTA",
+            "text": "[GTA] - [test app text for TFS58024]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "HORIZON and Field comment",
+            "id": "H&F",
+            "text": "[H&F] - [HORIZON and Field comment]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "These tests have not been approved by the U.S. FDA. Results are not intended to be used as the sole means for clinical diagnosis or patient management decisions.",
+            "id": "HANTA FDA",
+            "text": "[HANTA FDA] - [These tests have not been approved by the U.S. FDA. Results are not intended to be used as the sole means for clinical diagnosis or patient management decisions.]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "For specimens that are EQUIVOCAL, testing of a second sample in 2-3 weeks is recommended.",
+            "id": "HBCT",
+            "text": "[HBCT] - [For specimens that are EQUIVOCAL, testing of a second sample in 2-3 weeks is recommended.]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "For specimens that are EQUIVOCAL, testing of a second sample in 2-3 weeks is recommended.",
+            "id": "HBEQ",
+            "text": "[HBEQ] - [For specimens that are EQUIVOCAL, testing of a second sample in 2-3 weeks is recommended.]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "A HBSAB level of < 10 IU/L one to two months following a vaccine series is considered an INADEQUATE response and may NOT provide protection against infection. A review of these results with your health care professional is recommended.",
+            "id": "HBNOTTTEN",
+            "text": "[HBNOTTTEN] - [A HBSAB level of < 10 IU/L one to two months following a vaccine series is considered an INADEQUATE response and may NOT provide protection against infection. A review of these results with your health care professional is recommended.]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "Supplemental testing is highly recommended for specimens that are HCV screening test positive with s/co ratios <3.8",
+            "id": "HCV Low Pos",
+            "text": "[HCV Low Pos] - [Supplemental testing is highly recommended for specimens that are HCV screening test positive with s/co ratios <3.8]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "Indicative of past or present HCV infection. Samples with s/co ratios >3.8 usually confirm positive (95%), <5 of every 100 might represent false-positives.",
+            "id": "HCV Pos",
+            "text": "[HCV Pos] - [Indicative of past or present HCV infection. Samples with s/co ratios >3.8 usually confirm positive (95%), <5 of every 100 might represent false-positives.]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "Ratio",
+            "id": "HIV Ratio",
+            "text": "[HIV Ratio] - [Ratio]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "Results from the GS HIV Combo Ag/Ab EIA cannot be used to distinguish between the presence of HIV-1 p24 antigen, HIV-1 antibody, or HIV-2 antibody in a sample.",
+            "id": "HIVAA",
+            "text": "[HIVAA] - [Results from the GS HIV Combo Ag/Ab EIA cannot be used to distinguish between the presence of HIV-1 p24 antigen, HIV-1 antibody, or HIV-2 antibody in a sample.]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "Result cannot rule-out acute HIV infection. Sample reflexed for HIV RNA testing.",
+            "id": "HIVMS",
+            "text": "[HIVMS] - [Result cannot rule-out acute HIV infection. Sample reflexed for HIV RNA testing.]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "Result cannot rule-out acute HIV infection. Sample reflexed for HIV RNA testing.",
+            "id": "HIVMS-NEG",
+            "text": "[HIVMS-NEG] - [Result cannot rule-out acute HIV infection. Sample reflexed for HIV RNA testing.]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "HORIZON only",
+            "id": "HO",
+            "text": "[HO] - [HORIZON only]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "This is a test for substitution variables.\n\nDate: @sysdate@\nUser: @user@\nAnalyte: @analyte@",
+            "id": "I1K",
+            "text": "[I1K] - [This is a test for substitution variables.\n\nDate: @sysdate@\nUser: @user@\nAnalyte: @analyte@]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "Fact Sheet for Healthcare Providers:   http://www.cdc.gov/h1n1flu/eua/testkit.htm _healthcare.pdf\nFact Sheet for Patients:   http://www.cdc.gov/h1n1flu/eua/testkit.htm _patients.pdf",
+            "id": "INFL-FACT",
+            "text": "[INFL-FACT] - [Fact Sheet for Healthcare Providers:   http://www.cdc.gov/h1n1flu/eua/testkit.htm _healthcare.pdf\nFact Sheet for Patients:   http://www.cdc.gov/h1n1flu/eua/testkit.htm _patients.pdf]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "This specimen was tested for presence of human seasonal Influenzas A/H1, A/H3, and A(H1N1)pdm.",
+            "id": "INPCR",
+            "text": "[INPCR] - [This specimen was tested for presence of human seasonal Influenzas A/H1, A/H3, and A(H1N1)pdm.]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "Lack of detection of a mutation in this gene does not guarantee susceptibility to Isoniazid.  Upon growth of the organism, phenotypic testing will be performed to confirm.",
+            "id": "ISON-NEG",
+            "text": "[ISON-NEG] - [Lack of detection of a mutation in this gene does not guarantee susceptibility to Isoniazid.  Upon growth of the organism, phenotypic testing will be performed to confirm.]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "Detection of a mutation in this gene is highly correlated with the organism being resistant to Isoniazid.  Upon growth of the organism, phenotypic testing will be performed to confirm.",
+            "id": "ISON-POS",
+            "text": "[ISON-POS] - [Detection of a mutation in this gene is highly correlated with the organism being resistant to Isoniazid.  Upon growth of the organism, phenotypic testing will be performed to confirm.]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "This sample was rejected because the volume of sample submitted was insufficient to perform the test requested. Please submit another sample.\nThis sample was rejected because the volume of sample submitted was insufficient to perform the test requested. Please submit another sample.",
+            "id": "Inadequate sample size",
+            "text": "[Inadequate sample size] - [This sample was rejected because the volume of sample submitted was insufficient to perform the test requested. Please submit another sample.\nThis sample was rejected because the volume of sample submitted was insufficient to perform the test requested. Please submit another sample.]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "Estimated value; value may not be accurate. The reported value is between the laboratory method detection limit and the laboratory minimum reporting limit.",
+            "id": "J1",
+            "text": "[J1] - [Estimated value; value may not be accurate. The reported value is between the laboratory method detection limit and the laboratory minimum reporting limit.]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "Estimated value; value may not be accurate. Value derived from a sample that was prepared, and/or analyzed after the approved holding time restrictions.",
+            "id": "J10",
+            "text": "[J10] - [Estimated value; value may not be accurate. Value derived from a sample that was prepared, and/or analyzed after the approved holding time restrictions.]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "Estimated value; value may not be accurate. Surrogate recovery limits have been exceeded.",
+            "id": "J2",
+            "text": "[J2] - [Estimated value; value may not be accurate. Surrogate recovery limits have been exceeded.]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "Estimated value; value may not be accurate. 2nd column confirmation >35%.",
+            "id": "J3",
+            "text": "[J3] - [Estimated value; value may not be accurate. 2nd column confirmation >35%.]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "Estimated value; value may not be accurate. No known quality control criteria exist for the component.",
+            "id": "J4",
+            "text": "[J4] - [Estimated value; value may not be accurate. No known quality control criteria exist for the component.]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "Estimated value; value may not be accurate. The reported value failed to meet the established quality control criteria for either precision or accuracy.",
+            "id": "J5",
+            "text": "[J5] - [Estimated value; value may not be accurate. The reported value failed to meet the established quality control criteria for either precision or accuracy.]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "Estimated value; value may not be accurate. The sample matrix interfered with the ability to make any accurate determination.",
+            "id": "J6",
+            "text": "[J6] - [Estimated value; value may not be accurate. The sample matrix interfered with the ability to make any accurate determination.]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "Estimated value; value may not be accurate. The data are questionable because of improper field protocols (e.g., composite sample was collected instead of a grab sample).",
+            "id": "J7",
+            "text": "[J7] - [Estimated value; value may not be accurate. The data are questionable because of improper field protocols (e.g., composite sample was collected instead of a grab sample).]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "Estimated value; value may not be accurate. Reanalysis not possible due to insufficient sample.",
+            "id": "J8",
+            "text": "[J8] - [Estimated value; value may not be accurate. Reanalysis not possible due to insufficient sample.]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "Estimated value; value may not be accurate. Sample improperly preserved but analyzed upon client¿s request.",
+            "id": "J9",
+            "text": "[J9] - [Estimated value; value may not be accurate. Sample improperly preserved but analyzed upon client¿s request.]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "Off-scale low. Actual value is known to be less than the value given. This code shall be used if: not be used to report values that are less than the laborato\n\nNOTE: This code shall not be used to report values that are less than the laboratory minimum reporting limit or laboratory method detection limit.\n\n1. The value is less than the lowest calibration standard and the calibration curve is known to be non-linear; or based on sample size, dilution or some other variable. 2. The value is known to be less than the reported value",
+            "id": "K",
+            "text": "[K] - [Off-scale low. Actual value is known to be less than the value given. This code shall be used if: not be used to report values that are less than the laborato\n\nNOTE: This code shall not be used to report values that are less than the laboratory minimum reporting limit or laboratory method detection limit.\n\n1. The value is less than the lowest calibration standard and the calibration curve is known to be non-linear; or based on sample size, dilution or some other variable. 2. The value is known to be less than the reported value]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "Off-scale high. Actual value is known to be greater than value given. To be used when the concentration of the analyte is above the acceptable level for quantitation (exceeds the linear range or highest calibration standard) and the calibration curve is known to exhibit a negative deflection.",
+            "id": "L",
+            "text": "[L] - [Off-scale high. Actual value is known to be greater than value given. To be used when the concentration of the analyte is above the acceptable level for quantitation (exceeds the linear range or highest calibration standard) and the calibration curve is known to exhibit a negative deflection.]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "Laboratory error. We apologize for any inconvenience this may cause you. Please resubmit another sample at no additional charge.",
+            "id": "Lab Error",
+            "text": "[Lab Error] - [Laboratory error. We apologize for any inconvenience this may cause you. Please resubmit another sample at no additional charge.]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "Strains of Aeromonas spp. producing low basal levels of MBL enzymes may not be detected by Etest MBL.",
+            "id": "MBL AEROMONAS",
+            "text": "[MBL AEROMONAS] - [Strains of Aeromonas spp. producing low basal levels of MBL enzymes may not be detected by Etest MBL.]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "The Imipenem/Imipenem + EDTA Etest strips used for the detection of Metallo Beta-Lactamase (MBL) are FOR RESEARCH USE ONLY. The results are not to be used for diagnosis, treatment, or for the assessment of a patient's health. ",
+            "id": "MBL RUO",
+            "text": "[MBL RUO] - [The Imipenem/Imipenem + EDTA Etest strips used for the detection of Metallo Beta-Lactamase (MBL) are FOR RESEARCH USE ONLY. The results are not to be used for diagnosis, treatment, or for the assessment of a patient's health. ]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "The performance of the USA format of the QuantiFERON-TB Gold IT has not been extensively evaluated with specimens from individuals with impaired/altered immune function, individuals younger than 17 years, and pregnant women. It is recommended that the QFT-Gold test be repeated with a fresh blood sample.",
+            "id": "MBQFT-IND",
+            "text": "[MBQFT-IND] - [The performance of the USA format of the QuantiFERON-TB Gold IT has not been extensively evaluated with specimens from individuals with impaired/altered immune function, individuals younger than 17 years, and pregnant women. It is recommended that the QFT-Gold test be repeated with a fresh blood sample.]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "Result verified by repeat analysis with a fresh blood sample.",
+            "id": "MBQFT-IND2",
+            "text": "[MBQFT-IND2] - [Result verified by repeat analysis with a fresh blood sample.]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "(< 0.35 IU) This result indicates M. tuberculosis infection NOT likely. A negative QuantiFERON-TB Gold IT result does not preclude the possibility of M.tuberculosis infection or tuberculosis disease; false negative results can be due to state of infection (prior to development of cellular immune response), co-morbid conditions which affect the immune function, or other individual immunological factors.\n\nThe performance of the USA format of the QuantiFERON-TB Gold IT has not been extensively evaluated with specimens from individuals with impaired/altered immune function, individuals younger than 17 years, and pregnant women.",
+            "id": "MBQFT-NEG",
+            "text": "[MBQFT-NEG] - [(< 0.35 IU) This result indicates M. tuberculosis infection NOT likely. A negative QuantiFERON-TB Gold IT result does not preclude the possibility of M.tuberculosis infection or tuberculosis disease; false negative results can be due to state of infection (prior to development of cellular immune response), co-morbid conditions which affect the immune function, or other individual immunological factors.\n\nThe performance of the USA format of the QuantiFERON-TB Gold IT has not been extensively evaluated with specimens from individuals with impaired/altered immune function, individuals younger than 17 years, and pregnant women.]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "(> or = 0.35 IU) This result indicates likely M. tuberculosis infection. A positive result can support the diagnosis of tuberculosis disease; however, infections by other mycobacteria may also cause positive results. Other diagnostic evaluations are necessary to confirm or exclude tuberculosis disease.\n\nThe performance of the USA format of the QuantiFERON-TB Gold IT has not been extensively evaluated with specimens from individuals with impaired/altered immune function, individuals younger than 17 years, and pregnant women.",
+            "id": "MBQFT-POS",
+            "text": "[MBQFT-POS] - [(> or = 0.35 IU) This result indicates likely M. tuberculosis infection. A positive result can support the diagnosis of tuberculosis disease; however, infections by other mycobacteria may also cause positive results. Other diagnostic evaluations are necessary to confirm or exclude tuberculosis disease.\n\nThe performance of the USA format of the QuantiFERON-TB Gold IT has not been extensively evaluated with specimens from individuals with impaired/altered immune function, individuals younger than 17 years, and pregnant women.]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "The Mycobacterium tuberculosis molecular detection of drug resistance assay was designed and validated with research reagents and procedures by the Idaho Bureau of Laboratories and is not FDA approved. These results are intended to be used in conjunction with other clinical information in determining patient diagnosis and treatment.",
+            "id": "MDDR",
+            "text": "[MDDR] - [The Mycobacterium tuberculosis molecular detection of drug resistance assay was designed and validated with research reagents and procedures by the Idaho Bureau of Laboratories and is not FDA approved. These results are intended to be used in conjunction with other clinical information in determining patient diagnosis and treatment.]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "This isolate demonstrates carbapenemase production. The clinical efficacy of the carbapenems has not been established for treating infections caused by Enterobacteriaceae that test carbapenem susceptible, but demonstrate carbapenemase production in vitro.",
+            "id": "MHT",
+            "text": "[MHT] - [This isolate demonstrates carbapenemase production. The clinical efficacy of the carbapenems has not been established for treating infections caused by Enterobacteriaceae that test carbapenem susceptible, but demonstrate carbapenemase production in vitro.]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "This isolate does not demonstrate carbapenemase production.",
+            "id": "MHT-NEG",
+            "text": "[MHT-NEG] - [This isolate does not demonstrate carbapenemase production.]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "Isolate requested by CDC for MLVA testing",
+            "id": "MLVA",
+            "text": "[MLVA] - [Isolate requested by CDC for MLVA testing]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "Results should be interpreted with consideration of all clinical and laboratory findings. A negative results does not exclude the possibility of isolating a Mycobacterium tuberculosis complex organism from the specimen.",
+            "id": "MTB direct",
+            "text": "[MTB direct] - [Results should be interpreted with consideration of all clinical and laboratory findings. A negative results does not exclude the possibility of isolating a Mycobacterium tuberculosis complex organism from the specimen.]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "The D2 LSU sequence analysis assay was designed and validated with research reagents and procedures by the Idaho Bureau of Laboratories and is not FDA approved. D2 LSU sequencing results are intended to be used in conjunction with other clinical information in determining patient diagnosis and treatment.",
+            "id": "MYSEQ, D2LSU Disclaimer",
+            "text": "[MYSEQ, D2LSU Disclaimer] - [The D2 LSU sequence analysis assay was designed and validated with research reagents and procedures by the Idaho Bureau of Laboratories and is not FDA approved. D2 LSU sequencing results are intended to be used in conjunction with other clinical information in determining patient diagnosis and treatment.]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "Presumptive evidence of presence of material. This qualifier shall be used if:\n\n1. The component has been tentatively identified based on mass spectral library search; or\n\n2. There is an indication that the analyte is present, but quality control requirements for confirmation were not met (i.e., presence of analyte was not confirmed by alternative procedures).",
+            "id": "N",
+            "text": "[N] - [Presumptive evidence of presence of material. This qualifier shall be used if:\n\n1. The component has been tentatively identified based on mass spectral library search; or\n\n2. There is an indication that the analyte is present, but quality control requirements for confirmation were not met (i.e., presence of analyte was not confirmed by alternative procedures).]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "A positive probe result indicates the detection of DNA. A positive probe result does not indicate recovery of viable organism, culture results may still be pending.",
+            "id": "NAP",
+            "text": "[NAP] - [A positive probe result indicates the detection of DNA. A positive probe result does not indicate recovery of viable organism, culture results may still be pending.]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "This method is for the detection of Mycobacterial DNA in AFB positive growth in culture.",
+            "id": "NAP2",
+            "text": "[NAP2] - [This method is for the detection of Mycobacterial DNA in AFB positive growth in culture.]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "Isolate shipped to CDC as part of NARMS surveillance project",
+            "id": "NARMS",
+            "text": "[NARMS] - [Isolate shipped to CDC as part of NARMS surveillance project]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "Unable to detect the presence or absence of Neisseria gonorrhoeae, please re-submit.",
+            "id": "NGEQ",
+            "text": "[NGEQ] - [Unable to detect the presence or absence of Neisseria gonorrhoeae, please re-submit.]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "Probable past treated syphilis, but may be untreated late latent syphilis, or false positive TPPA test.\n\nThis pattern can also be seen in early primary syphilis. Recommend retesting in 2-3 weeks if there is possible recent exposure to syphilis.",
+            "id": "NOVDRLYESTPPA",
+            "text": "[NOVDRLYESTPPA] - [Probable past treated syphilis, but may be untreated late latent syphilis, or false positive TPPA test.\n\nThis pattern can also be seen in early primary syphilis. Recommend retesting in 2-3 weeks if there is possible recent exposure to syphilis.]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "This serotype has not been previously found in Idaho. The isolate was submitted to the CDC for confirmation.",
+            "id": "New Serotype",
+            "text": "[New Serotype] - [This serotype has not been previously found in Idaho. The isolate was submitted to the CDC for confirmation.]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "Now",
+            "id": "Now",
+            "text": "[Now] - [Now]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "Sampled, but analysis not performed due to sample improperly preserved.",
+            "id": "O1",
+            "text": "[O1] - [Sampled, but analysis not performed due to sample improperly preserved.]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "Sampled, but analysis not performed due to insufficient amount of sample to complete requested test.",
+            "id": "O2",
+            "text": "[O2] - [Sampled, but analysis not performed due to insufficient amount of sample to complete requested test.]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "Sampled, but analysis not performed due to sample container lost or broken during transit",
+            "id": "O3",
+            "text": "[O3] - [Sampled, but analysis not performed due to sample container lost or broken during transit]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "Sampled, but analysis not performed due to Chain of custody form is incorrect (e.g. does not match samples) upon arrival to the labs.",
+            "id": "O4",
+            "text": "[O4] - [Sampled, but analysis not performed due to Chain of custody form is incorrect (e.g. does not match samples) upon arrival to the labs.]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "Sampled, but analysis not performed due to sample arrived at the lab after the approved holding time restrictions.",
+            "id": "O5",
+            "text": "[O5] - [Sampled, but analysis not performed due to sample arrived at the lab after the approved holding time restrictions.]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "The Iodine-Trichrome stain for sediment can be used as an adjunct procedure but does not take the place of the unstained wet examination of the sediment.",
+            "id": "PAFE",
+            "text": "[PAFE] - [The Iodine-Trichrome stain for sediment can be used as an adjunct procedure but does not take the place of the unstained wet examination of the sediment.]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "Includes: M. avium and M. intracellulare",
+            "id": "POSMAC",
+            "text": "[POSMAC] - [Includes: M. avium and M. intracellulare]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "Includes: M. tuberculosis, M. bovis, M. africanum, and M. microtii",
+            "id": "POSTB",
+            "text": "[POSTB] - [Includes: M. tuberculosis, M. bovis, M. africanum, and M. microtii]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "Confirmatory testing (PRNT) indicates an infection with West Nile Virus. The presence of WNV IgM antibody and no detectab IgG antibody indicates a recent WNV infection. Clinical correlation is required.",
+            "id": "PRNTGNEG",
+            "text": "[PRNTGNEG] - [Confirmatory testing (PRNT) indicates an infection with West Nile Virus. The presence of WNV IgM antibody and no detectab IgG antibody indicates a recent WNV infection. Clinical correlation is required.]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "Confirmatory testing (PRNT) indicates evidence of an infection with West Nile Virus. We were unable to determine the timing of the infection due to the presence of both IgG and IgM antibody. Clinical correlation is required.",
+            "id": "PRNTGPOS",
+            "text": "[PRNTGPOS] - [Confirmatory testing (PRNT) indicates evidence of an infection with West Nile Virus. We were unable to determine the timing of the infection due to the presence of both IgG and IgM antibody. Clinical correlation is required.]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "S. aureus isolates carrying the PVL gene have been responsible for serious skin and soft tissue infections as well as severe invasive disease in previously healthy children and adults.",
+            "id": "PVL",
+            "text": "[PVL] - [S. aureus isolates carrying the PVL gene have been responsible for serious skin and soft tissue infections as well as severe invasive disease in previously healthy children and adults.]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "One of the two target sequences required for detection of B. pertussis was present in this sample. This result does not indicate the presence of B. pertussis, however other Bordetella species may be indicated.\n\n B. pertussis PCR is a diagnostic tool that is not FDA approved. This test was designed by the Idaho Bureau of Laboratories and has undergone in-house method validation. Pertussis PCR results should be used in conjunction with clinical symptoms.",
+            "id": "Pertussis, Negative 2",
+            "text": "[Pertussis, Negative 2] - [One of the two target sequences required for detection of B. pertussis was present in this sample. This result does not indicate the presence of B. pertussis, however other Bordetella species may be indicated.\n\n B. pertussis PCR is a diagnostic tool that is not FDA approved. This test was designed by the Idaho Bureau of Laboratories and has undergone in-house method validation. Pertussis PCR results should be used in conjunction with clinical symptoms.]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "B. pertussis PCR is a diagnostic tool that is not FDA approved. This test was designed by the Idaho Bureau of Laboratories and has undergone in-house method validation. Pertussis PCR results should be used in conjunction with clinical symptoms.",
+            "id": "Pertussis, PCR Disclaim",
+            "text": "[Pertussis, PCR Disclaim] - [B. pertussis PCR is a diagnostic tool that is not FDA approved. This test was designed by the Idaho Bureau of Laboratories and has undergone in-house method validation. Pertussis PCR results should be used in conjunction with clinical symptoms.]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "QAQA",
+            "id": "QA1",
+            "text": "[QA1] - [QAQA]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "Test for TFS58024",
+            "id": "QWQ",
+            "text": "[QWQ] - [Test for TFS58024]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "GPC instrument efficiency determined using Am241 and Cs137 for gross alpha and gross beta activity.",
+            "id": "R1",
+            "text": "[R1] - [GPC instrument efficiency determined using Am241 and Cs137 for gross alpha and gross beta activity.]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "GPC instrument efficiency determined using Am241 and Sr/Y90.",
+            "id": "R2",
+            "text": "[R2] - [GPC instrument efficiency determined using Am241 and Sr/Y90.]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "GPC instrument efficiency determined using Sr89",
+            "id": "R3",
+            "text": "[R3] - [GPC instrument efficiency determined using Sr89]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "GPC attenuation factors determined using Th230 and Cs137 attenuation standards for gross alpha and gross beta activity.",
+            "id": "R4",
+            "text": "[R4] - [GPC attenuation factors determined using Th230 and Cs137 attenuation standards for gross alpha and gross beta activity.]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "GPC attenuation factor determined using Sr89 attenuation standard.",
+            "id": "R5",
+            "text": "[R5] - [GPC attenuation factor determined using Sr89 attenuation standard.]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "GPC attenuation factor determined using Ra226 attenuation standard.",
+            "id": "R6",
+            "text": "[R6] - [GPC attenuation factor determined using Ra226 attenuation standard.]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "Analysis reported at 95% confidence level with the associated uncertainty reported",
+            "id": "R8",
+            "text": "[R8] - [Analysis reported at 95% confidence level with the associated uncertainty reported]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "Analysis reported at 99% confidence level with the associated uncertainty reported.",
+            "id": "R9",
+            "text": "[R9] - [Analysis reported at 99% confidence level with the associated uncertainty reported.]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "Isolate submitted to CDC because the analysis requested is not performed at IBL",
+            "id": "REFERRED",
+            "text": "[REFERRED] - [Isolate submitted to CDC because the analysis requested is not performed at IBL]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "The results on this report were obtained with research procedures or research reagents. These test results must not be used for diagnosis, treatment, or for the assessment of a patient's health.",
+            "id": "RESEARCH PROCEDURE",
+            "text": "[RESEARCH PROCEDURE] - [The results on this report were obtained with research procedures or research reagents. These test results must not be used for diagnosis, treatment, or for the assessment of a patient's health.]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "Lack of detection of a mutation in this gene does not guarantee susceptibility to Rifampin.  Upon growth of the organism, phenotypic testing will be performed to confirm.",
+            "id": "RIFA-NEG",
+            "text": "[RIFA-NEG] - [Lack of detection of a mutation in this gene does not guarantee susceptibility to Rifampin.  Upon growth of the organism, phenotypic testing will be performed to confirm.]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "Detection of a mutation in this gene is highly correlated with the organism being resistant to Rifampin.  Upon growth of the organism, phenotypic testing will be performed to confirm.",
+            "id": "RIFA-POS",
+            "text": "[RIFA-POS] - [Detection of a mutation in this gene is highly correlated with the organism being resistant to Rifampin.  Upon growth of the organism, phenotypic testing will be performed to confirm.]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "The RT-PCR test has not been approved by the U.S. FDA. Results are not intended to be used as the sole means for clinical diagnosis or patient management decisions.",
+            "id": "RTPCR",
+            "text": "[RTPCR] - [The RT-PCR test has not been approved by the U.S. FDA. Results are not intended to be used as the sole means for clinical diagnosis or patient management decisions.]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "CDC no longer encourages labs to send potential vaccine failure isolates for serotyping.  Massive population-based surveillance adequately answers vaccine failure issues as largely attributable to non-vaccine serotypes. If serotyping is still desired, vaccine information must be provided on the attached form.\nCDC no longer encourages labs to send potential vaccine failure isolates for serotyping.  Massive population-based surveillance adequately answers vaccine failure issues as largely attributable to non-vaccine serotypes. If serotyping is still desired, vaccine information must be provided on the attached form.",
+            "id": "S. pneumo",
+            "text": "[S. pneumo] - [CDC no longer encourages labs to send potential vaccine failure isolates for serotyping.  Massive population-based surveillance adequately answers vaccine failure issues as largely attributable to non-vaccine serotypes. If serotyping is still desired, vaccine information must be provided on the attached form.\nCDC no longer encourages labs to send potential vaccine failure isolates for serotyping.  Massive population-based surveillance adequately answers vaccine failure issues as largely attributable to non-vaccine serotypes. If serotyping is still desired, vaccine information must be provided on the attached form.]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "PLEASE READ CAREFULLY:  This specimen has been identified as a select agent that has the potential to pose a severe threat to public health and safety, and is subject to mandatory federal reporting (42 CFR 73).  Please contact Michael Stevenson, 208-334-2235 x269, at the Idaho Bureau of Laboratories for assistance in filling out the APHIS/CDC Form 4, gReport of the Identification of a Select Agent or Toxin.h",
+            "id": "SA-IDENT",
+            "text": "[SA-IDENT] - [PLEASE READ CAREFULLY:  This specimen has been identified as a select agent that has the potential to pose a severe threat to public health and safety, and is subject to mandatory federal reporting (42 CFR 73).  Please contact Michael Stevenson, 208-334-2235 x269, at the Idaho Bureau of Laboratories for assistance in filling out the APHIS/CDC Form 4, gReport of the Identification of a Select Agent or Toxin.h]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "Preliminary testing on acute specimen did not detect antibody. Only by testing convalescent serum will the presence or absence of SARS-associated Coronavirus be established. Please submit convalescent serum 28 days or later after onset of illness.",
+            "id": "SARS Serology",
+            "text": "[SARS Serology] - [Preliminary testing on acute specimen did not detect antibody. Only by testing convalescent serum will the presence or absence of SARS-associated Coronavirus be established. Please submit convalescent serum 28 days or later after onset of illness.]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "Bacterial DNA was not detected upon testing an extraction of the sample. However, bacterial growth was detected upon culture of the sample and determined to be ____________. It is not clear if this organism represents contamination of the sample or the source of the infection. Please interpret these results with appropriate caution.",
+            "id": "SEQID-INCON",
+            "text": "[SEQID-INCON] - [Bacterial DNA was not detected upon testing an extraction of the sample. However, bacterial growth was detected upon culture of the sample and determined to be ____________. It is not clear if this organism represents contamination of the sample or the source of the infection. Please interpret these results with appropriate caution.]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "The serotyping results on this report were obtained with research procedures or research reagents. These test results must not be used for diagnosis, treatment, or for the assessment of a patient's health.",
+            "id": "SERO",
+            "text": "[SERO] - [The serotyping results on this report were obtained with research procedures or research reagents. These test results must not be used for diagnosis, treatment, or for the assessment of a patient's health.]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "IBL tared filters shipped to Sho-Ban Tribe",
+            "id": "SHOBAN",
+            "text": "[SHOBAN] - [IBL tared filters shipped to Sho-Ban Tribe]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "The PCR results on this report were obtained with research reagents and procedures. These results must not be used for diagnosis, treatment, or for the assessment of a patient's health.",
+            "id": "STEC, PCR Disclaimer",
+            "text": "[STEC, PCR Disclaimer] - [The PCR results on this report were obtained with research reagents and procedures. These results must not be used for diagnosis, treatment, or for the assessment of a patient's health.]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "Isolate sent for susceptibility testing",
+            "id": "SUSC",
+            "text": "[SUSC] - [Isolate sent for susceptibility testing]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "The Salmonella spp. RT-PCR assay was developed and validated by Idaho Bureau of Laboratories. This assay is not approved by the FDA.",
+            "id": "Salmonella, PCR Disclaim",
+            "text": "[Salmonella, PCR Disclaim] - [The Salmonella spp. RT-PCR assay was developed and validated by Idaho Bureau of Laboratories. This assay is not approved by the FDA.]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "Testing of a single acute specimen may be diagnostically inconclusive. This acute specimen may have been obtained before the development of an antibody response. Submittal of a convalescent specimen is recommended.",
+            "id": "Single Acute",
+            "text": "[Single Acute] - [Testing of a single acute specimen may be diagnostically inconclusive. This acute specimen may have been obtained before the development of an antibody response. Submittal of a convalescent specimen is recommended.]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "Value reported is less than the laboratory method detection limit. The value is reported for informational purposes only and shall not be used in statistical analysis.",
+            "id": "T",
+            "text": "[T] - [Value reported is less than the laboratory method detection limit. The value is reported for informational purposes only and shall not be used in statistical analysis.]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "Isolate sent to California Public Health Laboratory for genotyping.",
+            "id": "TBGENO",
+            "text": "[TBGENO] - [Isolate sent to California Public Health Laboratory for genotyping.]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "This sample exhibited a nucleotide change in the gene sequence from the expected wild type sequence, however the mutation did not alter the amino acid sequence and is therefore not expected to alter susceptibility.",
+            "id": "TBMDDR-SPOS",
+            "text": "[TBMDDR-SPOS] - [This sample exhibited a nucleotide change in the gene sequence from the expected wild type sequence, however the mutation did not alter the amino acid sequence and is therefore not expected to alter susceptibility.]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "Mycobacterium tuberculosis PCR is a tool that is not FDA approved. This test has undergone in-house method validation. Mycobacterium tuberculosis PCR results should be used in conjunction with clinical case definitions. Test performance has not been evaluated with non-respiratory samples.",
+            "id": "TBNAAT",
+            "text": "[TBNAAT] - [Mycobacterium tuberculosis PCR is a tool that is not FDA approved. This test has undergone in-house method validation. Mycobacterium tuberculosis PCR results should be used in conjunction with clinical case definitions. Test performance has not been evaluated with non-respiratory samples.]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "Results obtained are near the limit of detection for this assay and were determined to be inconclusive for this specimen. If symptoms or patient history warrant, a repeat sample should be submitted for additional testing.",
+            "id": "TBNAAT-INC",
+            "text": "[TBNAAT-INC] - [Results obtained are near the limit of detection for this assay and were determined to be inconclusive for this specimen. If symptoms or patient history warrant, a repeat sample should be submitted for additional testing.]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "The result for the sample is indeterminate due to the presence of inhibitors in the specimen.",
+            "id": "TBNAAT-IND",
+            "text": "[TBNAAT-IND] - [The result for the sample is indeterminate due to the presence of inhibitors in the specimen.]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "This method is not FDA approved.  This test has undergone in-house method validation and is for use with primary specimens.  Test performance has not been evaluated with non-respiratory specimens.  Mycobacterium tuberculosis PCR results should be used in conjunction with clinical case definitions.",
+            "id": "TBNAAT2",
+            "text": "[TBNAAT2] - [This method is not FDA approved.  This test has undergone in-house method validation and is for use with primary specimens.  Test performance has not been evaluated with non-respiratory specimens.  Mycobacterium tuberculosis PCR results should be used in conjunction with clinical case definitions.]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "Coliform bacteria were detected in this sample.  The presence of this group of bacteria means this sample does not meet drinking water standards as established by EPA and may indicate a greater vulnerability to contamination.  If this sample is from a public water system please contact your regulatory agency.  If this sample is from a private well, please contact the nearest health district for further directions.",
+            "id": "TC Positive",
+            "text": "[TC Positive] - [Coliform bacteria were detected in this sample.  The presence of this group of bacteria means this sample does not meet drinking water standards as established by EPA and may indicate a greater vulnerability to contamination.  If this sample is from a public water system please contact your regulatory agency.  If this sample is from a private well, please contact the nearest health district for further directions.]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "This is a test1",
+            "id": "Tastefully testing",
+            "text": "[Tastefully testing] - [This is a test1]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "This analysis was completed at Accutest Laboratories.",
+            "id": "UNKREF-ACL",
+            "text": "[UNKREF-ACL] - [This analysis was completed at Accutest Laboratories.]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "This analysis was completed at Atlanta Health Associates.",
+            "id": "UNKREF-AHA",
+            "text": "[UNKREF-AHA] - [This analysis was completed at Atlanta Health Associates.]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "This analysis was completed at the Alaska State Laboratory.",
+            "id": "UNKREF-AK",
+            "text": "[UNKREF-AK] - [This analysis was completed at the Alaska State Laboratory.]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "This analysis was completed at Analytical Laboratories.",
+            "id": "UNKREF-AL",
+            "text": "[UNKREF-AL] - [This analysis was completed at Analytical Laboratories.]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "This analysis was completed at Alchem Laboratories.",
+            "id": "UNKREF-ALCH",
+            "text": "[UNKREF-ALCH] - [This analysis was completed at Alchem Laboratories.]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "This analysis was completed at Anatek Laboratories.",
+            "id": "UNKREF-ANTK",
+            "text": "[UNKREF-ANTK] - [This analysis was completed at Anatek Laboratories.]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "This analysis was completed at ARUP Laboratories.",
+            "id": "UNKREF-ARUP",
+            "text": "[UNKREF-ARUP] - [This analysis was completed at ARUP Laboratories.]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "This analysis was completed at Accutest Laboratories.",
+            "id": "UNKREF-ATL",
+            "text": "[UNKREF-ATL] - [This analysis was completed at Accutest Laboratories.]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "This analysis was completed at The California Department of Health.",
+            "id": "UNKREF-CA",
+            "text": "[UNKREF-CA] - [This analysis was completed at The California Department of Health.]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "This analysis was completed at The California State Laboratory",
+            "id": "UNKREF-CASL",
+            "text": "[UNKREF-CASL] - [This analysis was completed at The California State Laboratory]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "This analysis was completed at CDC Atlanta. Please see the attached report.",
+            "id": "UNKREF-CDCA",
+            "text": "[UNKREF-CDCA] - [This analysis was completed at CDC Atlanta. Please see the attached report.]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "This analysis was completed at Centers for Disease Control and Prevention, Chamblee, GA.",
+            "id": "UNKREF-CDCC",
+            "text": "[UNKREF-CDCC] - [This analysis was completed at Centers for Disease Control and Prevention, Chamblee, GA.]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "This analysis was completed at CDC Fort Collins.",
+            "id": "UNKREF-CDCF",
+            "text": "[UNKREF-CDCF] - [This analysis was completed at CDC Fort Collins.]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "This analysis was completed at Centers for Disease Control and Prevention, Chamblee, GA.",
+            "id": "UNKREF-CDCH",
+            "text": "[UNKREF-CDCH] - [This analysis was completed at Centers for Disease Control and Prevention, Chamblee, GA.]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "This analysis was completed at CDC Puerto Rico.",
+            "id": "UNKREF-CDCP",
+            "text": "[UNKREF-CDCP] - [This analysis was completed at CDC Puerto Rico.]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "This analysis was completed at Edge Analytical Laboratories.",
+            "id": "UNKREF-EDGE",
+            "text": "[UNKREF-EDGE] - [This analysis was completed at Edge Analytical Laboratories.]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "This analysis was completed at Eurofins Eaton Analytical.",
+            "id": "UNKREF-EEA",
+            "text": "[UNKREF-EEA] - [This analysis was completed at Eurofins Eaton Analytical.]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "This analysis was completed at Energy Laboratories.",
+            "id": "UNKREF-EL",
+            "text": "[UNKREF-EL] - [This analysis was completed at Energy Laboratories.]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "This analysis was completed at Focus Laboratories.",
+            "id": "UNKREF-FOC",
+            "text": "[UNKREF-FOC] - [This analysis was completed at Focus Laboratories.]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "This analysis was completed at IDX LabCorp.",
+            "id": "UNKREF-IDX",
+            "text": "[UNKREF-IDX] - [This analysis was completed at IDX LabCorp.]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "This analysis was completed at the Idaho Food Quality Assurance Laboratory.",
+            "id": "UNKREF-IFQA",
+            "text": "[UNKREF-IFQA] - [This analysis was completed at the Idaho Food Quality Assurance Laboratory.]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "This analysis was completed at the Michigan Department of Community Health.",
+            "id": "UNKREF-MDCH",
+            "text": "[UNKREF-MDCH] - [This analysis was completed at the Michigan Department of Community Health.]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "This analysis was completed at the Montana Public Health Laboratory. Please see the attached report.",
+            "id": "UNKREF-MT",
+            "text": "[UNKREF-MT] - [This analysis was completed at the Montana Public Health Laboratory. Please see the attached report.]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "This analysis was completed at National Jewish Medical and Research Center.",
+            "id": "UNKREF-NJ",
+            "text": "[UNKREF-NJ] - [This analysis was completed at National Jewish Medical and Research Center.]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "This analysis was completed at the Nevada State Health Laboratories.",
+            "id": "UNKREF-NV",
+            "text": "[UNKREF-NV] - [This analysis was completed at the Nevada State Health Laboratories.]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "This analysis was completed at the Oregon State Laboratory.",
+            "id": "UNKREF-OR",
+            "text": "[UNKREF-OR] - [This analysis was completed at the Oregon State Laboratory.]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "This analysis was completed at Paragon Analytics, Inc.",
+            "id": "UNKREF-PA",
+            "text": "[UNKREF-PA] - [This analysis was completed at Paragon Analytics, Inc.]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "This analysis was completed at Pace Analytical.",
+            "id": "UNKREF-PACE",
+            "text": "[UNKREF-PACE] - [This analysis was completed at Pace Analytical.]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "This analysis was completed at the Public Health-Seattle & King County Laboratory.",
+            "id": "UNKREF-PHS",
+            "text": "[UNKREF-PHS] - [This analysis was completed at the Public Health-Seattle & King County Laboratory.]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "This analysis was completed at Pathologist's Regional Laboratory. ",
+            "id": "UNKREF-PRL",
+            "text": "[UNKREF-PRL] - [This analysis was completed at Pathologist's Regional Laboratory. ]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "This analysis was completed at Quest Diagnostics in Seattle.",
+            "id": "UNKREF-QD",
+            "text": "[UNKREF-QD] - [This analysis was completed at Quest Diagnostics in Seattle.]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "This analysis was completed at Quest Diagnostics in San Juan Capistrano.",
+            "id": "UNKREF-QDCA",
+            "text": "[UNKREF-QDCA] - [This analysis was completed at Quest Diagnostics in San Juan Capistrano.]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "This analysis was completed at the South Dakota Public Health Laboratory",
+            "id": "UNKREF-SDPH",
+            "text": "[UNKREF-SDPH] - [This analysis was completed at the South Dakota Public Health Laboratory]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "This analysis was completed at the Spokane Regional Health District.",
+            "id": "UNKREF-SRHD",
+            "text": "[UNKREF-SRHD] - [This analysis was completed at the Spokane Regional Health District.]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "This analysis was completed at Underwriters Laboratories.",
+            "id": "UNKREF-ULAB",
+            "text": "[UNKREF-ULAB] - [This analysis was completed at Underwriters Laboratories.]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "This analysis was completed at the University of Washington Department of Global Health STI Laboratory.",
+            "id": "UNKREF-UW",
+            "text": "[UNKREF-UW] - [This analysis was completed at the University of Washington Department of Global Health STI Laboratory.]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "This analysis was completed at the VA Medical Center.",
+            "id": "UNKREF-VA",
+            "text": "[UNKREF-VA] - [This analysis was completed at the VA Medical Center.]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "This analysis was completed at the Washington Public Health Laboratory.",
+            "id": "UNKREF-WA",
+            "text": "[UNKREF-WA] - [This analysis was completed at the Washington Public Health Laboratory.]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "This analysis was completed at the David Axelrod Institute Wadsworth Center - New York State Department of Health. ",
+            "id": "UNKREF-WDNY",
+            "text": "[UNKREF-WDNY] - [This analysis was completed at the David Axelrod Institute Wadsworth Center - New York State Department of Health. ]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "Alpha",
+            "id": "VARIANT",
+            "text": "[VARIANT] - [Alpha]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "VC texts",
+            "id": "VC",
+            "text": "[VC] - [VC texts]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "Wet weight basis",
+            "id": "W",
+            "text": "[W] - [Wet weight basis]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "WETx defined comment",
+            "id": "WETX1",
+            "text": "[WETX1] - [WETx defined comment]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "Confirmatory testing (PRNT) indicates an infection with West",
+            "id": "WNPR",
+            "text": "[WNPR] - [Confirmatory testing (PRNT) indicates an infection with West]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "It is recommended that samples with equivocal results be tested using a different method; or the patient may be re-drawn two or more weeks later and re-tested with this assay.",
+            "id": "WNVEQ",
+            "text": "[WNVEQ] - [It is recommended that samples with equivocal results be tested using a different method; or the patient may be re-drawn two or more weeks later and re-tested with this assay.]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "IgG cross-reactivity has been noted with some specimens containing antibody to cytomegalovirus (CMV) and bunyaviruses, e.g., LaCrosse vrus.",
+            "id": "WNVGPOS",
+            "text": "[WNVGPOS] - [IgG cross-reactivity has been noted with some specimens containing antibody to cytomegalovirus (CMV) and bunyaviruses, e.g., LaCrosse vrus.]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "IgM assay cross-reactivity has been noted in children with some West Nile IgM assays testing specimens containing antibody to enteroviruses.",
+            "id": "WNVMPOS",
+            "text": "[WNVMPOS] - [IgM assay cross-reactivity has been noted in children with some West Nile IgM assays testing specimens containing antibody to enteroviruses.]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "Cross-reactivity has been observed with some specimens containing antibody to cytomegalovirus (CMV) and bunyaviruses, e.g., La Crosse virus.",
+            "id": "WNVPOS",
+            "text": "[WNVPOS] - [Cross-reactivity has been observed with some specimens containing antibody to cytomegalovirus (CMV) and bunyaviruses, e.g., La Crosse virus.]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "Slide was inoculated on the wrong side.",
+            "id": "Wrong side of slide",
+            "text": "[Wrong side of slide] - [Slide was inoculated on the wrong side.]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "Test performed under provisional certification by EPA.",
+            "id": "X",
+            "text": "[X] - [Test performed under provisional certification by EPA.]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "Data are rejected and should not be used. Some or all of the quality control data for the analyte were outside criteria, and the presence or absence of the analyte cannot be determined from the data.",
+            "id": "Y",
+            "text": "[Y] - [Data are rejected and should not be used. Some or all of the quality control data for the analyte were outside criteria, and the presence or absence of the analyte cannot be determined from the data.]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "Probable false positive VDRL reaction.\n\nThis pattern can also be seen in early Primary syphilis. Recommend retesting in 2-3 weeks if there is possible recent exposure to syphilis.",
+            "id": "YESVDRLNOTPPA",
+            "text": "[YESVDRLNOTPPA] - [Probable false positive VDRL reaction.\n\nThis pattern can also be seen in early Primary syphilis. Recommend retesting in 2-3 weeks if there is possible recent exposure to syphilis.]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "Consistent with syphilis infection.",
+            "id": "YESVDRLYESTPPA",
+            "text": "[YESVDRLYESTPPA] - [Consistent with syphilis infection.]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "Not reported due to an unknown bias.",
+            "id": "Z",
+            "text": "[Z] - [Not reported due to an unknown bias.]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "qaqa",
+            "id": "qa",
+            "text": "[qa] - [qaqa]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "The XTAG RVP Assay has not been approved by the U.S. FDA and is for research use only.  Use by IBL is for evaluation purposes only and results are not intended for patient care or in connection with providing health care services to any individual.",
+            "id": "xTAG",
+            "text": "[xTAG] - [The XTAG RVP Assay has not been approved by the U.S. FDA and is for research use only.  Use by IBL is for evaluation purposes only and results are not intended for patient care or in connection with providing health care services to any individual.]",
+            "isCustomChoice": false
+        },
+        {
+            "fullCommentText": "Date: @sysdate@\nUser: @user@\nLabSite: @labsite@\nMatrix: @matrix@\nReceiveDate: @receiveDate@\nCollectDate: @collectDate@\nMethod: @method@",
+            "id": "Totally Testing",
+            "text": "[Totally Testing] - [Date: @sysdate@\nUser: @user@\nLabSite: @labsite@\nMatrix: @matrix@\nReceiveDate: @receiveDate@\nCollectDate: @collectDate@\nMethod: @method@]",
+            "isCustomChoice": false
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "options": [
+        {
+            "id": "633593",
+            "text": "CTNG-KIt 633593 (633593)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "CH1",
+            "text": "Channel 1 (CH1)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "40003A",
+            "text": "Mumps IgG (40003A)",
+            "isCustomChoice": false
+        }
+    ]
+}

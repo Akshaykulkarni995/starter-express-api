@@ -1,0 +1,60 @@
+{
+    "options": [
+        {
+            "flags": "A.........",
+            "description": "Work",
+            "isActive": true,
+            "id": "W",
+            "text": "Work",
+            "isCustomChoice": false
+        },
+        {
+            "flags": "A.........",
+            "description": "Home",
+            "isActive": true,
+            "id": "H",
+            "text": "Home",
+            "isCustomChoice": false
+        },
+        {
+            "flags": "A.........",
+            "description": "Mobile",
+            "isActive": true,
+            "id": "M",
+            "text": "Mobile",
+            "isCustomChoice": false
+        },
+        {
+            "flags": "A.........",
+            "description": "Fax",
+            "isActive": true,
+            "id": "F",
+            "text": "Fax",
+            "isCustomChoice": false
+        },
+        {
+            "flags": "A.........",
+            "description": "Pager",
+            "isActive": true,
+            "id": "P",
+            "text": "Pager",
+            "isCustomChoice": false
+        },
+        {
+            "flags": "A.........",
+            "description": "Secured Fax",
+            "isActive": true,
+            "id": "S",
+            "text": "Secured Fax",
+            "isCustomChoice": false
+        },
+        {
+            "flags": "A.........",
+            "description": "Laboratory",
+            "isActive": true,
+            "id": "L",
+            "text": "Laboratory",
+            "isCustomChoice": false
+        }
+    ]
+}

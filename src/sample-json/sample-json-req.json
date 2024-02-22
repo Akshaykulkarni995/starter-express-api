@@ -1,0 +1,7 @@
+{
+  "pageIndex": 0,
+  "pageSize": 25,
+  "sortOptions": [{ "column": "LabId", "descending": true }],
+  "patientId": 98487,
+  "filterOptions": null
+}

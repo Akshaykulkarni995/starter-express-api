@@ -1,0 +1,132 @@
+{
+    "options": [
+        {
+            "flags": "A..1......",
+            "description": "ATL",
+            "isActive": true,
+            "id": "ATL",
+            "text": "ATL (ATL)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": "A.........",
+            "description": "B Lab",
+            "isActive": true,
+            "id": "B",
+            "text": "B Lab (B)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": "A.........",
+            "description": "CDCA",
+            "isActive": true,
+            "id": "CDCA",
+            "text": "CDCA (CDCA)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": "A.........",
+            "description": "Link Code A",
+            "isActive": true,
+            "id": "LnkA",
+            "text": "Link Code A (LnkA)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": "A.........",
+            "description": "Regression_Testing_Lab",
+            "isActive": true,
+            "id": "RG",
+            "text": "Regression_Testing_Lab (RG)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": "A.........",
+            "description": "Thomsen",
+            "isActive": true,
+            "id": "T",
+            "text": "Thomsen (T)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": "A.D.S.....",
+            "description": "Environmental",
+            "isActive": true,
+            "id": "e",
+            "text": "Environmental (e)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": "A...S.....",
+            "description": "Administrative",
+            "isActive": true,
+            "id": "a",
+            "text": "Administrative (a)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": "A.........",
+            "description": "Atlanta Health Associates Ref",
+            "isActive": true,
+            "id": "AHA",
+            "text": "Atlanta Health Associates Ref (AHA)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": "A...S.....",
+            "description": "Clinical",
+            "isActive": true,
+            "id": "c",
+            "text": "Clinical (c)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": "A...S.....",
+            "description": "My Code is A 000",
+            "isActive": true,
+            "id": "A",
+            "text": "My Code is A 000 (A)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": "A...S.....",
+            "description": "Emergency Response",
+            "isActive": true,
+            "id": "r",
+            "text": "Emergency Response (r)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": "A...S.....",
+            "description": "Laboratory Improvement",
+            "isActive": true,
+            "id": "p",
+            "text": "Laboratory Improvement (p)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": "A...S.....",
+            "description": "Hasbrook Envt Chemistry",
+            "isActive": true,
+            "id": "E",
+            "text": "Hasbrook Envt Chemistry (E)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": "A.........",
+            "description": "HOST/MASTER LIMS",
+            "isActive": true,
+            "id": "x",
+            "text": "HOST/MASTER LIMS (x)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": "A...S.....",
+            "description": "LaSB",
+            "isActive": true,
+            "id": "l",
+            "text": "LaSB (l)",
+            "isCustomChoice": false
+        }
+    ]
+}

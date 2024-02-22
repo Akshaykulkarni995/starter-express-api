@@ -1,0 +1,147 @@
+{
+    "showExceptionClicked": false,
+    "results": [
+        {
+            "labSiteId": "e",
+            "batchId": null,
+            "labTaskId": 2606666,
+            "labTaskType": "E",
+            "patientId": "98470",
+            "identifier": "a2343",
+            "workorderId": null,
+            "taskBatchId": null,
+            "position": 0,
+            "runDate": "2024-01-16T07:51:25.1003126Z",
+            "columnId": null,
+            "collectDate": null,
+            "receiveDate": null,
+            "labSite": "Environmental",
+            "matrix": null,
+            "collectionSite": null,
+            "completedDate": null,
+            "departmentId": "TECH",
+            "departmentName": "Technical intervention",
+            "canPostTasksManually": true,
+            "procedure": "PATIENT_CO",
+            "procedureDescription": "Patient Contact Log Entry",
+            "quantity": null,
+            "sopPointer": null,
+            "documentType": null,
+            "sampleId": null,
+            "labSampleId": null,
+            "custSampleId": null,
+            "horizonSampleNumber": null,
+            "containerType": null,
+            "containerSeq": null,
+            "sampleType": null,
+            "sampleTypeId": null,
+            "isSpiked": "No",
+            "labTaskConditionCode": {
+                "colorCode": "",
+                "isConditionCodeColorized": false,
+                "releaseStatus": null,
+                "facade": "1",
+                "id": "OK",
+                "text": "OK, Continue successful (OK)",
+                "isCustomChoice": false
+            },
+            "isConditionCodeColorized": false,
+            "conditionCodeGroup": "1",
+            "procedureTaskPath": ".",
+            "taskPath": ".",
+            "dilution": 1.0,
+            "custContainerId": null,
+            "analyteResults": [],
+            "spikes": [],
+            "status": "Ready",
+            "facade": ".",
+            "isPosted": false,
+            "isProtected": false,
+            "isESignRequired": true,
+            "isSampleReportedOrCompleted": false,
+            "isAnalytical": false,
+            "isPrep": false,
+            "isAdministrative": true,
+            "instrumentRequired": true,
+            "runDateRequired": true,
+            "analystId": {
+                "lastFirstDisplayName": null,
+                "logonId": "CLSadmin",
+                "firstLast": null,
+                "lastFirst": null,
+                "shortName": null,
+                "firstName": null,
+                "lastName": null,
+                "userNbr": null,
+                "userSeq": null,
+                "id": "CW",
+                "text": "West, Chris",
+                "isCustomChoice": false
+            },
+            "instrumentId": null,
+            "promptFeeHours": null,
+            "procedureNullStrategy": null,
+            "comments": [],
+            "runFlags": [
+                {
+                    "legacyPosition": "1",
+                    "value": "."
+                },
+                {
+                    "legacyPosition": "2",
+                    "value": "D"
+                },
+                {
+                    "legacyPosition": "3",
+                    "value": "D"
+                },
+                {
+                    "legacyPosition": "4",
+                    "value": "M"
+                },
+                {
+                    "legacyPosition": "5",
+                    "value": "."
+                },
+                {
+                    "legacyPosition": "6",
+                    "value": "."
+                },
+                {
+                    "legacyPosition": "7",
+                    "value": "N"
+                },
+                {
+                    "legacyPosition": "8",
+                    "value": "N"
+                },
+                {
+                    "legacyPosition": "9",
+                    "value": "N"
+                }
+            ],
+            "defaultSpikes": {
+                "standardsNotFound": [],
+                "multipleStandardsFound": [],
+                "spikes": []
+            },
+            "isVariableList": false,
+            "analyteList": null,
+            "analystLogonId": "CLSadmin",
+            "allowsNull": false,
+            "revision": "5503783",
+            "clientId": "A.EPSTEI1378",
+            "procedureInstrumentClass": ".",
+            "isOriginal": false,
+            "warnOnCancellingQc": false,
+            "notes": null,
+            "activeFlag": "A",
+            "contact": null,
+            "methodName": "BAM LIST",
+            "isViewSpikedButtonDisabled": true
+        }
+    ],
+    "analytes": null,
+    "Success": true,
+    "UnmetExpectations": []
+}

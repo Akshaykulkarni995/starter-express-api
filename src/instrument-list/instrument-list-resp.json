@@ -1,0 +1,784 @@
+{
+    "options": [
+        {
+            "id": "000000",
+            "text": "000000000000000000000000000000 (000000)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "EA1001",
+            "text": "AA/GFAA, PE Analyst 800 (EA1001)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "ABI2",
+            "text": "ABI2 (ABI2)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "AGILENT1",
+            "text": "Agilent LC-MS/MS (AGILENT1)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "NH3",
+            "text": "Ammonia Detector 3000 (NH3)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "EA1011",
+            "text": "ASE 200, Extr, Org (EA1011)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "AU640",
+            "text": "AU640 (AU640)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "AUT1TAB1",
+            "text": "Autopsy Room 1 Table 1 (AUT1TAB1)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "EA5091",
+            "text": "Balance, Denver Instrument (EA5091)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "EA1021",
+            "text": "Balance, Fisher Accu2002 (EA1021)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "EA1022",
+            "text": "Balance, Fisher Accu224, Inorg (EA1022)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "EA1023",
+            "text": "Balance, Fisher Accu224, Org (EA1023)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "EA1031",
+            "text": "Balance, Mettler AB104, Rad (EA1031)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "EA1032",
+            "text": "Balance, Mettler AE163, Inorg (EA1032)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "EA1033",
+            "text": "Balance, Mettler PB303, Inorg (EA1033)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "CL3031",
+            "text": "Balance, Mettler PR503 (CL3031)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "CL3001",
+            "text": "Balance, Ohaus Adventurer (CL3001)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "EA1041",
+            "text": "Balance, Sartorius A200S, Air (EA1041)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "EA1042",
+            "text": "Balance, Sartorius MSE6.6 (EA1042)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "EA1051",
+            "text": "Balance, Top, Accu 2101, Inorg (EA1051)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "480_1",
+            "text": "Beckman Coulter AU480_1 (480_1)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "CL1001",
+            "text": "BioRobot (CL1001)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "AUTOBCHEM",
+            "text": "Blood Chemistry Analyzer (AUTOBCHEM)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "CalINS",
+            "text": "Calibration Instrument (CalINS)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "AUTOCBC",
+            "text": "CBC Analyzer (AUTOCBC)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "CL1011",
+            "text": "Chemiluminometer (CL1011)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "Cobas6000",
+            "text": "Cobas 6000 (Cobas6000)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "EA5021",
+            "text": "COD Reactor, Hach (EA5021)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "EA1061",
+            "text": "CV/ABS, Quick Trace M8000 (EA1061)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "EA5031",
+            "text": "Cyanide Midi-Vap (EA5031)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "EA1081",
+            "text": "Dissolved Oxygen Meter, YSI 58 (EA1081)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "CL3061",
+            "text": "EVOLIS Microplate Analyzer (CL3061)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "EA2043",
+            "text": "Extraction Manifold, Glass (EA2043)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "EA2042",
+            "text": "Extraction Manifold, Resprep (EA2042)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "INST123",
+            "text": "FancyInst (INST123)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "EA1092",
+            "text": "FIA, Lachat 8500 Series 2 (EA1092)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "EA1093",
+            "text": "FIA, Lachat 8500 Series 2 (EA1093)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "CL3011",
+            "text": "Flow Cytometer, Bioplex 200 (CL3011)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "FTIR",
+            "text": "FTIR (FTIR)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "ER1001",
+            "text": "FTIR, Thermo Nocolet 6700 (ER1001)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "EA2001",
+            "text": "GC/FID, Agilent 6890 (EA2001)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "EA2011",
+            "text": "GC/MS 5975 (EA2011)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "ER1011",
+            "text": "GC/MS, Agilent 6890N (ER1011)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "CL1021",
+            "text": "Genetic Analyzer,ABI Prism 310 (CL1021)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "CL1022",
+            "text": "Genetic Analyzer,ABI Prism 310 (CL1022)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "CLS005",
+            "text": "GFAA Perkin Elmer (CLS005)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "ER1021",
+            "text": "Gilson SPE System (ER1021)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "EA2021",
+            "text": "GPC, Canberra Tennelec LB4110 (EA2021)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "GRB-001",
+            "text": "Grubbometer (GRB-001)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "ER1031",
+            "text": "Headsp. EI GC/MS, Agilent 6890 (ER1031)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "ER1032",
+            "text": "Headsp. EI GC/MS, Agilent 7890 (ER1032)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "EA5061",
+            "text": "Hot Plate, Thermolyne (EA5061)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "EA6001",
+            "text": "HotBlock Digestion System (EA6001)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "EA2051",
+            "text": "HPLC, Waters Alliance 2695 (EA2051)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "EA2092",
+            "text": "HPLC-ICPMS (EA2092)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "EA2061",
+            "text": "IC, Dionex DX 500 (EA2061)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "EA2071",
+            "text": "IC, Lachat IC5000 (EA2071)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "EA2062",
+            "text": "IC,Dionex ICS-1100 (EA2062)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "EA2063",
+            "text": "IC,Dionex ICS-1100 (EA2063)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "EA2081",
+            "text": "ICP, Perkin Elmer Optima 5300 (EA2081)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "EA2093",
+            "text": "ICP/MS, Agilent 7900 (EA2093)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "ER1041",
+            "text": "ICP/MS, PE Elan DRC II (ER1041)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "ER1051",
+            "text": "Icycler - Bio Rad (ER1051)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "CL3021",
+            "text": "Incubator, Fisher CO2 (CL3021)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "CL3022",
+            "text": "Incubator, Fisher CO2 (CL3022)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "CL2031",
+            "text": "Incubator, Fisher Iso-Temp (CL2031)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "CL2032",
+            "text": "Incubator, Fisher Iso-Temp (CL2032)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "CL2033",
+            "text": "Incubator, Fisher Iso-Temp (CL2033)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "CL2034",
+            "text": "Incubator, Fisher Iso-Temp (CL2034)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "CL2035",
+            "text": "Incubator, Fisher Iso-Temp (CL2035)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "EA4071",
+            "text": "Incubator, Fisher Iso-Temp (EA4071)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "CL2061",
+            "text": "Incubator, Lab-Line (CL2061)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "CL2062",
+            "text": "Incubator, Lab-Line (CL2062)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "CL2063",
+            "text": "Incubator, Lab-Line (CL2063)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "CL2064",
+            "text": "Incubator, Lab-Line (CL2064)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "EA4061",
+            "text": "Incubator, Lab-Line (EA4061)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "EA4062",
+            "text": "Incubator, Lab-Line (EA4062)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "EA4051",
+            "text": "Incubator, Lab-Line Imp II (EA4051)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "Trainingt11",
+            "text": "Instrument Interface T11 (Trainingt11)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "ISE",
+            "text": "Ion Specific Probe (ISE)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "ZZ0002",
+            "text": "Laboratory Inspection autopost (ZZ0002)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "EA3001",
+            "text": "Lachat, Quikchem AE 2300-00 (EA3001)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "EA3011",
+            "text": "LSC, PE Tri-Carb 3100TR (EA3011)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "CL2041",
+            "text": "Luminometer, Gen-Probe Ldr 50 (CL2041)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "CL1031",
+            "text": "Magna Pure (CL1031)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "CL3051",
+            "text": "MGIT 320 (CL3051)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "EA3021",
+            "text": "Micro Balance, Cahn C-34, Air (EA3021)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "EA3031",
+            "text": "Micro ECD, Agilent 6890 (EA3031)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "EA3032",
+            "text": "Micro ECD, Agilent 6890-N (EA3032)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "CL1041",
+            "text": "Microplate Rdr, Bio-Tek EL312e (CL1041)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "CL1042",
+            "text": "Microplate Rdr, Bio-Tek EL312e (CL1042)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "CL1043",
+            "text": "Microplate Rdr, Bio-Tek ELx808 (CL1043)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "EA4092",
+            "text": "Microplate Rdr, Bio-Tek ELx808 (EA4092)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "EA4091",
+            "text": "Microplate Rdr, Biolog (EA4091)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "CL1051",
+            "text": "Microplate Rdr, PE Victor II (CL1051)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "CL1052",
+            "text": "Microplate Rdr, PE Victor III (CL1052)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "CL2051",
+            "text": "Microplate Rdr, Tecan Sunrise (CL2051)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "CL1044",
+            "text": "Microplate Rdr. Bio-Tek EL 808 (CL1044)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "CL1061",
+            "text": "MicroScan (CL1061)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "EA5001",
+            "text": "Microscope, Nikon (EA5001)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "EA3041",
+            "text": "Microwave Digestor (EA3041)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "ER1061",
+            "text": "MS/MS, App Biosys API 4000 (ER1061)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "CL1071",
+            "text": "Multiplex, Bioplex 2200 (CL1071)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "CL1081",
+            "text": "Myco Cult. Sys., Versatrek 580 (CL1081)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "n",
+            "text": "Name (n)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "ND",
+            "text": "Nat's Instrument (ND)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "ND_2",
+            "text": "Nat's Second Instrument (ND_2)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "EA6002",
+            "text": "NIC RA-3A Mercury Analyzer (EA6002)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "O480_1",
+            "text": "Olympus_AU480_1 (O480_1)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "PNTHR",
+            "text": "Panther PC123 - 1 (PNTHR)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "PATHOLOGIST1",
+            "text": "Pathologist 1 (PATHOLOGIST1)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "ER1071",
+            "text": "PCR, ABI 7000 (ER1071)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "CL1092",
+            "text": "PCR, ABI 7500 Fast (CL1092)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "CL1093",
+            "text": "PCR, ABI 7500 Fast DX (CL1093)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "CL2002",
+            "text": "PCR, Cepheid Smart Cycler (CL2002)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "CL2003",
+            "text": "PCR, Cepheid Smart Cycler (CL2003)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "EA5071",
+            "text": "PCR, Cepheid Smart Cycler (EA5071)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "EA5072",
+            "text": "PCR, Cepheid Smart Cycler (EA5072)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "CL2001",
+            "text": "PCR, Cepheid Smart Cycler - 2 (CL2001)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "CL2081",
+            "text": "PCR, iCycler iq (CL2081)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "EA5081",
+            "text": "PCR, Thermocycler (EA5081)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "CL2011",
+            "text": "pH Meter - 1 (CL2011)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "EA3051",
+            "text": "pH Meter, Accumet 10, Inorg (EA3051)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "EA3052",
+            "text": "pH Meter, Accumet XL15, Inorg (EA3052)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "EA3061",
+            "text": "pH Meter, Ar 15, Inorg (EA3061)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "EA3062",
+            "text": "pH Meter, Ar 50, Inorg (EA3062)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "EA3063",
+            "text": "pH Meter, Ar 60, Org (EA3063)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "CL3041",
+            "text": "Pyrosequencer (CL3041)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "MAGNAC",
+            "text": "Roche MagNA Pure Compact (MAGNAC)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "EA3071",
+            "text": "Scaler, Ludlum 3030 (EA3071)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "EA3081",
+            "text": "Semi VOA MS, Shimadzu QP2010 (EA3081)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "ZZ0001",
+            "text": "Shipping autopost instrument (ZZ0001)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "SPECT-1",
+            "text": "Spectrometer A (SPECT-1)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "SPECT-2",
+            "text": "Spectrometer B (SPECT-2)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "EA5011",
+            "text": "Stereoscope, Spencer (EA5011)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "Tester",
+            "text": "Super Genetic Tester (Tester)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "CL2021",
+            "text": "TECAN Genesis RSP 100 (CL2021)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "ICP4",
+            "text": "Teledyne-Leeman Prodigy (ICP4)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "Test",
+            "text": "Test (Test)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "CL2072",
+            "text": "Thermocycler (CL2072)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "CL2073",
+            "text": "Thermocycler (CL2073)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "EA3091",
+            "text": "Turbidimeter, Hach 2100N (EA3091)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "AUTOURA",
+            "text": "Urinalysis Analyzer (AUTOURA)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "CL2091",
+            "text": "UV-Vis Photometer, eppendorf (CL2091)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "EA4001",
+            "text": "UV-Vis Spec, AQA 2200E (EA4001)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "EA4101",
+            "text": "UV-Vis Spec, SDI, RPA-1 (EA4101)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "EA4012",
+            "text": "UV-Vis Spec, Shimadzu UV160U (EA4012)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "EA4021",
+            "text": "Visible Spec, AQA 2700E (EA4021)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "EA4031",
+            "text": "VOC GC/MS Auto-Sampler, Tekmar (EA4031)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "EA4041",
+            "text": "VOC GC/MS, Shimadzu QP2010 (EA4041)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "EA5041",
+            "text": "Water Bath, CPI International (EA5041)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "EA5051",
+            "text": "Water Bath, Lindberg/Blue (EA5051)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "EA4081",
+            "text": "Water Bath, Precision (EA4081)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "EA4082",
+            "text": "Water Bath, Precision (EA4082)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "EA4083",
+            "text": "Water Bath, Precision (EA4083)",
+            "isCustomChoice": false
+        },
+        {
+            "id": "EA4084",
+            "text": "Water Bath, Precision (EA4084)",
+            "isCustomChoice": false
+        }
+    ]
+}

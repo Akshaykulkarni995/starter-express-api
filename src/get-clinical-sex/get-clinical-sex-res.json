@@ -1,0 +1,28 @@
+{
+    "options": [
+        {
+            "flags": "A.........",
+            "description": "Female",
+            "isActive": true,
+            "id": "F",
+            "text": "Female",
+            "isCustomChoice": false
+        },
+        {
+            "flags": "A.........",
+            "description": "Male",
+            "isActive": true,
+            "id": "M",
+            "text": "Male",
+            "isCustomChoice": false
+        },
+        {
+            "flags": "A.........",
+            "description": "Neutral",
+            "isActive": true,
+            "id": "N",
+            "text": "Neutral",
+            "isCustomChoice": false
+        }
+    ]
+}

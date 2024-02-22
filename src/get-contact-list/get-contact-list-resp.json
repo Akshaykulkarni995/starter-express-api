@@ -1,0 +1,109 @@
+{
+    "contacts": [
+        {
+            "phone": null,
+            "fax": null,
+            "id": "9524",
+            "text": "13264978",
+            "isCustomChoice": false
+        },
+        {
+            "phone": "(919) 855-8716",
+            "fax": "(919) 981-7436",
+            "id": "153",
+            "text": "Adams, Jackie (ChemWare LLC)",
+            "isCustomChoice": false
+        },
+        {
+            "phone": null,
+            "fax": null,
+            "id": "236",
+            "text": "Blevins, Alonzo (Birdsall Services Group Inc. 1)",
+            "isCustomChoice": false
+        },
+        {
+            "phone": "855-8716",
+            "fax": "919-896-7663",
+            "id": "8243",
+            "text": "Crane, Bob (Pipsy Poodle, Inc.)",
+            "isCustomChoice": false
+        },
+        {
+            "phone": null,
+            "fax": null,
+            "id": "9490",
+            "text": "Espinoza, Bernadette",
+            "isCustomChoice": false
+        },
+        {
+            "phone": "(919) 855-8716",
+            "fax": null,
+            "id": "2982",
+            "text": "Greer, Kelley (A. Epstein and Sons International Inc. 1)",
+            "isCustomChoice": false
+        },
+        {
+            "phone": null,
+            "fax": null,
+            "id": "9784",
+            "text": "Guy, Testing",
+            "isCustomChoice": false
+        },
+        {
+            "phone": null,
+            "fax": null,
+            "id": "9630",
+            "text": "Jones, Jim (Meadowlands Testing Company)",
+            "isCustomChoice": false
+        },
+        {
+            "phone": null,
+            "fax": null,
+            "id": "9694",
+            "text": "Krabs, Mister (Krusty Krab)",
+            "isCustomChoice": false
+        },
+        {
+            "phone": null,
+            "fax": null,
+            "id": "9693",
+            "text": "Krabs (Krusty Krab)",
+            "isCustomChoice": false
+        },
+        {
+            "phone": null,
+            "fax": null,
+            "id": "9744",
+            "text": "Mae, Zelda",
+            "isCustomChoice": false
+        },
+        {
+            "phone": null,
+            "fax": null,
+            "id": "220",
+            "text": "Meadows, Danielle",
+            "isCustomChoice": false
+        },
+        {
+            "phone": "(919) 855-8716",
+            "fax": "919-981-7436",
+            "id": "2533",
+            "text": "Pitts, Alonzo (Lionakis Beaumont Design Group Inc. 3)",
+            "isCustomChoice": false
+        },
+        {
+            "phone": null,
+            "fax": "978-313-8241",
+            "id": "9856",
+            "text": "Sultanpur, Sachin",
+            "isCustomChoice": false
+        },
+        {
+            "phone": null,
+            "fax": null,
+            "id": "9552",
+            "text": "Thomsen, Benj (ChemWare LLC)",
+            "isCustomChoice": false
+        }
+    ]
+}

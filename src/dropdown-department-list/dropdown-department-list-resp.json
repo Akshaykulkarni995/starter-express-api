@@ -1,0 +1,2092 @@
+{
+    "options": [
+        {
+            "flags": null,
+            "description": "2nd Confirm pH Test",
+            "isActive": false,
+            "id": "ADL3",
+            "text": "2nd Confirm pH Test (ADL3)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "AAA",
+            "isActive": false,
+            "id": "AAA",
+            "text": "AAA (AAA)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Accutest Laboratories",
+            "isActive": false,
+            "id": "ATL",
+            "text": "Accutest Laboratories (ATL)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Acode Missing",
+            "isActive": false,
+            "id": "BADa",
+            "text": "Acode Missing (BADa)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Acode Missing",
+            "isActive": false,
+            "id": "BADc",
+            "text": "Acode Missing (BADc)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Acode Missing",
+            "isActive": false,
+            "id": "BADe",
+            "text": "Acode Missing (BADe)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Acode Missing",
+            "isActive": false,
+            "id": "BADr",
+            "text": "Acode Missing (BADr)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Acode Missing",
+            "isActive": false,
+            "id": "BADx",
+            "text": "Acode Missing (BADx)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Administrative",
+            "isActive": false,
+            "id": "ADM",
+            "text": "Administrative (ADM)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Air Audit",
+            "isActive": false,
+            "id": "AUDa",
+            "text": "Air Audit (AUDa)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Air Audit",
+            "isActive": false,
+            "id": "AUDx",
+            "text": "Air Audit (AUDx)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Air Chemistry Lab (ENV)",
+            "isActive": false,
+            "id": "AIRe",
+            "text": "Air Chemistry Lab (ENV) (AIRe)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Air Chemistry Lab (HOST)",
+            "isActive": false,
+            "id": "AIRx",
+            "text": "Air Chemistry Lab (HOST) (AIRx)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Air Lab AAAA",
+            "isActive": false,
+            "id": "AIRA",
+            "text": "Air Lab AAAA (AIRA)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Alaska State Lab Referral",
+            "isActive": false,
+            "id": "AK",
+            "text": "Alaska State Lab Referral (AK)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Alchem Laboratories Referral",
+            "isActive": false,
+            "id": "ALCH",
+            "text": "Alchem Laboratories Referral (ALCH)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Aliquot",
+            "isActive": false,
+            "id": "ALIQ",
+            "text": "Aliquot (ALIQ)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Analytical Laboratories Ref",
+            "isActive": false,
+            "id": "AL",
+            "text": "Analytical Laboratories Ref (AL)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Anatek Laboratories Referral",
+            "isActive": false,
+            "id": "ANTK",
+            "text": "Anatek Laboratories Referral (ANTK)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "APTIMA (CLIN)",
+            "isActive": false,
+            "id": "APTc",
+            "text": "APTIMA (CLIN) (APTc)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "APTIMA (HOST)",
+            "isActive": false,
+            "id": "APTx",
+            "text": "APTIMA (HOST) (APTx)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "ARUP Laboratories Referral",
+            "isActive": false,
+            "id": "ARUP",
+            "text": "ARUP Laboratories Referral (ARUP)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Atlanta Health Associates Ref",
+            "isActive": false,
+            "id": "AHA",
+            "text": "Atlanta Health Associates Ref (AHA)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Autopsy - Coroner",
+            "isActive": false,
+            "id": "AUTc",
+            "text": "Autopsy - Coroner (AUTc)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Bacteriological (CLIN)",
+            "isActive": false,
+            "id": "BACc",
+            "text": "Bacteriological (CLIN) (BACc)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Bacteriological (CLIN)",
+            "isActive": false,
+            "id": "BACe",
+            "text": "Bacteriological (CLIN) (BACe)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Bacteriological (CLIN)",
+            "isActive": false,
+            "id": "BACr",
+            "text": "Bacteriological (CLIN) (BACr)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Bacteriological (HOST)",
+            "isActive": false,
+            "id": "BACx",
+            "text": "Bacteriological (HOST) (BACx)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Batch Review (CLIN)",
+            "isActive": false,
+            "id": "BREa",
+            "text": "Batch Review (CLIN) (BREa)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Batch Review (CLIN)",
+            "isActive": false,
+            "id": "BREc",
+            "text": "Batch Review (CLIN) (BREc)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Batch Review (ENV)",
+            "isActive": false,
+            "id": "BREe",
+            "text": "Batch Review (ENV) (BREe)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Batch Review (ER)",
+            "isActive": false,
+            "id": "BREr",
+            "text": "Batch Review (ER) (BREr)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Batch Review (HOST)",
+            "isActive": false,
+            "id": "BREx",
+            "text": "Batch Review (HOST) (BREx)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Batch Review (LI)",
+            "isActive": false,
+            "id": "BREp",
+            "text": "Batch Review (LI) (BREp)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Batch Review for Shipping",
+            "isActive": false,
+            "id": "BRSc",
+            "text": "Batch Review for Shipping (BRSc)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Batch Review for Shipping",
+            "isActive": false,
+            "id": "BRSe",
+            "text": "Batch Review for Shipping (BRSe)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Batch Review for Shipping",
+            "isActive": false,
+            "id": "BRSH",
+            "text": "Batch Review for Shipping (BRSH)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Batch Review for Shipping",
+            "isActive": false,
+            "id": "BRSx",
+            "text": "Batch Review for Shipping (BRSx)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Bell Flower Clinic",
+            "isActive": false,
+            "id": "BFC",
+            "text": "Bell Flower Clinic (BFC)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Biological Terrorism (CLIN)",
+            "isActive": false,
+            "id": "BIOc",
+            "text": "Biological Terrorism (CLIN) (BIOc)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Biological Terrorism (EA)",
+            "isActive": false,
+            "id": "BIOe",
+            "text": "Biological Terrorism (EA) (BIOe)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Biological Terrorism (ER)",
+            "isActive": false,
+            "id": "BIOr",
+            "text": "Biological Terrorism (ER) (BIOr)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Biological Terrorism (HOST)",
+            "isActive": false,
+            "id": "BIOx",
+            "text": "Biological Terrorism (HOST) (BIOx)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Bioterrorism & Emerging Agents",
+            "isActive": false,
+            "id": "BREA",
+            "text": "Bioterrorism & Emerging Agents (BREA)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "CA Dept. of Health Ref",
+            "isActive": false,
+            "id": "CA",
+            "text": "CA Dept. of Health Ref (CA)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "CA State Lab Referral",
+            "isActive": false,
+            "id": "CASL",
+            "text": "CA State Lab Referral (CASL)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "CAMGHA",
+            "isActive": false,
+            "id": "CMH",
+            "text": "CAMGHA (CMH)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Cash Payments/Receipts",
+            "isActive": false,
+            "id": "CASH",
+            "text": "Cash Payments/Receipts (CASH)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Cash Payments/Receipts",
+            "isActive": false,
+            "id": "CHRG",
+            "text": "Cash Payments/Receipts (CHRG)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "CDC Atlanta Referral",
+            "isActive": false,
+            "id": "CDCA",
+            "text": "CDC Atlanta Referral (CDCA)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "CDC Chamblee Georgia Referral",
+            "isActive": false,
+            "id": "CDCH",
+            "text": "CDC Chamblee Georgia Referral (CDCH)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "CDC Chamblee Referral",
+            "isActive": false,
+            "id": "CDCC",
+            "text": "CDC Chamblee Referral (CDCC)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "CDC Fort Collins Referral",
+            "isActive": false,
+            "id": "CDCF",
+            "text": "CDC Fort Collins Referral (CDCF)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "CDC Puerto Rico Referral",
+            "isActive": false,
+            "id": "CDCP",
+            "text": "CDC Puerto Rico Referral (CDCP)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "CDC Referrals (HOST)",
+            "isActive": false,
+            "id": "CDCx",
+            "text": "CDC Referrals (HOST) (CDCx)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Certifying Review",
+            "isActive": false,
+            "id": "CREV",
+            "text": "Certifying Review (CREV)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Chlamydia/Gonorrhea Assay-CLIN",
+            "isActive": false,
+            "id": "CGAc",
+            "text": "Chlamydia/Gonorrhea Assay-CLIN (CGAc)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Chlamydia/Gonorrhea Assay-HOST",
+            "isActive": false,
+            "id": "CGAx",
+            "text": "Chlamydia/Gonorrhea Assay-HOST (CGAx)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Client Services",
+            "isActive": false,
+            "id": "CALL",
+            "text": "Client Services (CALL)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Clinical Auto",
+            "isActive": false,
+            "id": "CLA",
+            "text": "Clinical Auto (CLA)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Clinical Blood Lead",
+            "isActive": false,
+            "id": "LEAD",
+            "text": "Clinical Blood Lead (LEAD)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Clinical Chemistry Chol/HDL",
+            "isActive": false,
+            "id": "CHOL",
+            "text": "Clinical Chemistry Chol/HDL (CHOL)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Clinical Chlamydia",
+            "isActive": false,
+            "id": "CT",
+            "text": "Clinical Chlamydia (CT)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Clinical FTA",
+            "isActive": false,
+            "id": "FTA",
+            "text": "Clinical FTA (FTA)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Clinical GC Cultures",
+            "isActive": false,
+            "id": "NGON",
+            "text": "Clinical GC Cultures (NGON)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Clinical Hemoglobin Screen",
+            "isActive": false,
+            "id": "HGB",
+            "text": "Clinical Hemoglobin Screen (HGB)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Clinical HIV",
+            "isActive": false,
+            "id": "HIV",
+            "text": "Clinical HIV (HIV)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Clinical Laboratory",
+            "isActive": false,
+            "id": "CLIN",
+            "text": "Clinical Laboratory (CLIN)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Clinical LPS",
+            "isActive": false,
+            "id": "LPS",
+            "text": "Clinical LPS (LPS)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Clinical Manual",
+            "isActive": false,
+            "id": "CLM",
+            "text": "Clinical Manual (CLM)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Clinical Occult Blood",
+            "isActive": false,
+            "id": "OCC",
+            "text": "Clinical Occult Blood (OCC)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Clinical RPR",
+            "isActive": false,
+            "id": "RPR",
+            "text": "Clinical RPR (RPR)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Clinical Stool Culture",
+            "isActive": false,
+            "id": "SCUL",
+            "text": "Clinical Stool Culture (SCUL)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Cold Vapor Atomic Abs (ENV)",
+            "isActive": false,
+            "id": "CVAe",
+            "text": "Cold Vapor Atomic Abs (ENV) (CVAe)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Cold Vapor Atomic Abs (HOST)",
+            "isActive": false,
+            "id": "CVAx",
+            "text": "Cold Vapor Atomic Abs (HOST) (CVAx)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Cold Vapor Fluor Analy (ENV)",
+            "isActive": false,
+            "id": "CVFe",
+            "text": "Cold Vapor Fluor Analy (ENV) (CVFe)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Cold Vapor Fluor Analy (HOST)",
+            "isActive": false,
+            "id": "CVFx",
+            "text": "Cold Vapor Fluor Analy (HOST) (CVFx)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Consumer Microbiology",
+            "isActive": false,
+            "id": "WET",
+            "text": "Consumer Microbiology (WET)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Customer Service (HOST)",
+            "isActive": false,
+            "id": "CSV",
+            "text": "Customer Service (HOST) (CSV)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Department A",
+            "isActive": false,
+            "id": "DEPA",
+            "text": "Department A (DEPA)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Department B",
+            "isActive": false,
+            "id": "DEPB",
+            "text": "Department B (DEPB)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Department C",
+            "isActive": false,
+            "id": "DEPC",
+            "text": "Department C (DEPC)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Digestion for Flame AA (ENV)",
+            "isActive": false,
+            "id": "FLPe",
+            "text": "Digestion for Flame AA (ENV) (FLPe)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Digestion for Flame AA (HOST)",
+            "isActive": false,
+            "id": "FLPx",
+            "text": "Digestion for Flame AA (HOST) (FLPx)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Direct HG Analyzer (ENV)",
+            "isActive": false,
+            "id": "DHGe",
+            "text": "Direct HG Analyzer (ENV) (DHGe)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Direct HG Analyzer (HOST)",
+            "isActive": false,
+            "id": "DHGx",
+            "text": "Direct HG Analyzer (HOST) (DHGx)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "DNA Extraction/Purification",
+            "isActive": false,
+            "id": "DNAX",
+            "text": "DNA Extraction/Purification (DNAX)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Dry Weight/Percent Moisture",
+            "isActive": false,
+            "id": "DRY",
+            "text": "Dry Weight/Percent Moisture (DRY)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "E-mail Delivery",
+            "isActive": false,
+            "id": "*EML",
+            "text": "E-mail Delivery (*EML)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Edge Analytical Lab. Ref.",
+            "isActive": false,
+            "id": "EDGE",
+            "text": "Edge Analytical Lab. Ref. (EDGE)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Energy Laboratories Ref",
+            "isActive": false,
+            "id": "EL",
+            "text": "Energy Laboratories Ref (EL)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Epidemiology reporting",
+            "isActive": false,
+            "id": "*EPI",
+            "text": "Epidemiology reporting (*EPI)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Eurofins Eaton Analytical Ref",
+            "isActive": false,
+            "id": "EEA",
+            "text": "Eurofins Eaton Analytical Ref (EEA)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Extraction",
+            "isActive": false,
+            "id": "EXT",
+            "text": "Extraction (EXT)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Extractions, Organics",
+            "isActive": false,
+            "id": "EXTO",
+            "text": "Extractions, Organics (EXTO)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Final Invoice Review",
+            "isActive": false,
+            "id": "INV",
+            "text": "Final Invoice Review (INV)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Final reporting",
+            "isActive": false,
+            "id": "*REP",
+            "text": "Final reporting (*REP)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Flame Atomic Absorption (ENV)",
+            "isActive": false,
+            "id": "FAAe",
+            "text": "Flame Atomic Absorption (ENV) (FAAe)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Flame Atomic Absorption (HOST)",
+            "isActive": false,
+            "id": "FAAx",
+            "text": "Flame Atomic Absorption (HOST) (FAAx)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Focus Laboratories Referral",
+            "isActive": false,
+            "id": "FOC",
+            "text": "Focus Laboratories Referral (FOC)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Followup Receipt/demographic",
+            "isActive": false,
+            "id": "*REC",
+            "text": "Followup Receipt/demographic (*REC)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Food Testing",
+            "isActive": false,
+            "id": "FOOD",
+            "text": "Food Testing (FOOD)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "GC Herbicides (ENV)",
+            "isActive": false,
+            "id": "GCHe",
+            "text": "GC Herbicides (ENV) (GCHe)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "GC Herbicides (HOST)",
+            "isActive": false,
+            "id": "GCHx",
+            "text": "GC Herbicides (HOST) (GCHx)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "GC Pesticides (ENV)",
+            "isActive": false,
+            "id": "GCPe",
+            "text": "GC Pesticides (ENV) (GCPe)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "GC Pesticides (HOST)",
+            "isActive": false,
+            "id": "GCPx",
+            "text": "GC Pesticides (HOST) (GCPx)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "GC Semivolatiles (ENV)",
+            "isActive": false,
+            "id": "GCSe",
+            "text": "GC Semivolatiles (ENV) (GCSe)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "GC Semivolatiles",
+            "isActive": false,
+            "id": "GCSV",
+            "text": "GC Semivolatiles (GCSV)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "GC Semivolatiles (HOST)",
+            "isActive": false,
+            "id": "GCSx",
+            "text": "GC Semivolatiles (HOST) (GCSx)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "GC Volatiles (ENV)",
+            "isActive": false,
+            "id": "GCVe",
+            "text": "GC Volatiles (ENV) (GCVe)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "GC Volatiles",
+            "isActive": false,
+            "id": "GCV",
+            "text": "GC Volatiles (GCV)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "GC Volatiles (HOST)",
+            "isActive": false,
+            "id": "GCVx",
+            "text": "GC Volatiles (HOST) (GCVx)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "GC/MS Semivolatiles (ENV)",
+            "isActive": false,
+            "id": "GMSe",
+            "text": "GC/MS Semivolatiles (ENV) (GMSe)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "GC/MS Semivolatiles (HOST)",
+            "isActive": false,
+            "id": "GMSx",
+            "text": "GC/MS Semivolatiles (HOST) (GMSx)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "GC/MS Volatiles (ENV)",
+            "isActive": false,
+            "id": "GMVe",
+            "text": "GC/MS Volatiles (ENV) (GMVe)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "GC/MS Volatiles (HOST)",
+            "isActive": false,
+            "id": "GMVx",
+            "text": "GC/MS Volatiles (HOST) (GMVx)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "General Wet Chemistry",
+            "isActive": false,
+            "id": "WETC",
+            "text": "General Wet Chemistry (WETC)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "General Wet Chemistry",
+            "isActive": false,
+            "id": "WETH",
+            "text": "General Wet Chemistry (WETH)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "General Wet Chemistry Prep",
+            "isActive": false,
+            "id": "WEPH",
+            "text": "General Wet Chemistry Prep (WEPH)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "General Wet Chemistry Prep",
+            "isActive": false,
+            "id": "WETP",
+            "text": "General Wet Chemistry Prep (WETP)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Generate EDD",
+            "isActive": false,
+            "id": "*EDD",
+            "text": "Generate EDD (*EDD)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Genetic Testing",
+            "isActive": false,
+            "id": "DNA",
+            "text": "Genetic Testing (DNA)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Grant Activities",
+            "isActive": false,
+            "id": "GRNa",
+            "text": "Grant Activities (GRNa)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Grant Activities",
+            "isActive": false,
+            "id": "GRNx",
+            "text": "Grant Activities (GRNx)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Graphit Furn Atomic Abs (ENV)",
+            "isActive": false,
+            "id": "GFAe",
+            "text": "Graphit Furn Atomic Abs (ENV) (GFAe)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Graphit Furn Atomic Abs (HOST)",
+            "isActive": false,
+            "id": "GFAx",
+            "text": "Graphit Furn Atomic Abs (HOST) (GFAx)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Gravrimetric",
+            "isActive": false,
+            "id": "GRAV",
+            "text": "Gravrimetric (GRAV)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "HIV-Multi Spot",
+            "isActive": false,
+            "id": "HIVM",
+            "text": "HIV-Multi Spot (HIVM)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "HL7 Reporting",
+            "isActive": false,
+            "id": "*HL7",
+            "text": "HL7 Reporting (*HL7)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "HPLC",
+            "isActive": false,
+            "id": "HPLC",
+            "text": "HPLC (HPLC)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "HPLC Herbicides Lab (ENV)",
+            "isActive": false,
+            "id": "HPHe",
+            "text": "HPLC Herbicides Lab (ENV) (HPHe)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "HPLC Herbicides Lab (HOST)",
+            "isActive": false,
+            "id": "HPHx",
+            "text": "HPLC Herbicides Lab (HOST) (HPHx)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "HPLC Volatiles (ENV)",
+            "isActive": false,
+            "id": "HPVe",
+            "text": "HPLC Volatiles (ENV) (HPVe)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "HPLC Volatiles (HOST)",
+            "isActive": false,
+            "id": "HPVx",
+            "text": "HPLC Volatiles (HOST) (HPVx)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "IC Analysis",
+            "isActive": false,
+            "id": "IC",
+            "text": "IC Analysis (IC)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "ICP Analysis",
+            "isActive": false,
+            "id": "ICP",
+            "text": "ICP Analysis (ICP)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "ICP Lab (ENV)",
+            "isActive": false,
+            "id": "ICPe",
+            "text": "ICP Lab (ENV) (ICPe)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "ICP Lab (HOST)",
+            "isActive": false,
+            "id": "ICPx",
+            "text": "ICP Lab (HOST) (ICPx)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "ICP-MS Analysis",
+            "isActive": false,
+            "id": "ICPH",
+            "text": "ICP-MS Analysis (ICPH)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "ICP-MS Analysis",
+            "isActive": false,
+            "id": "ICPM",
+            "text": "ICP-MS Analysis (ICPM)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "ICPMS Emergency Resp (ER)",
+            "isActive": false,
+            "id": "ICEr",
+            "text": "ICPMS Emergency Resp (ER) (ICEr)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "ICPMS Emergency Resp (HOST)",
+            "isActive": false,
+            "id": "ICEx",
+            "text": "ICPMS Emergency Resp (HOST) (ICEx)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "ICPMS Environmental (ENV)",
+            "isActive": false,
+            "id": "ICMe",
+            "text": "ICPMS Environmental (ENV) (ICMe)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "ICPMS Environmental (HOST)",
+            "isActive": false,
+            "id": "ICMx",
+            "text": "ICPMS Environmental (HOST) (ICMx)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "ID Food Quality Assurance Lab.",
+            "isActive": false,
+            "id": "IFQA",
+            "text": "ID Food Quality Assurance Lab. (IFQA)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Influenza Reagent Resource",
+            "isActive": false,
+            "id": "IRR",
+            "text": "Influenza Reagent Resource (IRR)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "J123",
+            "isActive": false,
+            "id": "J123",
+            "text": "J123 (J123)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Lab Inspection/Certification",
+            "isActive": false,
+            "id": "INSa",
+            "text": "Lab Inspection/Certification (INSa)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Lab Inspection/Certification",
+            "isActive": false,
+            "id": "INSp",
+            "text": "Lab Inspection/Certification (INSp)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Lab Inspection/Certification",
+            "isActive": false,
+            "id": "INSx",
+            "text": "Lab Inspection/Certification (INSx)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "LabCorp Seres",
+            "isActive": false,
+            "id": "LCR",
+            "text": "LabCorp Seres (LCR)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Laboratory",
+            "isActive": false,
+            "id": "LAB",
+            "text": "Laboratory (LAB)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Laboratory Response",
+            "isActive": false,
+            "id": "LRN",
+            "text": "Laboratory Response (LRN)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Lachet Lab (ENV)",
+            "isActive": false,
+            "id": "LACe",
+            "text": "Lachet Lab (ENV) (LACe)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Lachet Lab (HOST)",
+            "isActive": false,
+            "id": "LACx",
+            "text": "Lachet Lab (HOST) (LACx)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "LCMS",
+            "isActive": false,
+            "id": "LCM",
+            "text": "LCMS (LCM)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "LCMS",
+            "isActive": false,
+            "id": "LCMS",
+            "text": "LCMS (LCMS)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Letter generation",
+            "isActive": false,
+            "id": "*LET",
+            "text": "Letter generation (*LET)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Mass Spec Semivolatiles",
+            "isActive": false,
+            "id": "MSSV",
+            "text": "Mass Spec Semivolatiles (MSSV)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Mass Spec Volatiles",
+            "isActive": false,
+            "id": "MSV",
+            "text": "Mass Spec Volatiles (MSV)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "ME PREP",
+            "isActive": false,
+            "id": "ME",
+            "text": "ME PREP (ME)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Mercury Analysis (ENV)",
+            "isActive": false,
+            "id": "HGAe",
+            "text": "Mercury Analysis (ENV) (HGAe)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Mercury Analysis (HOST)",
+            "isActive": false,
+            "id": "HGAx",
+            "text": "Mercury Analysis (HOST) (HGAx)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Metals Digestion",
+            "isActive": false,
+            "id": "DIGH",
+            "text": "Metals Digestion (DIGH)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Metals Digestion",
+            "isActive": false,
+            "id": "DIGM",
+            "text": "Metals Digestion (DIGM)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Metals Digestion Lab (ENV)",
+            "isActive": false,
+            "id": "DIGe",
+            "text": "Metals Digestion Lab (ENV) (DIGe)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Metals Digestion Lab (HOST)",
+            "isActive": false,
+            "id": "DIGx",
+            "text": "Metals Digestion Lab (HOST) (DIGx)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Michigan Dept. of Comm. Health",
+            "isActive": false,
+            "id": "MDCH",
+            "text": "Michigan Dept. of Comm. Health (MDCH)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Micro Analysis",
+            "isActive": false,
+            "id": "MCRH",
+            "text": "Micro Analysis (MCRH)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Micro Analysis",
+            "isActive": false,
+            "id": "MCRO",
+            "text": "Micro Analysis (MCRO)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Micro Food Prep",
+            "isActive": false,
+            "id": "FDPR",
+            "text": "Micro Food Prep (FDPR)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Microbiology (ENV)",
+            "isActive": false,
+            "id": "MICc",
+            "text": "Microbiology (ENV) (MICc)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Microbiology (ENV)",
+            "isActive": false,
+            "id": "MICe",
+            "text": "Microbiology (ENV) (MICe)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Microbiology (ENV)",
+            "isActive": false,
+            "id": "MICr",
+            "text": "Microbiology (ENV) (MICr)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Microbiology (HOST)",
+            "isActive": false,
+            "id": "MICx",
+            "text": "Microbiology (HOST) (MICx)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Molecular (HOST)",
+            "isActive": false,
+            "id": "MOLx",
+            "text": "Molecular (HOST) (MOLx)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Molecular",
+            "isActive": false,
+            "id": "MOLa",
+            "text": "Molecular (MOLa)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Molecular",
+            "isActive": false,
+            "id": "MOLc",
+            "text": "Molecular (MOLc)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Molecular",
+            "isActive": false,
+            "id": "MOLe",
+            "text": "Molecular (MOLe)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Molecular",
+            "isActive": false,
+            "id": "MOLr",
+            "text": "Molecular (MOLr)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "MT State Laboratory Ref",
+            "isActive": false,
+            "id": "MT",
+            "text": "MT State Laboratory Ref (MT)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Mycobacteriological (CLIN)",
+            "isActive": false,
+            "id": "MYBc",
+            "text": "Mycobacteriological (CLIN) (MYBc)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Mycobacteriological (HOST)",
+            "isActive": false,
+            "id": "MYBx",
+            "text": "Mycobacteriological (HOST) (MYBx)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Mycology (CLIN)",
+            "isActive": false,
+            "id": "MYCc",
+            "text": "Mycology (CLIN) (MYCc)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Mycology (HOST)",
+            "isActive": false,
+            "id": "MYCx",
+            "text": "Mycology (HOST) (MYCx)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "National Jewish Ref",
+            "isActive": false,
+            "id": "NJ",
+            "text": "National Jewish Ref (NJ)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Nevada State Health Lab ref",
+            "isActive": false,
+            "id": "NV",
+            "text": "Nevada State Health Lab ref (NV)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Newborn Screening",
+            "isActive": false,
+            "id": "NBS",
+            "text": "Newborn Screening (NBS)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Nitrite confirmation",
+            "isActive": false,
+            "id": "NIT",
+            "text": "Nitrite confirmation (NIT)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "OR State Laboratory Ref",
+            "isActive": false,
+            "id": "OR",
+            "text": "OR State Laboratory Ref (OR)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Organic Extraction Lab (ENV)",
+            "isActive": false,
+            "id": "EXTe",
+            "text": "Organic Extraction Lab (ENV) (EXTe)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Organic Extraction Lab (HOST)",
+            "isActive": false,
+            "id": "EXTx",
+            "text": "Organic Extraction Lab (HOST) (EXTx)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Pace Analytical",
+            "isActive": false,
+            "id": "PACE",
+            "text": "Pace Analytical (PACE)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "PAH Prep",
+            "isActive": false,
+            "id": "PAHP",
+            "text": "PAH Prep (PAHP)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Paragon Analytics, Inc. Ref",
+            "isActive": false,
+            "id": "PA",
+            "text": "Paragon Analytics, Inc. Ref (PA)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Parasitology (CLIN)",
+            "isActive": false,
+            "id": "PARc",
+            "text": "Parasitology (CLIN) (PARc)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Parasitology (EP)",
+            "isActive": false,
+            "id": "PARr",
+            "text": "Parasitology (EP) (PARr)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Parasitology (HOST)",
+            "isActive": false,
+            "id": "PARx",
+            "text": "Parasitology (HOST) (PARx)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Parisitology Laboratory",
+            "isActive": false,
+            "id": "PRST",
+            "text": "Parisitology Laboratory (PRST)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Parsitology (ENV)",
+            "isActive": false,
+            "id": "PARe",
+            "text": "Parsitology (ENV) (PARe)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Pathologist's Regional Lab",
+            "isActive": false,
+            "id": "PRL",
+            "text": "Pathologist's Regional Lab (PRL)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Pathology",
+            "isActive": false,
+            "id": "PATH",
+            "text": "Pathology (PATH)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "PCB",
+            "isActive": false,
+            "id": "PCB",
+            "text": "PCB (PCB)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Project Manager",
+            "isActive": false,
+            "id": "PM",
+            "text": "Project Manager (PM)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "QA Activities",
+            "isActive": false,
+            "id": "QAAa",
+            "text": "QA Activities (QAAa)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "QA Activities",
+            "isActive": false,
+            "id": "QAAx",
+            "text": "QA Activities (QAAx)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Quest Diagnostics, CA Referral",
+            "isActive": false,
+            "id": "QDCA",
+            "text": "Quest Diagnostics, CA Referral (QDCA)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Quest Diagnostics, Seattle Ref",
+            "isActive": false,
+            "id": "QD",
+            "text": "Quest Diagnostics, Seattle Ref (QD)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Radiologicals (ENV)",
+            "isActive": false,
+            "id": "RADe",
+            "text": "Radiologicals (ENV) (RADe)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Radiologicals (ENV)",
+            "isActive": false,
+            "id": "RDPe",
+            "text": "Radiologicals (ENV) (RDPe)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Radiologicals (HOST)",
+            "isActive": false,
+            "id": "RADx",
+            "text": "Radiologicals (HOST) (RADx)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Radiologicals (HOST)",
+            "isActive": false,
+            "id": "RDPx",
+            "text": "Radiologicals (HOST) (RDPx)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Referral",
+            "isActive": false,
+            "id": "ANT",
+            "text": "Referral (ANT)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Referrals (CLIN)",
+            "isActive": false,
+            "id": "REFc",
+            "text": "Referrals (CLIN) (REFc)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Referrals (ENV)",
+            "isActive": false,
+            "id": "REFe",
+            "text": "Referrals (ENV) (REFe)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Referrals (ER)",
+            "isActive": false,
+            "id": "REFr",
+            "text": "Referrals (ER) (REFr)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Referrals (HOST)",
+            "isActive": false,
+            "id": "REFx",
+            "text": "Referrals (HOST) (REFx)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Referrals",
+            "isActive": false,
+            "id": "REF",
+            "text": "Referrals (REF)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Regression department",
+            "isActive": false,
+            "id": "RDEP",
+            "text": "Regression department (RDEP)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "RNA Extraction",
+            "isActive": false,
+            "id": "RNAE",
+            "text": "RNA Extraction (RNAE)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Sample Prep",
+            "isActive": false,
+            "id": "SAMP",
+            "text": "Sample Prep (SAMP)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Sample Processing",
+            "isActive": false,
+            "id": "SMPR",
+            "text": "Sample Processing (SMPR)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Screening",
+            "isActive": false,
+            "id": "SCRM",
+            "text": "Screening (SCRM)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Seattle & King County Referral",
+            "isActive": false,
+            "id": "PHS",
+            "text": "Seattle & King County Referral (PHS)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Serology (CLIN)",
+            "isActive": false,
+            "id": "SERc",
+            "text": "Serology (CLIN) (SERc)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Serology (HOST)",
+            "isActive": false,
+            "id": "SERx",
+            "text": "Serology (HOST) (SERx)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Ship sample out",
+            "isActive": false,
+            "id": "SHIP",
+            "text": "Ship sample out (SHIP)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Ship sample out",
+            "isActive": false,
+            "id": "SHPc",
+            "text": "Ship sample out (SHPc)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Ship sample out",
+            "isActive": false,
+            "id": "SHPe",
+            "text": "Ship sample out (SHPe)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Ship sample out",
+            "isActive": false,
+            "id": "SHPr",
+            "text": "Ship sample out (SHPr)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Ship sample out",
+            "isActive": false,
+            "id": "SHPx",
+            "text": "Ship sample out (SHPx)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "SOP-Review",
+            "isActive": false,
+            "id": "SOPa",
+            "text": "SOP-Review (SOPa)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "SOP-Review",
+            "isActive": false,
+            "id": "SOPx",
+            "text": "SOP-Review (SOPx)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "South Dakota Public Health Lab",
+            "isActive": false,
+            "id": "SDPH",
+            "text": "South Dakota Public Health Lab (SDPH)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "SPLP Prep",
+            "isActive": false,
+            "id": "SPLP",
+            "text": "SPLP Prep (SPLP)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Spokane Reg Hlth Dist Referral",
+            "isActive": false,
+            "id": "SRHD",
+            "text": "Spokane Reg Hlth Dist Referral (SRHD)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "TCLP Characterization (HOST)",
+            "isActive": false,
+            "id": "CHRx",
+            "text": "TCLP Characterization (HOST) (CHRx)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "TCLP Filtration (ENV)",
+            "isActive": false,
+            "id": "FLTe",
+            "text": "TCLP Filtration (ENV) (FLTe)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "TCLP Filtration (HOST)",
+            "isActive": false,
+            "id": "FLTx",
+            "text": "TCLP Filtration (HOST) (FLTx)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "TCLP Prep (ENV)",
+            "isActive": false,
+            "id": "TCLe",
+            "text": "TCLP Prep (ENV) (TCLe)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "TCLP Prep (HOST)",
+            "isActive": false,
+            "id": "TCLx",
+            "text": "TCLP Prep (HOST) (TCLx)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "TCLP Prep",
+            "isActive": false,
+            "id": "TCLP",
+            "text": "TCLP Prep (TCLP)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Technical intervention",
+            "isActive": false,
+            "id": "TECH",
+            "text": "Technical intervention (TECH)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Test Department",
+            "isActive": false,
+            "id": "1232",
+            "text": "Test Department (1232)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Underwriters Laboratories Ref",
+            "isActive": false,
+            "id": "ULAB",
+            "text": "Underwriters Laboratories Ref (ULAB)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Univ. of Washington Lab Ref",
+            "isActive": false,
+            "id": "UW",
+            "text": "Univ. of Washington Lab Ref (UW)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Unreporting placeholder",
+            "isActive": false,
+            "id": "UNRP",
+            "text": "Unreporting placeholder (UNRP)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "VA Medical Center",
+            "isActive": false,
+            "id": "VA",
+            "text": "VA Medical Center (VA)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Verigene Analysis",
+            "isActive": false,
+            "id": "VERI",
+            "text": "Verigene Analysis (VERI)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Virology (CLIN)",
+            "isActive": false,
+            "id": "VIRc",
+            "text": "Virology (CLIN) (VIRc)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Virology (HOST)",
+            "isActive": false,
+            "id": "VIRr",
+            "text": "Virology (HOST) (VIRr)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Virology (HOST)",
+            "isActive": false,
+            "id": "VIRx",
+            "text": "Virology (HOST) (VIRx)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "VOLATILES",
+            "isActive": false,
+            "id": "VOL",
+            "text": "VOLATILES (VOL)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "WA Public Health Laboratory",
+            "isActive": false,
+            "id": "WA",
+            "text": "WA Public Health Laboratory (WA)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Wadsworth Center-NY State DOH",
+            "isActive": false,
+            "id": "WDNY",
+            "text": "Wadsworth Center-NY State DOH (WDNY)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Wet Chemistry Prep (ENV)",
+            "isActive": false,
+            "id": "WEPe",
+            "text": "Wet Chemistry Prep (ENV) (WEPe)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Wet Chemistry Prep (HOST)",
+            "isActive": false,
+            "id": "WEPx",
+            "text": "Wet Chemistry Prep (HOST) (WEPx)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Wet/General Chemistry (ENV)",
+            "isActive": false,
+            "id": "WETe",
+            "text": "Wet/General Chemistry (ENV) (WETe)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Wet/General Chemistry (HOST)",
+            "isActive": false,
+            "id": "WETx",
+            "text": "Wet/General Chemistry (HOST) (WETx)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Workorder Review",
+            "isActive": false,
+            "id": "*WOR",
+            "text": "Workorder Review (*WOR)",
+            "isCustomChoice": false
+        },
+        {
+            "flags": null,
+            "description": "Workorder Review",
+            "isActive": false,
+            "id": "WORK",
+            "text": "Workorder Review (WORK)",
+            "isCustomChoice": false
+        }
+    ]
+}

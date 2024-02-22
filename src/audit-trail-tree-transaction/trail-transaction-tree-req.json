@@ -1,0 +1,17 @@
+{
+    "AuditFromDate": null,
+    "AuditToDate": null,
+    "UserId": null,
+    "ExternalUserId": null,
+    "PhiAuditFromDate": null,
+    "PhiAuditToDate": null,
+    "PhiUserId": null,
+    "PhiExternalUserId": null,
+    "TransactionId": null,
+    "ReasonCode": null,
+    "PatientSeq": null,
+    "ObjectType": "Patient",
+    "ObjectId": "98470",
+    "IsContextual": true,
+    "IgnoreWarning": true
+}

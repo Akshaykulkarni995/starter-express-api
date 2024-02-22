@@ -1,0 +1,117 @@
+{
+    "EntityType": 0,
+    "Formats": [
+        {
+            "FormatCode": "AAD",
+            "FormatDescription": "Address Aux Data",
+            "IsActive": true,
+            "IsSelected": false,
+            "SortCode": 0,
+            "PromptsWithEntries": [
+                {
+                    "FieldNumber": 1,
+                    "Prompt": "Preferences",
+                    "IsRequired": true,
+                    "IsAlphanumeric": true,
+                    "IsCustomList": false,
+                    "IsDate": false,
+                    "IsNumeric": false,
+                    "IsTime": false,
+                    "IsDateTime": false,
+                    "IsActive": true,
+                    "SortOrder": 0,
+                    "FieldLength": 12,
+                    "DefaultValue": null,
+                    "AuxDataFormatCode": "AAD",
+                    "AuxDataValue": null,
+                    "AuxDataValueDescription": null,
+                    "ListCode": null
+                }
+            ],
+            "ShowCloseIcon": null,
+            "FormatRequiredFor": null,
+            "FormatRequiredForLabel": null
+        },
+        {
+            "FormatCode": "INS",
+            "FormatDescription": "Insurance Payor ID",
+            "IsActive": true,
+            "IsSelected": false,
+            "SortCode": 0,
+            "PromptsWithEntries": [
+                {
+                    "FieldNumber": 1,
+                    "Prompt": "Payor ID",
+                    "IsRequired": true,
+                    "IsAlphanumeric": true,
+                    "IsCustomList": false,
+                    "IsDate": false,
+                    "IsNumeric": false,
+                    "IsTime": false,
+                    "IsDateTime": false,
+                    "IsActive": true,
+                    "SortOrder": 0,
+                    "FieldLength": 40,
+                    "DefaultValue": null,
+                    "AuxDataFormatCode": "INS",
+                    "AuxDataValue": null,
+                    "AuxDataValueDescription": null,
+                    "ListCode": null
+                }
+            ],
+            "ShowCloseIcon": null,
+            "FormatRequiredFor": null,
+            "FormatRequiredForLabel": null
+        },
+        {
+            "FormatCode": "MXFX",
+            "FormatDescription": "Faxing Preferences",
+            "IsActive": true,
+            "IsSelected": false,
+            "SortCode": 15,
+            "PromptsWithEntries": [
+                {
+                    "FieldNumber": 1,
+                    "Prompt": "Maximum number of docs/fax",
+                    "IsRequired": false,
+                    "IsAlphanumeric": false,
+                    "IsCustomList": false,
+                    "IsDate": false,
+                    "IsNumeric": true,
+                    "IsTime": false,
+                    "IsDateTime": false,
+                    "IsActive": true,
+                    "SortOrder": 0,
+                    "FieldLength": 13,
+                    "DefaultValue": null,
+                    "AuxDataFormatCode": "MXFX",
+                    "AuxDataValue": null,
+                    "AuxDataValueDescription": null,
+                    "ListCode": null
+                },
+                {
+                    "FieldNumber": 2,
+                    "Prompt": "Minutes between transmission",
+                    "IsRequired": false,
+                    "IsAlphanumeric": false,
+                    "IsCustomList": false,
+                    "IsDate": false,
+                    "IsNumeric": true,
+                    "IsTime": false,
+                    "IsDateTime": false,
+                    "IsActive": true,
+                    "SortOrder": 0,
+                    "FieldLength": 13,
+                    "DefaultValue": null,
+                    "AuxDataFormatCode": "MXFX",
+                    "AuxDataValue": null,
+                    "AuxDataValueDescription": null,
+                    "ListCode": null
+                }
+            ],
+            "ShowCloseIcon": null,
+            "FormatRequiredFor": null,
+            "FormatRequiredForLabel": null
+        }
+    ]
+}

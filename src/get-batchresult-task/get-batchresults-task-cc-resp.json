@@ -1,0 +1,67 @@
+{
+    "codes": [
+        {
+            "colorCode": "Black",
+            "isConditionCodeColorized": false,
+            "releaseStatus": "F",
+            "facade": "1",
+            "id": "PM",
+            "text": "Cancel sample, escalate to PM (PM)",
+            "isCustomChoice": false
+        },
+        {
+            "colorCode": "Black",
+            "isConditionCodeColorized": false,
+            "releaseStatus": "X",
+            "facade": "N",
+            "id": "sb",
+            "text": "Test (sb)",
+            "isCustomChoice": false
+        },
+        {
+            "colorCode": "Black",
+            "isConditionCodeColorized": false,
+            "releaseStatus": "X",
+            "facade": "N",
+            "id": "CA",
+            "text": "Cancelled (CA)",
+            "isCustomChoice": false
+        },
+        {
+            "colorCode": "Black",
+            "isConditionCodeColorized": false,
+            "releaseStatus": "F",
+            "facade": "1",
+            "id": "OK",
+            "text": "OK, Continue successful (OK)",
+            "isCustomChoice": false
+        },
+        {
+            "colorCode": "Black",
+            "isConditionCodeColorized": false,
+            "releaseStatus": "X",
+            "facade": "N",
+            "id": "NO",
+            "text": "Problem, Notify PM (NO)",
+            "isCustomChoice": false
+        },
+        {
+            "colorCode": "Black",
+            "isConditionCodeColorized": false,
+            "releaseStatus": "X",
+            "facade": "T",
+            "id": "RR",
+            "text": "Unsuccessful, Rerun (RR)",
+            "isCustomChoice": false
+        },
+        {
+            "colorCode": "Black",
+            "isConditionCodeColorized": false,
+            "releaseStatus": "C",
+            "facade": "M",
+            "id": "ca",
+            "text": "Canceled-release now (ca)",
+            "isCustomChoice": false
+        }
+    ]
+}
